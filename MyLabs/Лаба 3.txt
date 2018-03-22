@@ -1,0 +1,13 @@
+select * from customers where annual_income > (select avg(annual_income) from customers);
+
+select * from customers as c join orders as o on (c.title_customer=o.customer) where home_country like 'R%';
+
+select p1.title_produser, p1.annual_income from produsers as p1, produsers as p2 group by p1.title_produser, p1.annual_income having p1.annual_income>avg(p2.annual_income);
+
+select * from orders where number_of_chips >= 250 order by marking;
+
+select p1, p2 from (select title_produser as p1, home_country  as p2 from produsers) as p where p1='Goldstar';
+
+select marking from chips where capacity in (select capacity from chips where capacity<1024);
+
+select * from chips where cost between 100 and 300 order by cost;

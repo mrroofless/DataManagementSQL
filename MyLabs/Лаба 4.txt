@@ -1,0 +1,79 @@
+CREATE TABLE backup_customers (title_customer varchar(40) not null primary key, home_country varchar(20), date_of_beginning date, number_of_staff int, annual_income int);
+
+delimiter $
+CREATE TRIGGER go_backup before update ON customers FOR EACH ROW BEGIN INSERT INTO backup_customers Set title_customer = OLD.title_customer, home_country=OLD.home_country, date_of_beginning=OLD.date_of_beginning, number_of_staff=OLD.number_of_staff, annual_income=OLD.annual_income; 
+END;
+delimiter ;
+
+update customers set annual_income=annual_income+1;
+select * from customers;
+select * from backup_customers;
+
+
+-----------
+
+create trigger insert_income after insert on customers for each row set @inc=@inc + new.number_of_staff;
+set @inc = 0;
+insert into customers(title_customer, home_country, date_of_beginning, number_of_staff, annual_income) values ('One1', 'Russia', 22/11/2011, 200, 100000);
+select @inc;
+
+-------------
+
+CREATE TABLE mylog (id INT NOT NULL AUTO_INCREMENT, user VARCHAR(20) NOT NULL , query VARCHAR(20) NOT NULL, PRIMARY KEY (id));
+
+CREATE TRIGGER who_delete BEFORE delete ON orders
+FOR EACH ROW INSERT INTO mylog SET user= USER(), query='delete';
+delete orders where execute='yes';
+
+-----------
+
+
+delimiter $
+create function p1 (val int) returns varchar(20) 
+begin 
+select digit_capacity into @a from chips where cost=val;
+return @a;
+end;
+delimiter ;
+
+select p1(100);
+
+
+-----------
+
+delimiter $
+create function p2 (val varchar(20)) returns varchar(20) 
+begin 
+select home_country into @a from produsers where number_of_staff=val;
+return @a;
+end;
+delimiter ;
+
+select p2(5000);
+
+-----------
+
+delimiter $
+create procedure p3 (IN value int)
+begin 
+select @c:=count(*) from orders;
+end;
+delimiter ;
+
+set @c=0;
+call p3(@c);
+
+-------------
+
+delimiter $
+create procedure p4 (IN value varchar(20),OUT val int)
+begin 
+select @c:=number_of_staff from produsers where title_produser=value;
+end;
+delimiter ;
+
+set @c=0;
+call p4('Kingston',@c);
+
+
+
