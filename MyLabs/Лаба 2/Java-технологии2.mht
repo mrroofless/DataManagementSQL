@@ -1,0 +1,2026 @@
+Content-Type: multipart/related; start=<op.mhtml.1330671982354.951c36092c036847@85.143.29.174>; boundary=----------s5j3yFJIaAwrLyyqn2J3uU
+Content-Location: http://www.java-course.ru/students/students.php?name=part3
+Subject: =?utf-8?Q?Java-=D1=82=D0=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D0=B8?=
+MIME-Version: 1.0
+
+------------s5j3yFJIaAwrLyyqn2J3uU
+Content-Disposition: inline; filename=students.htm
+Content-Type: text/html; charset=windows-1251; name=students.htm
+Content-ID: <op.mhtml.1330671982354.951c36092c036847@85.143.29.174>
+Content-Location: http://www.java-course.ru/students/students.php?name=part3
+Content-Transfer-Encoding: 8bit
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+        <link rel="stylesheet" type="text/css" href="../css/javacourse.css" />
+
+        <title>Java-технологии</title>
+    </head>
+
+    <body>
+        <!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter7161052 = new Ya.Metrika({id:7161052,
+                    clickmap:true,
+                    accurateTrackBounce:true});
+        }
+        catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/7161052" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<div class='jc-header'>
+    <table class="jc-table-header">
+        <tbody>
+            <tr>
+                <td><strong><a href="/">О сайте</a></strong></td>
+                <td><strong><a href="/students/students.php">Студенческий отдел кадров</a></strong></td>
+                <td><strong><a href="/articles/articles.php">Статьи</a></strong></td>
+                <td><strong><a href="/courses/courses.php">Курсы по Java</a></strong></td>
+                <td><strong><a href="/sader/index.php">Вопросы/Ответы</a></strong></td>
+                <td><strong><a href="http://vingrad.ru/blogs/AntonSaburov/" target="_blank">Блог</a></strong></td>
+                <td><strong><a href="mailto:AntonSaburov@yandex.ru">email</a></strong></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+        <table width="100%">
+            <tr valign="top">
+                <td style="width: 20%">
+                    <div class='jc-nav'>
+                        <h4>Книга 1 - Начальные сведения</h4>
+<ol>
+    <li>        
+        <a href="students.php?name=intro">Введение</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part1">Используем коллекции</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part2">Пользовательский интерфейс: начало</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part3">База данных</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part4">Пользовательский интерфейс, часть 1</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part5">Пользовательский интерфейс, часть 2</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part6">Пользовательский интерфейс, часть 3</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part7">WEB: что такое Servlet ?</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part8">WEB: что такое JSP ?</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part9">Простое WEB-приложение</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part10">Тестирование с точки зрения разработчика</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part11">Application Server и Enterprise Java Beans</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part12">Application Server и Enterprise Java Beans - копаем вглубь</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part13">"Студенческий отдел кадров" в виде Enterprise-приложения</a><br/>
+    </li>
+</ol>
+<h4>Книга 2 - Более профессиональный подход</h4>
+<ol>
+    <li>        
+        <a href="students.php?name=part14">Схема построения Enterprise-приложения</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part15">Новая структура данных</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part16">Hibernate. Начало пути</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part17">Hibernate. Запись в виде XML-файлов</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part18">Hibernate. Аннотации вместо XML</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part19">Spring. Бизнес-уровень в действии</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part20">Spring. Переходим на Web</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part21">Struts 1.x. Первое знакомство</a><br/>
+    </li>
+</ol>                    </div>
+                </td>
+
+
+                <td width='80%'>
+                    <div class="jc-article">
+                                <p class="copyright" align="right">
+            Студенческий отдел кадров<br/>
+            Пособие по JAVA-технологиям<br/>
+            (с) AntonSaburov<br/>
+        </p>
+        <h3>База данных</h3>
+        <p class="plain">
+            Получив некоторое представление, что существуют такие замечательные структуры как коллекции, Вы
+            наверняка задумались: "Возможно все это здорово, только все эти данные существуют временно -
+            а когда программа завершится, то все исчезнет. Ну и зачем такая нужна ?"<br/>
+            И это замечание вполне справедливо. Конечно же, коллекции для такого рода задач подходят слабо.
+            Так что же делать дальше ? Конечно, большинство из вас знает, что существуют базы данных.
+            Давайте попробуем посмотреть, как можно усовершенствовать нашу систему, используя их.
+        </p>
+        <p class="plain">
+            Прекрасно понимая, что работа с базами данных на сегодня является первостепенной задачей разработчики
+            Java создали специальную технологию - <span class="code-text">JDBC (Java Database Connectivity)</span>.
+            Она позволяет однообразно получать доступ к различным базам данных. Фактически для каждой базы данных
+            существует специальный драйвер, который загружается и используется приложением на Java для доступа к
+            конкретной базе. Но что самое интересное - для программиста работа с различными драйверами практически
+            полностью одинакова, что для MS SQL Server, что для Oracle. В нашем мире хоть какой-то островок
+            стабильности - это уже большое счастье.
+        </p>
+        <p class="plain">
+            Для запуска наших примеров я установил MySQL - он свободен для доступа:
+            <a href="http://dev.mysql.com/downloads/mysql/5.0.html">MySQL 5.0</a><br/>
+            Драйвер JDBC для работы вы можете взять здесь:
+            <a href="http://dev.mysql.com/downloads/connector/j/3.1.html">Download Connector/J 3.1</a><br/>
+            О нем мы обязательно поговорим несколько позже.
+        </p>
+        <p class="plain">
+            <span class="recommend">Рекомендуем:</span> Вам надо ознакомиться с общими понятиями баз данных и
+            <span class="code-text">SQL (Structured Query Language)</span> для понимания этой части.
+            Для самого простого уровня достаточно воспринимать базы данных, как набор таблиц, у которых есть
+            фиксированный набор столбцов и любой количество строк. А <span class="code-text">SQL</span> - это
+            язык, который позволяет получать данные из этих таблиц и модифицировать данные в этих таблицах.
+            Наверняка вы все видели какие-то ведомости, даже расписывались в них. И заметили, что у них обычно
+            есть столбцы с какими либо наименованиями и дальше разлинованные строки, в которые вписываются
+            реальные данные. Так же с точки зрения прикладного программиста (т.е. большинства из нас) выглядят
+            и таблицы в базе данных. Только строки можно добавлять, удалять и модифицировать не зачеркивая -
+            думаю, что многие из вас работали с Excel - так и воспринимайте таблицы в базе данных. Кроме
+            этого учтите, что каждый столбец в базе имеет определенный тип данных. Чаще всего это строки
+            определенной длины, числа (целые, вещественные), даты. Вообщем-то и все.<br/>
+            Бестселлер по SQL - это книга Мартина Грубера "Понимание SQL". Скачать ее похоже можно уже во
+            многих местах сети:<br/>
+            <a href="http://lib.babr.ru/index.php?book=327">http://lib.babr.ru/index.php?book=327</a><br/>
+            <a href="http://zipsites.ru/books/ponimanie_sql/">http://zipsites.ru/books/ponimanie_sql/</a><br/>
+            <a href="http://bookz.ru/authors/martin-gruber/gruber01.html">http://bookz.ru/authors/martin-gruber/gruber01.html</a><br/>
+            Также на форуме Vingrad существует несколько статей по этому вопросу:<br/>
+            <a href="http://vingrad.ru/DB-DB-003022">http://vingrad.ru/DB-DB-003022</a><br/>
+            <a href="http://vingrad.ru/DB-DB-000133">http://vingrad.ru/DB-DB-000133</a><br/>
+        </p>
+        <p class="plain">
+        </p>
+        <p class="plain">
+        </p>
+        <p class="plain">
+            Здесь мы рассмотрим очень простые команды SQL - чтобы просто понимать о чем буджет идти речь в
+            дальнейшем.
+        </p>
+        <p class="plain">
+            <strong>Добавление записи</strong><br/>
+            Выполняется с помощью оператора <span class="code-text">INSERT</span>.
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">INSERT INTO <имя_таблицы> (<имя_поля_1>, <имя_поля_2>, <имя_поля_3>, ...)</span>
+<span class="code-text">VALUES (<величина_поля_1>, <величина_поля_1>, <величина_поля_3>, <величина_поля_3>, ...)</span>
+        </pre>
+        <p class="plain">
+            Думаю, что вы уже догадались что есть что.
+            <ul>
+                <li><имя_таблицы> - имя таблицы в базе данных</li>
+                <li><имя_поля_1> - по сути это заголовок столбца (его имя)</li>
+                <li><величина_поля_1> - это реальное значение поля для новой записи</li>
+            </ul>
+        </p>
+        <p class="plain">
+            Причем заметим, что порядок полей не важен - главное, чтобы было соответствие между порядком
+            в обоих списках полей и величин. Т.е. если я что-то хочу вставить в поле (например
+            <span class="code-text">STUDENT_NAME</span>), которое идет вторым, то и реальная величина должна
+            быть второй.<br/>
+            Также вы можете перечислять не все поля. Те поля, которых нет в списке будут установлены по
+            умолчанию. Это может быть <span class="code-text">NULL</span>(не путайте с 0 - это другое совсем.
+            <span class="code-text">NULL</span> означает отсутствие величины вообще). Также база данных может
+            иметь правила для установки значений полей. Это может быть поле с автоматическим увеличением
+            (счетчик), может быть даже какая-то формула или функция.<br/>
+            Для примера если я хочу добавить новую группу в таблицу STUDENT_GROUP
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">INSERT INTO STUDENT_GROUP (GROUP_NAME, CURATOR, SPECIALITY)</span>
+<span class="code-text">VALUES ("Первая", "Доктор Борменталь", "Делание человеков из собачек")</span>
+        </pre>
+        <p class="plain">
+            <strong>Редактирование записи</strong><br/>
+            Выполняется с помощью оператора <span class="code-text">UPDATE</span>.
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">UPDATE <имя_таблицы> SET <имя_поля_1>=<величина_поля_1>, <имя_поля_2>=<величина_поля_2> ...</span>
+        </pre>
+        <p class="plain">
+            Думаю, что комментарии по именам особо не нужны. Важно отметить вот что - оператор в такой форме
+            произведет изменения ПО ВСЕМ СТРОКАМ в таблице. Конечно же нам такого не хочется - мы хотим делать
+            изменения только для какой-то одной записи. Давайте рассмотрим поначалу синтаксис оператора удаления
+            и после него вернемся к нашей проблеме.
+        </p>
+        <p class="plain">
+            <strong>Удаление записи</strong><br/>
+            Выполняется с помощью оператора <span class="code-text">DELETE</span>.
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">DELETE FROM <имя_таблицы></span>
+        </pre>
+        <p class="plain">
+            И здесь мы натолкнемся на похожую проблему - удаление будет сделано ДЛЯ ВСЕХ ЗАПИСЕЙ таблицы.
+            Т.е. таким опертором мы удалим все данные. Для решения возникшей проблемы нам потребуется рассмотреть
+            два понятия:
+        </p>
+        <p class="plain">
+            <strong>Первое</strong> - это возможность добавлять условия в наши операторы. Условия позволяют
+            указать нам то множество записей, которые мы хотим удалить или отредактировать. Также условия
+            позволяет нам получить ограниченный набор записей, а не все. Чуть позже мы посмотрим синтаксис
+            получения данных. Для удаления и редактирования выглядит это так:
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">UPDATE <имя_таблицы> SET <имя_поля_1>=<величина_поля_1>, <имя_поля_2>=<величина_поля_2> ...</span>
+<span class="code-text">WHERE <условия></span>
+
+<span class="code-text">DELETE FROM <имя_таблицы> WHERE <условия></span>
+        </pre>
+        <p class="plain">
+            После ключевого слово <span class="code-text">WHERE</span> можно поставить какие-либо условия,
+            которые указывают какие именно записи надо изменить/удалить. Условия могут записываться с помощью
+            достаточно понятных выражений - >, <, =, >=, <=, <> (больше, меньше, равно, больши или равно,
+            меньше или равно, не равно). Также Вы можете использовать неколько условия, соединяя их операторами
+            <span class="code-text">AND, OR</span> (и, или).
+        </p>
+        <p class="plain">
+            <strong>Второе</strong> - первичный ключ. Это поле или набор полей, которое (который) уникален
+            для каждой записи. Чаще всего это поле, которое имеет автоматическое увеличение. Кроме того на
+            такое поле накладывается условия уникальности. Т.е. две записи не могут иметь одинаковое значение
+            первичного поля. Много копий сломано в попытках доказать, насколько нужны искусственное введение
+            такого рода полей, но подавляющее большинство программистов используют их. И автор советует делать
+            тоже самое.<br/>
+            И именно эти сображения породили у наших классов <span class="code-text">Student</span> и
+            <span class="code-text">Group</span> поля - <span class="code-text">studentId</span> и
+            <span class="code-text">groupId</span>. В них мы будем хранить уникальные идентификаторы.
+            Теперь, если мы захотим изменить данные какого-либо студента, то будет это выглядеть так:
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">UPDATE STUDENTS SET group_id=2, educationYear=2007 WHERE student_id=10</span>
+        </pre>
+        <p class="plain">
+            Здесь мы для студента с идентификатором 10 установили группу 2 и год обучения в этой группе 2007.
+            Для удаления студента используется такой синтаксис:
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">DELETE FROM STUDENTS WHERE student_id=10</span>
+        </pre>
+        <p class="plain">
+            Как Вы наверно уже догадались можно делать групповые изменения в таблице. Например мы можем
+            удалить всех студентов и группы с ИД 2 и годом обучения 2006.
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">DELETE FROM STUDENTS WHERE group_id=2 AND educationYear=2006</span>
+        </pre>
+        <p class="plain">
+            Также можно одним оператором перевести студентов из группы с ИД 1 и с годом 2006 в группу 2
+            с годом 2007
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">UPDATE STUDENTS SET group_id=2, educationYear=2007 WHERE group_id=1 AND educationYear=2006</span>
+        </pre>
+        <p class="plain">
+            <strong>Выборка записей</strong><br/>
+            Выполянется с помощью оператора <span class="code-text">SELECT</span>. Синтаксис следующий:
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">SELECT <имя_поля_1>, <имя_поля_2>, ... FROM <таблица> WHERE <условия></span>
+        </pre>
+        <p class="plain">
+            Если Вы хотите получить все записи из таблицы, то можно вместо списка полей использовать знак "*".
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">SELECT * FROM <таблица> WHERE <условия></span>
+        </pre>
+        <p class="plain">
+            Поля в принципе могут идти в любом порядке. Хотя чаще всего они передаются в том порядке, в
+            котором они идут в описании таблицы. Но рассчитывать на это не рекомендуется. Для примера получения
+            списка студентов для группы с ИД 1 и годом обучения 2006 мы можем сделать выборку таким образом:
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">SELECT * FROM STIDENTS WHERE group_id=1 AND educationYear=2006</span>
+        </pre>
+        <p class="plain">
+            Также хотелось бы отметить, что одновременно с получением данных Вы можете их отсортировать с
+            помощью команды <span class="code-text">ORDER BY</span>.
+            <span class="code-text">ORDER BY </span> может сортировать как в возрастающем так и возрастающем
+            порядке. Для этого используется модификатор <span class="code-text">DESC</span>.
+        </p>
+        <pre class="code-snippet">
+<span class="code-text">SELECT * FROM STIDENTS WHERE group_id=1 AND educationYear=2006 ORDER BY group_id</span>
+<span class="code-text">SELECT * FROM STIDENTS WHERE group_id=1 AND educationYear=2006 ORDER BY group_id DESC</span>
+        </pre>
+        <p class="plain">
+            Как Вы сами понимаете (а многие из вас уже знают), что SQL гораздо более мощное средство, чем то,
+            что я показал. Он позволяет соеденить данные из нескольких таблиц в один набор данных, причем будет
+            соблюдать всевозможные условия такого соеденения. Вообщем ссылки я вам дал - разбирайтесь :).
+            Цель моего описания - дать в минимальном размере те знания, которые понадобятся
+            для понимания нашего приложения.
+        </p>
+        <h3>Тестовые данные и установка MySQL</h3>
+        <p class="plain">
+            Для установки MySQL не надо предпринимать каких-то очень сложных действий. После запуска инсталляции
+            надо только обратить внимание на следующие моменты:<br/>
+            <ul>
+                <li>Когда установка предложит Вам завести нового пользователя - можно это сделать, но надо
+                    запомнить введенные параметры. В принципе нам этот пользователь не понадобится. Можете выбрать
+                "Skip Sign-Up"</li>
+                <li>Далее Вы можете выбрать все установки по умолчанию. НО НАДО остановиться на экране, где
+                Вас попросят установить поддержку языка. Установите второй пункт из трех - поддержка UTF-8</li>
+                <li>И наконец на экране смены пароля для администратора поставьте пароль
+                    <span class="code-text">root</span>. Все примеры работы с базой рассчитаны на него. Хотя
+                если вам захочется другой - будет повод повозиться еще</li>
+            </ul>
+            После установки MySQL вы можете запустить sql-скрипт, который предназначен для создания таблиц
+            и заполнения их тестовыми данными. Сделать это просто - скопируйте приведенный код в файл
+            <span class="code-text">students.sql</span>, после этого зайдите в каталог
+            <span class="code-text">&lt;MySQL_DIR&gt;/bin</span>. И запустите команду. Само собой файл
+            <span class="code-text">student.sql</span> нужно положить туда же - на время. Хотя я часто прописываю
+            путь в переменной PATH до MySQL - это удобно. Что и Вам советую.
+        </p>
+        <p class="plain">
+            <span class="code-text">mysql -u root -p < students.sql</span>
+        </p>
+        <pre class="code-snippet">
+<span class="sql-keyword">DROP</span> <span class="sql-identifier">DATABASE</span> <span class="sql-keyword">IF</span> <span class="sql-keyword">EXISTS</span> <span class="sql-identifier">students</span>;
+
+<span class="sql-keyword">CREATE</span> <span class="sql-identifier">DATABASE</span> <span class="sql-identifier">students</span> <span class="sql-keyword">DEFAULT</span> <span class="sql-keyword">CHARACTER</span> <span class="sql-keyword">SET</span> <span class="sql-string-literal">&#39;utf8&#39;</span>;
+
+<span class="sql-identifier">USE</span> <span class="sql-identifier">students</span>;
+
+<span class="sql-keyword">create</span> <span class="sql-keyword">table</span> <span class="sql-identifier">groups</span>
+(
+  <span class="sql-identifier">group_id</span> <span class="sql-keyword">int</span> <span class="sql-identifier">unsigned</span> <span class="sql-keyword">not</span> <span class="sql-keyword">null</span> <span class="sql-identifier">a</span><span class="sql-identifier">uto_increment</span>,
+  <span class="sql-identifier">groupName</span> <span class="sql-keyword">varchar</span>(255) <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-identifier">curator</span> <span class="sql-keyword">varchar</span>(255) <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-identifier">speciality</span> <span class="sql-keyword">varchar</span>(255) <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-keyword">primary</span> <span class="sql-keyword">key</span> (<span class="sql-identifier">group_id</span>)
+) <span class="sql-identifier">engine</span>=<span class="sql-identifier">InnoDB</span>;
+
+<span class="sql-keyword">create</span> <span class="sql-keyword">table</span> <span class="sql-identifier">students</span>
+(
+  <span class="sql-identifier">student_id</span> <span class="sql-keyword">int</span> <span class="sql-identifier">unsigned</span> <span class="sql-keyword">not</span> <span class="sql-keyword">null</span> <span class="sql-identifier">auto_increment</span>,
+  <span class="sql-identifier">firstName</span> <span class="sql-keyword">varchar</span>(255) <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-identifier">surName</span> <span class="sql-keyword">varchar</span>(255) <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-identifier">patronymic</span> <span class="sql-keyword">varchar</span>(255) <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-identifier">dateOfBirth</span> <span class="sql-keyword">date</span> <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-identifier">sex</span> <span class="sql-keyword">char</span>(1),
+  <span class="sql-identifier">group_id</span> <span class="sql-keyword">int</span> <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-identifier">educationYear</span> <span class="sql-keyword">int</span> <span class="sql-keyword">not</span> <span class="sql-keyword">null</span>,
+  <span class="sql-keyword">primary</span> <span class="sql-keyword">key</span> (<span class="sql-identifier">student_id</span>)
+) <span class="sql-identifier">engine</span>=<span class="sql-identifier">InnoDB</span>;
+
+<span class="sql-keyword">set</span> <span class="sql-keyword">names</span> <span class="sql-string-literal">&#39;utf8&#39;</span>;
+
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">groups</span> (<span class="sql-identifier">groupName</span>, <span class="sql-identifier">curator</span>, <span class="sql-identifier">speciality</span>) 
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Пер</span><span class="sql-string-literal">вая&#39;</span>, <span class="sql-string-literal">&#39;Доктор Борменталь&#39;</span>, <span class="sql-string-literal">&#39;Создание собачек из человеков&#39;</span>);
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">groups</span> (<span class="sql-identifier">groupName</span>, <span class="sql-identifier">curator</span>, <span class="sql-identifier">speciality</span>) 
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Вторая&#39;</span>, <span class="sql-string-literal">&#39;Профессор Преображенский&#39;</span>, <span class="sql-string-literal">&#39;Создание человеков из собачек</span><span class="sql-string-literal">&#39;</span>);
+
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">students</span> (<span class="sql-identifier">firstName</span>, <span class="sql-identifier">patronymic</span>, <span class="sql-identifier">surName</span>, <span class="sql-identifier">sex</span>, <span class="sql-identifier">dateOfBirth</span>, <span class="sql-identifier">group_id</span>, <span class="sql-identifier">educationYear</span>)
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Иван&#39;</span>, <span class="sql-string-literal">&#39;Сергеевич&#39;</span>, <span class="sql-string-literal">&#39;</span><span class="sql-string-literal">Степанов&#39;</span>, <span class="sql-string-literal">&#39;М&#39;</span>, <span class="sql-string-literal">&#39;1990-03-20&#39;</span>, 1, 2006);
+
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">students</span> (<span class="sql-identifier">firstName</span>, <span class="sql-identifier">patronymic</span>, <span class="sql-identifier">surName</span>, <span class="sql-identifier">sex</span>, <span class="sql-identifier">dateOfBirth</span>, <span class="sql-identifier">group_id</span>, <span class="sql-identifier">educationYear</span>)
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Наталья&#39;</span>, <span class="sql-string-literal">&#39;Андреевна&#39;</span>, <span class="sql-string-literal">&#39;Чичикова&#39;</span>, <span class="sql-string-literal">&#39;Ж&#39;</span>, <span class="sql-string-literal">&#39;1990-06-10&#39;</span>, 1, 2006);
+
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">students</span> (<span class="sql-identifier">firstName</span>, <span class="sql-identifier">patronymic</span>, <span class="sql-identifier">surName</span>, <span class="sql-identifier">sex</span>, <span class="sql-identifier">dateOfBirth</span>, <span class="sql-identifier">group_id</span>, <span class="sql-identifier">educationYear</span>)
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Виктор&#39;</span>, <span class="sql-string-literal">&#39;Сидорович&#39;</span>, <span class="sql-string-literal">&#39;Белов&#39;</span>, <span class="sql-string-literal">&#39;М&#39;</span>, <span class="sql-string-literal">&#39;1990-01-10&#39;</span>, 1, 2006);
+
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">students</span> (<span class="sql-identifier">firstName</span>, <span class="sql-identifier">patronymic</span>, <span class="sql-identifier">surName</span>, <span class="sql-identifier">sex</span>, <span class="sql-identifier">dateOfBirth</span>, <span class="sql-identifier">group_id</span>, <span class="sql-identifier">educationYear</span>)
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Петр&#39;</span>, <span class="sql-string-literal">&#39;Викторович&#39;</span>, <span class="sql-string-literal">&#39;Сушкин&#39;</span>, <span class="sql-string-literal">&#39;М&#39;</span>, <span class="sql-string-literal">&#39;1991-03-12&#39;</span>, 2, 2006);
+
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">students</span> (<span class="sql-identifier">firstName</span>, <span class="sql-identifier">patronymic</span>, <span class="sql-identifier">surName</span>, <span class="sql-identifier">sex</span>, <span class="sql-identifier">dateOfBirth</span>, <span class="sql-identifier">group_id</span>, <span class="sql-identifier">educationYear</span>)
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Вероника&#39;</span>, <span class="sql-string-literal">&#39;Сергеевна</span><span class="sql-string-literal">&#39;</span>, <span class="sql-string-literal">&#39;Ковалева&#39;</span>, <span class="sql-string-literal">&#39;Ж&#39;</span>, <span class="sql-string-literal">&#39;1991-07-19&#39;</span>, 2, 2006);
+
+<span class="sql-keyword">insert</span> <span class="sql-keyword">into</span> <span class="sql-identifier">students</span> (<span class="sql-identifier">firstName</span>, <span class="sql-identifier">patronymic</span>, <span class="sql-identifier">surName</span>, <span class="sql-identifier">sex</span>, <span class="sql-identifier">dateOfBirth</span>, <span class="sql-identifier">group_id</span>, <span class="sql-identifier">educationYear</span>)
+<span class="sql-keyword">values</span> (<span class="sql-string-literal">&#39;Ирина&#39;</span>, <span class="sql-string-literal">&#39;Федоровна&#39;</span>, <span class="sql-string-literal">&#39;Истомина&#39;</span>, <span class="sql-string-literal">&#39;Ж&#39;</span>, <span class="sql-string-literal">&#39;1991-04-29&#39;</span>, 2, 2006);
+        </pre>
+        <p class="plain">
+            Как видите в конце мы использовали операторы вставки для заполнения нашей базы данных некоторыми
+            данными. В первой части мы создавали таблицы с помощью команд
+            <span class="code-text">CREATE TABLE</span>. Первая строка <span class="code-text">DROP DATABASE
+            IF EXISTS students</span> уничтожит базу данных <span class="code-text">students</span>, если
+            такая существует. Здесь хотелось бы обратить внимание на строки
+        </p>
+        <pre class="code-snippet">
+create table groups
+(
+  group_id int unsigned not null auto_increment,
+
+  ...
+
+create table students
+(
+  student_id int unsigned not null auto_increment,
+        </pre>
+        <p class="plain">
+            Поля для ИД групп и студентов содержат понятие <span class="code-text">auto_increment</span>.
+            Это значит, что данные поля не подлежат редактированию и, что очень важно, при вставке новой
+            записи они будут увеличивать свое значение автоматически. Т.е. каждый новый студент или группа
+            получат ИД без наших усилий. Что очень удобно.<br/>
+            <strong>ВАЖНО!!!</strong> Не забивайте себе голову вопросами - "если я удалю какое-то поле, то как
+            бы мне использовать пробелы (дырки) между ИД". Это не стоит Вашего внимания. Пусть будут провалы
+            в нумерации. В этом ничего страшного нет. Думайте об этом как о случайном числе. Ведь если бы
+            число генерилось вообще случайно в диапазоне от 0 до 4 млрд нам было бы не важно, что есть пробелы.
+            Так вот и не заморачивайтесь.<br/>
+            Если Вы хотите что-то поменять сами, то запустите клиентское приложение
+            <span class="code-text">mysql.exe</span> - с его помощью Вы сможете выполнять различные запросы.
+        </p>
+        <h3>Работа с драйвером JDBC</h3>
+        <p class="plain">
+            Каждая база данных должна отдавать свои данные наружу - пользователям. Передача данных от сервера
+            клиентскому приложению производится по определенным правилам (определенному протоколу), который
+            для каждого производителя может быть свой. Для того, чтобы программисту не влезать во все эти
+            дебри производитель базы данных разрабатывает драйвера для общения со свой базой данных. Для Java
+            это JDBC-драйвера. Самое главное, что для Java-программиста НЕ ВАЖНО, к какому серверу он
+            подключается. Работа с драйвером будет всегда одинакова. Таким образом единственное, что может
+            помешать легкому перенесению базы данных с SQL-сервера одного производителя на другой - это
+            особенности самих SQL-запросов. Если же они у вас не очень сложные и подчиняются стандартам, то
+            скорее всего перенос не будет проблематичным. Рассмотрим простой пример взаимодействия с базой данных.
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">import</span> java.io.FileNotFoundException;
+<span class="keyword-directive">import</span> java.io.PrintStream;
+<span class="keyword-directive">import</span> java.io.UnsupportedEncodingException;
+<span class="keyword-directive">import</span> java.sql.Connection;
+<span class="keyword-directive">import</span> java.sql.DriverManager;
+<span class="keyword-directive">import</span> java.sql.ResultSet;
+<span class="keyword-directive">import</span> java.sql.SQLException;
+<span class="keyword-directive">import</span> java.sql.Statement;
+
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> TestJDBC {
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> main(String args[]) {
+        <span class="comment">// Снова используем файл для вывода из-за кодировки</span>
+        <span class="keyword-directive">try</span> {
+            System.setOut(<span class="keyword-directive">new</span> PrintStream(<span class="character">&quot;</span><span class="character">out.txt</span><span class="character">&quot;</span>));
+        } <span class="keyword-directive">catch</span> (FileNotFoundException ex) {
+            ex.printStackTrace();
+            <span class="keyword-directive">return</span>;
+        }
+
+        System.out.println(<span class="character">&quot;</span><span class="character">Copyright 2009, Anton Saburov</span><span class="character">&quot;</span>);
+        Connection con = <span class="keyword-directive">null</span>;
+        Statement stmt = <span class="keyword-directive">null</span>;
+        ResultSet rs = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            Class.forName(<span class="character">&quot;</span><span class="character">com.mysql.jdbc.Driver</span><span class="character">&quot;</span>);
+            String url = <span class="character">&quot;</span><span class="character">jdbc:mysql://localhost:3306/students</span><span class="character">&quot;</span>;
+            con = DriverManager.getConnection(url, <span class="character">&quot;</span><span class="character">root</span><span class="character">&quot;</span>, <span class="character">&quot;</span><span class="character">root</span><span class="character">&quot;</span>);
+            stmt = con.createStatement();
+            rs = stmt.executeQuery(<span class="character">&quot;</span><span class="character">SELECT * FROM students</span><span class="character">&quot;</span>);
+            <span class="keyword-directive">while</span> (rs.next()) {
+                String str = rs.getString(1) + <span class="character">&quot;</span><span class="character">:</span><span class="character">&quot;</span> + rs.getString(2);
+                printString(str);
+            }
+        } <span class="keyword-directive">catch</span> (Exception e) {
+            e.printStackTrace();
+        } <span class="keyword-directive">finally</span> {
+            <span class="comment">// Эта часть позволяет нам закрыть все открытые ресуры</span>
+            <span class="comment">// В противном случае возмжожны проблемы. Поэтому будьте</span>
+            <span class="comment">// всегда аккуратны при работе с коннектами</span>
+            <span class="keyword-directive">try</span> {
+                <span class="keyword-directive">if</span> (rs != <span class="keyword-directive">null</span>) {
+                    rs.close();
+                }
+                <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                    stmt.close();
+                }
+                <span class="keyword-directive">if</span> (con != <span class="keyword-directive">null</span>) {
+                    con.close();
+                }
+            } <span class="keyword-directive">catch</span> (SQLException ex) {
+                ex.printStackTrace();
+                System.err.println(<span class="character">&quot;</span><span class="character">Error: </span><span class="character">&quot;</span> + ex.getMessage());
+            }
+       }
+    }
+
+    <span class="comment">// Снова используем этот метод для вывода из-за кодировки</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> printString(Object s) {
+        <span class="keyword-directive">try</span> {
+            System.out.println(<span class="keyword-directive">new</span> String(s.toString().getBytes(<span class="character">&quot;</span><span class="character">windows-1251</span><span class="character">&quot;</span>), <span class="character">&quot;</span><span class="character">windows-1252</span><span class="character">&quot;</span>));
+        } <span class="keyword-directive">catch</span> (UnsupportedEncodingException ex) {
+            ex.printStackTrace();
+        }
+    }
+
+}
+        </pre>
+        <p class="plain">
+            Давайте подробно рассмотрим, что же мы делаем.<br/>
+            Во-первых обратите внимание, что большинство операция для работы с базой данных вызывают исключения,
+            поэтому мы используем конструкцию <span class="code-text">try ... catch</span>. Более верно было
+            бы обрабатывать не все исключения в одном <span class="code-text">catch</span>, а обработать каждое
+            конкретное исключение отдельно. Кроме этого мы использовали блок
+            <span class="code-text">finally</span> для закрытия соеденений к базе данных. Если это не делать,
+            то может возникнуть неприятная ситуация, когда коннектов больше получить не удастся. Так что будьте
+            внимательны.<br/>
+            Итак: В первой строке мы загружаем класс драйвера -
+            <span class="code-text">Class.forName("com.mysql.jdbc.Driver")</span>.
+            Вторая строка - задаем URL который описывает "путь" до базы данных. Первая часть строки задает тип
+            драйвера JDBC и сервер базы данных. Потом идет хост и порт (в нашем случае это локальный сервер на
+            нашей машине и порт для MySQL по умолчанию) и имя базы данных, к которой мы подключаемся. Для другого
+            сервера (например для Oracle) строка будет иной (для более подробной информации о формате URL для
+            конкретного сервера баз данных Вам надо обратиться к документации по конкретному JDBC).<br/>
+            Далее мы осуществляем подключение к базе данных, указывая URL, имя пользователя и пароль. В нашем
+            случае заходим пользователем root (что не является хорошим правилом - лучше всегда заводить другого
+            пользователя и давать ему определенные права). Этой строкой мы "открыли дверь" в наш серевер. Теперь
+            мы можем посылать ему команды и получать результат исполнения.
+        </p>
+        <p class="plain">
+            Эта строка создает запрос, который мы будем посылать на сервер<br/>
+            <span class="code-text">Statement stmt = con.createStatement();</span><br/>
+            <br/>
+            <span class="code-text">ResultSet rs = stmt.executeQuery("SELECT * FROM students");</span><br/>
+            Эта строка выполняет наш запрос получая в ответ таблицу (набор строк и столбцов). Объект
+            класса <span class="code-text">ResultSet</span> позволяет пройти по всему возвращенному набору и
+            распечатать. Для этого мы используем цикл в котором проверяем с помощью вызова
+            <span class="code-text">rs.next()</span> есть ли еще записи. Если они там еще есть - печатаем.
+            Если кончились, то цикл завершается.<br/>
+            После этого мы закрываем набор данных <span class="code-text">ResultSet</span> и запрос - тем самым
+            освобождая ресурсы. Если Вы выполняете один запрос, после которого закрываете коннект к базе, то
+            закрывать <span class="code-text">ResultSet</span> и <span class="code-text">Statement</span> не
+            обязательно - они закроются автоматически. Но если Вы делаете много запросов внутри одного коннекта -
+            закрывайте обязательно. Ну и в конце мы закрываем непосредственно сам коннект к базе.
+            Все достаточно просто.
+        </p>
+        <p class="plain">
+            Мы рассмотрели пример, когда нам необходимо получить данные. В случае, если нам надо просто
+            произвести изменения, то для этого существует вызов <span class="code-text">executeUpdate</span>.
+            Подробнее о вызовах можно посмотреть в документации по Java API. Сборка данного примера не требует
+            дополнительных библиотек и можно его собрать командой
+        </p>
+        <p class="plain">
+            <span class="code-text">javac TestJDBC.java</span>
+        </p>
+        <p class="plain">
+            А вот для запуска на потребуется подключить драйвер. Обычно драйвер JDBC представляет из себя
+            набор классов в JAR (Java Archive), который надо просто подключить через CLASSPATH. Например,
+            если драйвер находится в файле <span class="code-text">mysql-connector-java-3.1.13-bin.jar</span>,
+            то командная строка для запуска будет выглядеть вот так
+        </p>
+        <p class="plain">
+            <span class="code-text">java -cp .;mysql-connector-java-3.1.13-bin.jar TestJDBC</span>
+        </p>
+        <p class="plain">
+            Теперь мы с вами изменим нашу систему получения данных - <span class="code-text">ManagementSystem</span>.
+            Т.к. коннект к базе нам будет нужен постоянно, то создадим его один раз и будем использовать везде. Все
+            остальные команды рассмотрим прямо в коде нашего класса <span class="code-text">ManagementSystem</span>.
+            Прошу обратить внимание, что у нас появились дополнения во многих методах - теперь они порождают
+            исключение <span class="code-text">SQLException</span>.<br/>
+            Наверняка Вы обрабтите внимание на класс <span class="code-text">PreparedStatement</span>. Этот класс
+            явялеся рассширением обычного <span class="code-text">Statement</span>, но добавляет возможности
+            задавать параметры. Т.е. вы задаете запрос, в котором можете изменять какие-либо величины. Это
+            бывает удобно, когда запрос должен выполняться много раз. В этом случае запрос уже предварительно
+            готовится к выполнению, что ускоряет процесс. Мы также изменили класс
+            <span class="code-text">Student.java</span>. В нем появился конструктор, который запоняет поля из
+            <span class="code-text">ResultSet</span>. Это просто удобно. И еще мы добавили обработку ошибки при
+            получении списков в классе <span class="code-text">StudentsFrame</span>. А теперь все классы, которые
+            у нас теперь есть
+        </p>
+        <p class="plain">
+            <span class="code-text">Student.java</span>
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.logic;
+
+<span class="keyword-directive">import</span> java.text.DateFormat;
+<span class="keyword-directive">import</span> java.sql.ResultSet;
+<span class="keyword-directive">import</span> java.sql.SQLException;
+<span class="keyword-directive">import</span> java.text.Collator;
+<span class="keyword-directive">import</span> java.util.Date;
+<span class="keyword-directive">import</span> java.util.Locale;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> Student <span class="keyword-directive">implements</span> Comparable {
+
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> studentId;
+    <span class="keyword-directive">private</span> String firstName;
+    <span class="keyword-directive">private</span> String surName;
+    <span class="keyword-directive">private</span> String patronymic;
+    <span class="keyword-directive">private</span> Date dateOfBirth;
+    <span class="keyword-directive">private</span> <span class="keyword-directive">char</span> sex;
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> groupId;
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> educationYear;
+
+    <span class="keyword-directive">public</span> Student(ResultSet rs) <span class="keyword-directive">throws</span> SQLException {
+        setStudentId(rs.getInt(1));
+        setFirstName(rs.getString(2));
+        setPatronymic(rs.getString(3));
+        setSurName(rs.getString(4));
+        setSex(rs.getString(5).charAt(0));
+        setDateOfBirth(rs.getDate(6));
+        setGroupId(rs.getInt(7));
+        setEducationYear(rs.getInt(8));
+    }
+
+    <span class="keyword-directive">public</span> Date getDateOfBirth() {
+        <span class="keyword-directive">return</span> dateOfBirth;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setDateOfBirth(Date dateOfBirth) {
+        <span class="keyword-directive">this</span>.dateOfBirth = dateOfBirth;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getEducationYear() {
+        <span class="keyword-directive">return</span> educationYear;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setEducationYear(<span class="keyword-directive">int</span> educationYear) {
+        <span class="keyword-directive">this</span>.educationYear = educationYear;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getGroupId() {
+        <span class="keyword-directive">return</span> groupId;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setGroupId(<span class="keyword-directive">int</span> groupId) {
+        <span class="keyword-directive">this</span>.groupId = groupId;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getStudentId() {
+        <span class="keyword-directive">return</span> studentId;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setStudentId(<span class="keyword-directive">int</span> studentId) {
+        <span class="keyword-directive">this</span>.studentId = studentId;
+    }
+
+    <span class="keyword-directive">public</span> String getFirstName() {
+        <span class="keyword-directive">return</span> firstName;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setFirstName(String firstName) {
+        <span class="keyword-directive">this</span>.firstName = firstName;
+    }
+
+    <span class="keyword-directive">public</span> String getPatronymic() {
+        <span class="keyword-directive">return</span> patronymic;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setPatronymic(String patronymic) {
+        <span class="keyword-directive">this</span>.patronymic = patronymic;
+    }
+
+    <span class="keyword-directive">public</span> String getSurName() {
+        <span class="keyword-directive">return</span> surName;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setSurName(String surName) {
+        <span class="keyword-directive">this</span>.surName = surName;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">char</span> getSex() {
+        <span class="keyword-directive">return</span> sex;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setSex(<span class="keyword-directive">char</span> sex) {
+        <span class="keyword-directive">this</span>.sex = sex;
+    }
+
+    <span class="keyword-directive">public</span> String toString() {
+        <span class="keyword-directive">return</span> surName + <span class="character">&quot;</span> <span class="character">&quot;</span> + firstName + <span class="character">&quot;</span> <span class="character">&quot;</span> + patronymic + <span class="character">&quot;</span><span class="character">, </span><span class="character">&quot;</span>
+                + DateFormat.getDateInstance(DateFormat.SHORT).format(dateOfBirth)
+                + <span class="character">&quot;</span><span class="character">, Группа ИД=</span><span class="character">&quot;</span> + groupId + <span class="character">&quot;</span><span class="character"> Год:</span><span class="character">&quot;</span> + educationYear;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> compareTo(Object obj) {
+        Collator c = Collator.getInstance(<span class="keyword-directive">new</span> Locale(<span class="character">&quot;</span><span class="character">ru</span><span class="character">&quot;</span>));
+        c.setStrength(Collator.PRIMARY);
+        <span class="keyword-directive">return</span> c.compare(<span class="keyword-directive">this</span>.toString(), obj.toString());
+    }
+}
+        </pre>
+        <p class="plain">
+            <span class="code-text">Group.java</span>
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.logic;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> Group {
+
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> groupId;
+    <span class="keyword-directive">private</span> String nameGroup;
+    <span class="keyword-directive">private</span> String curator;
+    <span class="keyword-directive">private</span> String speciality;
+
+    <span class="keyword-directive">public</span> String getCurator() {
+        <span class="keyword-directive">return</span> curator;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setCurator(String curator) {
+        <span class="keyword-directive">this</span>.curator = curator;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getGroupId() {
+        <span class="keyword-directive">return</span> groupId;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setGroupId(<span class="keyword-directive">int</span> groupId) {
+        <span class="keyword-directive">this</span>.groupId = groupId;
+    }
+
+    <span class="keyword-directive">public</span> String getNameGroup() {
+        <span class="keyword-directive">return</span> nameGroup;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setNameGroup(String nameGroup) {
+        <span class="keyword-directive">this</span>.nameGroup = nameGroup;
+    }
+
+    <span class="keyword-directive">public</span> String getSpeciality() {
+        <span class="keyword-directive">return</span> speciality;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setSpeciality(String speciality) {
+        <span class="keyword-directive">this</span>.speciality = speciality;
+    }
+
+    <span class="keyword-directive">public</span> String toString() {
+        <span class="keyword-directive">return</span> nameGroup;
+    }
+}
+        </pre>
+        <p class="plain">
+            <span class="code-text">ManagementSystem.java</span>
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.logic;
+
+<span class="keyword-directive">import</span> java.sql.Connection;
+<span class="keyword-directive">import</span> java.sql.Date;
+<span class="keyword-directive">import</span> java.sql.DriverManager;
+<span class="keyword-directive">import</span> java.sql.PreparedStatement;
+<span class="keyword-directive">import</span> java.sql.ResultSet;
+<span class="keyword-directive">import</span> java.sql.SQLException;
+<span class="keyword-directive">import</span> java.sql.Statement;
+<span class="keyword-directive">import</span> java.util.ArrayList;
+<span class="keyword-directive">import</span> java.util.Collection;
+<span class="keyword-directive">import</span> java.util.List;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> ManagementSystem {
+
+    <span class="keyword-directive">private</span> <span class="keyword-directive">static</span> Connection con;
+    <span class="keyword-directive">private</span> <span class="keyword-directive">static</span> ManagementSystem instance;
+
+    <span class="keyword-directive">private</span> ManagementSystem() <span class="keyword-directive">throws</span> Exception {
+        <span class="keyword-directive">try</span> {
+            Class.forName(<span class="character">&quot;</span><span class="character">com.mysql.jdbc.Driver</span><span class="character">&quot;</span>);
+            String url = <span class="character">&quot;</span><span class="character">jdbc:mysql://localhost:3306/students</span><span class="character">&quot;</span>;
+            con = DriverManager.getConnection(url, <span class="character">&quot;</span><span class="character">root</span><span class="character">&quot;</span>, <span class="character">&quot;</span><span class="character">root</span><span class="character">&quot;</span>);
+        } <span class="keyword-directive">catch</span> (ClassNotFoundException e) {
+            <span class="keyword-directive">throw</span> <span class="keyword-directive">new</span> Exception(e);
+        } <span class="keyword-directive">catch</span> (SQLException e) {
+            <span class="keyword-directive">throw</span> <span class="keyword-directive">new</span> Exception(e);
+        }
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">synchronized</span> ManagementSystem getInstance() <span class="keyword-directive">throws</span> Exception {
+        <span class="keyword-directive">if</span> (instance == <span class="keyword-directive">null</span>) {
+            instance = <span class="keyword-directive">new</span> ManagementSystem();
+        }
+        <span class="keyword-directive">return</span> instance;
+    }
+
+    <span class="keyword-directive">public</span> List&lt;Group&gt; getGroups() <span class="keyword-directive">throws</span> SQLException {
+        List&lt;Group&gt; groups = <span class="keyword-directive">new</span> ArrayList&lt;Group&gt;();
+
+        Statement stmt = <span class="keyword-directive">null</span>;
+        ResultSet rs = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.createStatement();
+            rs = stmt.executeQuery(<span class="character">&quot;</span><span class="character">SELECT group_id, groupName, curator, speciality FROM groups</span><span class="character">&quot;</span>);
+            <span class="keyword-directive">while</span> (rs.next()) {
+                Group gr = <span class="keyword-directive">new</span> Group();
+                gr.setGroupId(rs.getInt(1));
+                gr.setNameGroup(rs.getString(2));
+                gr.setCurator(rs.getString(3));
+                gr.setSpeciality(rs.getString(4));
+
+                groups.add(gr);
+            }
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (rs != <span class="keyword-directive">null</span>) {
+                rs.close();
+            }
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+        <span class="keyword-directive">return</span> groups;
+    }
+
+    <span class="keyword-directive">public</span> Collection&lt;Student&gt; getAllStudents() <span class="keyword-directive">throws</span> SQLException {
+        Collection&lt;Student&gt; students = <span class="keyword-directive">new</span> ArrayList&lt;Student&gt;();
+
+        Statement stmt = <span class="keyword-directive">null</span>;
+        ResultSet rs = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.createStatement();
+            rs = stmt.executeQuery(
+                    <span class="character">&quot;</span><span class="character">SELECT student_id, firstName, patronymic, surName, </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">sex, dateOfBirth, group_id, educationYear FROM students </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">ORDER BY surName, firstName, patronymic</span><span class="character">&quot;</span>);
+            <span class="keyword-directive">while</span> (rs.next()) {
+                Student st = <span class="keyword-directive">new</span> Student(rs);
+                students.add(st);
+            }
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (rs != <span class="keyword-directive">null</span>) {
+                rs.close();
+            }
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+
+        <span class="keyword-directive">return</span> students;
+    }
+
+    <span class="keyword-directive">public</span> Collection&lt;Student&gt; getStudentsFromGroup(Group group, <span class="keyword-directive">int</span> year) <span class="keyword-directive">throws</span> SQLException {
+        Collection&lt;Student&gt; students = <span class="keyword-directive">new</span> ArrayList&lt;Student&gt;();
+
+        PreparedStatement stmt = <span class="keyword-directive">null</span>;
+        ResultSet rs = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.prepareStatement(
+                    <span class="character">&quot;</span><span class="character">SELECT student_id, firstName, patronymic, surName, </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">sex, dateOfBirth, group_id, educationYear FROM students </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">WHERE group_id=? AND educationYear=? </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">ORDER BY surName, firstName, patronymic</span><span class="character">&quot;</span>);
+            stmt.setInt(1, group.getGroupId());
+            stmt.setInt(2, year);
+            rs = stmt.executeQuery();
+            <span class="keyword-directive">while</span> (rs.next()) {
+                Student st = <span class="keyword-directive">new</span> Student(rs);
+
+                students.add(st);
+            }
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (rs != <span class="keyword-directive">null</span>) {
+                rs.close();
+            }
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+
+        <span class="keyword-directive">return</span> students;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> moveStudentsToGroup(Group oldGroup, <span class="keyword-directive">int</span> oldYear, Group newGroup, <span class="keyword-directive">int</span> newYear) <span class="keyword-directive">throws</span> SQLException {
+        PreparedStatement stmt = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.prepareStatement(
+                    <span class="character">&quot;</span><span class="character">UPDATE students SET group_id=?, educationYear=? </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">WHERE group_id=? AND educationYear=?</span><span class="character">&quot;</span>);
+            stmt.setInt(1, newGroup.getGroupId());
+            stmt.setInt(2, newYear);
+            stmt.setInt(3, oldGroup.getGroupId());
+            stmt.setInt(4, oldYear);
+            stmt.execute();
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> removeStudentsFromGroup(Group group, <span class="keyword-directive">int</span> year) <span class="keyword-directive">throws</span> SQLException {
+        PreparedStatement stmt = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.prepareStatement(
+                    <span class="character">&quot;</span><span class="character">DELETE FROM students WHERE group_id=? AND educationYear=?</span><span class="character">&quot;</span>);
+            stmt.setInt(1, group.getGroupId());
+            stmt.setInt(2, year);
+            stmt.execute();
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> insertStudent(Student student) <span class="keyword-directive">throws</span> SQLException {
+        PreparedStatement stmt = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.prepareStatement(
+                    <span class="character">&quot;</span><span class="character">INSERT INTO students </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">(firstName, patronymic, surName, sex, dateOfBirth, group_id, educationYear) </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">VALUES (?, ?, ?, ?, ?, ?, ?)</span><span class="character">&quot;</span>);
+            stmt.setString(1, student.getFirstName());
+            stmt.setString(2, student.getPatronymic());
+            stmt.setString(3, student.getSurName());
+            stmt.setString(4, <span class="keyword-directive">new</span> String(<span class="keyword-directive">new</span> <span class="keyword-directive">char</span>[]{student.getSex()}));
+            stmt.setDate(5, <span class="keyword-directive">new</span> Date(student.getDateOfBirth().getTime()));
+            stmt.setInt(6, student.getGroupId());
+            stmt.setInt(7, student.getEducationYear());
+            stmt.execute();
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> updateStudent(Student student) <span class="keyword-directive">throws</span> SQLException {
+        PreparedStatement stmt = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.prepareStatement(
+                    <span class="character">&quot;</span><span class="character">UPDATE students SET </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">firstName=?, patronymic=?, surName=?, </span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">sex=?, dateOfBirth=?, group_id=?, educationYear=?</span><span class="character">&quot;</span> +
+                    <span class="character">&quot;</span><span class="character">WHERE student_id=?</span><span class="character">&quot;</span>);
+            stmt.setString(1, student.getFirstName());
+            stmt.setString(2, student.getPatronymic());
+            stmt.setString(3, student.getSurName());
+            stmt.setString(4, <span class="keyword-directive">new</span> String(<span class="keyword-directive">new</span> <span class="keyword-directive">char</span>[]{student.getSex()}));
+            stmt.setDate(5, <span class="keyword-directive">new</span> Date(student.getDateOfBirth().getTime()));
+            stmt.setInt(6, student.getGroupId());
+            stmt.setInt(7, student.getEducationYear());
+            stmt.setInt(8, student.getStudentId());
+            stmt.execute();
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> deleteStudent(Student student) <span class="keyword-directive">throws</span> SQLException {
+        PreparedStatement stmt = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">try</span> {
+            stmt = con.prepareStatement(
+                    <span class="character">&quot;</span><span class="character">DELETE FROM students WHERE student_id=?</span><span class="character">&quot;</span>);
+            stmt.setInt(1, student.getStudentId());
+            stmt.execute();
+        } <span class="keyword-directive">finally</span> {
+            <span class="keyword-directive">if</span> (stmt != <span class="keyword-directive">null</span>) {
+                stmt.close();
+            }
+        }
+    }
+}
+        </pre>
+        <p class="plain">
+            <span class="code-text">StudentsFrame.java</span>
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.frame;
+
+<span class="keyword-directive">import</span> java.util.Vector;
+
+<span class="keyword-directive">import</span> java.awt.FlowLayout;
+<span class="keyword-directive">import</span> java.awt.BorderLayout;
+
+<span class="keyword-directive">import</span> javax.swing.JFrame;
+<span class="keyword-directive">import</span> javax.swing.JLabel;
+<span class="keyword-directive">import</span> javax.swing.JList;
+<span class="keyword-directive">import</span> javax.swing.JPanel;
+<span class="keyword-directive">import</span> javax.swing.JScrollPane;
+
+<span class="keyword-directive">import</span> javax.swing.JSpinner;
+<span class="keyword-directive">import</span> javax.swing.SpinnerModel;
+<span class="keyword-directive">import</span> javax.swing.SpinnerNumberModel;
+<span class="keyword-directive">import</span> javax.swing.SwingUtilities;
+<span class="keyword-directive">import</span> javax.swing.border.BevelBorder;
+
+<span class="keyword-directive">import</span> students.logic.Group;
+<span class="keyword-directive">import</span> students.logic.ManagementSystem;
+<span class="keyword-directive">import</span> students.logic.Student;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> StudentsFrame <span class="keyword-directive">extends</span> JFrame {
+
+    ManagementSystem ms = <span class="keyword-directive">null</span>;
+    <span class="keyword-directive">private</span> JList grpList;
+    <span class="keyword-directive">private</span> JList stdList;
+    <span class="keyword-directive">private</span> JSpinner spYear;
+
+    <span class="keyword-directive">public</span> StudentsFrame() <span class="keyword-directive">throws</span> Exception {
+        <span class="comment">// Устанавливаем layout для всей клиентской части формы</span>
+        getContentPane().setLayout(<span class="keyword-directive">new</span> BorderLayout());
+
+        <span class="comment">// Создаем верхнюю панел, где будет поле для ввода года</span>
+        JPanel top = <span class="keyword-directive">new</span> JPanel();
+        <span class="comment">// Устанавливаем для нее layout</span>
+        top.setLayout(<span class="keyword-directive">new</span> FlowLayout(FlowLayout.LEFT));
+
+        <span class="comment">// Вставляем пояснительную надпись</span>
+        top.add(<span class="keyword-directive">new</span> JLabel(<span class="character">&quot;</span><span class="character">Год обучения:</span><span class="character">&quot;</span>));
+        <span class="comment">// Делаем спин-поле</span>
+        <span class="comment">//   1. Задаем модель поведения - только цифры</span>
+        <span class="comment">//   2. Вставляем в панель</span>
+        SpinnerModel sm = <span class="keyword-directive">new</span> SpinnerNumberModel(2006, 1900, 2100, 1);
+        spYear = <span class="keyword-directive">new</span> JSpinner(sm);
+        top.add(spYear);
+
+        <span class="comment">// Создаем нижнюю панель и задаем ей layout</span>
+        JPanel bot = <span class="keyword-directive">new</span> JPanel();
+        bot.setLayout(<span class="keyword-directive">new</span> BorderLayout());
+
+        <span class="comment">// Создаем левую панель для вывода списка групп</span>
+        JPanel left = <span class="keyword-directive">new</span> JPanel();
+        <span class="comment">// Задаем layout и задаем &quot;бордюр&quot; вокруг панели</span>
+        left.setLayout(<span class="keyword-directive">new</span> BorderLayout());
+        left.setBorder(<span class="keyword-directive">new</span> BevelBorder(BevelBorder.RAISED));
+
+        <span class="comment">// Нам необходимо обработать ошибку при обращении к базе данных</span>
+        Vector gr = <span class="keyword-directive">null</span>;
+        Vector st = <span class="keyword-directive">null</span>;
+        <span class="comment">// Попробуем получить коннект к базе данных</span>
+        ms = ManagementSystem.getInstance();
+        <span class="comment">// Получаем список групп</span>
+        gr = <span class="keyword-directive">new</span> Vector&lt;Group&gt;(ms.getGroups());
+        <span class="comment">// Получаем список студентов</span>
+        st = <span class="keyword-directive">new</span> Vector&lt;Student&gt;(ms.getAllStudents());
+        <span class="comment">// Создаем надпись</span>
+        left.add(<span class="keyword-directive">new</span> JLabel(<span class="character">&quot;</span><span class="character">Группы:</span><span class="character">&quot;</span>), BorderLayout.NORTH);
+        <span class="comment">// Создаем визуальный список и вставляем его в скроллируемую</span>
+        <span class="comment">// панель, которую в свою очередь уже кладем на панель left</span>
+        grpList = <span class="keyword-directive">new</span> JList(gr);
+        left.add(<span class="keyword-directive">new</span> JScrollPane(grpList), BorderLayout.CENTER);
+
+        <span class="comment">// Создаем правую панель для вывода списка студентов</span>
+        JPanel right = <span class="keyword-directive">new</span> JPanel();
+        <span class="comment">// Задаем layout и задаем &quot;бордюр&quot; вокруг панели</span>
+        right.setLayout(<span class="keyword-directive">new</span> BorderLayout());
+        right.setBorder(<span class="keyword-directive">new</span> BevelBorder(BevelBorder.RAISED));
+
+        <span class="comment">// Создаем надпись</span>
+        right.add(<span class="keyword-directive">new</span> JLabel(<span class="character">&quot;</span><span class="character">Студенты:</span><span class="character">&quot;</span>), BorderLayout.NORTH);
+        <span class="comment">// Создаем визуальный список и вставляем его в скроллируемую</span>
+        <span class="comment">// панель, которую в свою очередь уже кладем на панель right</span>
+        stdList = <span class="keyword-directive">new</span> JList(st);
+        right.add(<span class="keyword-directive">new</span> JScrollPane(stdList), BorderLayout.CENTER);
+
+        <span class="comment">// Вставляем панели со списками групп и студентов в нижнюю панель</span>
+        bot.add(left, BorderLayout.WEST);
+        bot.add(right, BorderLayout.CENTER);
+
+        <span class="comment">// Вставляем верхнюю и нижнюю панели в форму</span>
+        getContentPane().add(top, BorderLayout.NORTH);
+        getContentPane().add(bot, BorderLayout.CENTER);
+
+        <span class="comment">// Задаем границы формы</span>
+        setBounds(100, 100, 600, 400);
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> main(String args[]) {
+        SwingUtilities.invokeLater(<span class="keyword-directive">new</span> Runnable() {
+           <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> run() {
+                <span class="keyword-directive">try</span> {
+                    <span class="comment">// Мы сразу отменим продолжение работы, если не сможем получить</span>
+                    <span class="comment">// коннект к базе данных</span>
+                   StudentsFrame sf = <span class="keyword-directive">new</span> StudentsFrame();
+                    sf.setDefaultCloseOperation(EXIT_ON_CLOSE);
+                    sf.setVisible(<span class="keyword-directive">true</span>);
+                } <span class="keyword-directive">catch</span> (Exception ex) {
+                    ex.printStackTrace();
+                }
+            }
+        });
+    }
+}
+        </pre>
+        <p class="plain">
+            ВНИМАНИЕ!!! Теперь для запуска нашего приложения нам потребуется драйвер. Поместите его в корневой
+            каталог нашего приложения. Теперь структура нашего каталога выглядит так:
+        </p>
+        <pre class="code-snippet">
+<strong>- student
+   - frame
+      - StudentsFrame.java
+   - logic
+      - Student.java
+      - Group.java
+      - ManagementSystem.java
+- mysql-connector-java-3.1.13-bin.jar</strong>
+        </pre>
+        <p class="plain">
+            Для сборки нам потребуется команда
+        </p>
+        <p class="plain">
+            <span class="code-text">javac students/frame/*.java students/logic/*.java</span><br/>
+            Для сборки примера<br/>
+            <span class="code-text">javac -encoding UTF-8 students/frame/*.java students/logic/*.java</span>
+        </p>
+        <p class="plain">
+            Для запуска нам надо указать в CLASSPATH файл <span class="code-text">mysqlJDBC-3.1.13-bin.jar</span>
+        </p>
+        <p class="plain">
+            <span class="code-text">java -cp .;mysql-connector-java-3.1.13-bin.jar students.frame.StudentsFrame</span>
+        </p>
+        <p class="plain">
+            Теперь мы можем сосредоточить наши усилия на совершенствовании нашего пользовательского интерфейса -
+            <a href="students.php?name=part4">Часть 4 - GUI, предварительные знания</a>
+        </p>
+        <p class="plain">
+            Архив с исходными кодами: <a href="Sources/part03.zip">Исходный код</a>
+        </p>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html> 
+------------s5j3yFJIaAwrLyyqn2J3uU
+Content-Disposition: inline; filename=javacourse.css
+Content-Type: text/css; charset=windows-1251; name=javacourse.css
+Content-Location: http://www.java-course.ru/css/javacourse.css
+Content-Transfer-Encoding: 8bit
+
+.welcome {
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.jc-header {
+    width : 100%;
+    background-color: blue;
+}
+
+.jc-table-header {
+    line-height : 3;
+    color: white;
+}
+
+.jc-table-header a {
+    padding-right:10px;
+    padding-left:10px;
+}
+
+.jc-table-header a:link {
+    color: white;
+}
+
+.jc-table-header a:visited {
+    color: white;
+}
+
+.jc-table-header a:hover {
+    color: white;
+    background-color: #333333;
+    text-decoration: none;
+}
+
+.jc-header-text {
+    margin-left: 20px;
+    text-align: left;
+    text-shadow: white 2px 2px 2px;
+}
+
+.jc-nav {
+    background-color: aqua;
+}
+
+.jc-topLevel {
+    font-size: large;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.jc-article {
+    margin-left: 20px;
+    background-color: #cfffff;
+}
+
+.copyright {font-size: small;  font-family: serif; }
+.plain {font-size: medium;  font-family: serif; }
+.recommend {font-size: large; font-weight: bold; font-family: monospace; color: blue;}
+
+.code-snippet {font-family: monospace; background: #dddddd; }
+.code-text {font-weight: bold; font-family: monospace; }
+
+.comment {color: #969696; }
+.character {color: #ce7b00; }
+.keyword-directive {color: #0000e6; }
+
+.xml-comment {color: #969696; }
+.xml-attribute {color: #009900; }
+.xml-value {color: #ce7b00; }
+.xml-tag {color: #0000e6; }
+
+.sql-block-comment {color: #969696}
+.sql-identifier {color: #009900}
+.sql-string-literal {color: #ce7b00}
+.sql-keyword {color: #0000e6}
+
+------------s5j3yFJIaAwrLyyqn2J3uU
+Content-Disposition: inline; filename=watch.js
+Content-Type: application/x-javascript; charset=windows-1251; name=watch.js
+Content-Location: http://mc.yandex.ru/metrika/watch.js
+Content-Transfer-Encoding: Base64
+
+KGZ1bmN0aW9uKGUsYyxrYSl7ZnVuY3Rpb24gWmEoYyl7dmFyIGU9W10saztmb3Io
+ayBpbiBjKWMuaGFzT3duUHJvcGVydHkoaykmJihlW2UubGVuZ3RoXT1rKyI9Iitl
+bmNvZGVVUklDb21wb25lbnQoY1trXSkpO3JldHVybiBlLmpvaW4oIiYiKX1mdW5j
+dGlvbiBGKGMpe2Zvcih2YXIgZT0xLGs9Yy5sZW5ndGg7ZTxhcmd1bWVudHMubGVu
+Z3RoO2UrKyljW2srK109YXJndW1lbnRzW2VdO3JldHVybiBjLmxlbmd0aH1mdW5j
+dGlvbiBJYShjLGUpe2Zvcih2YXIgaz0wLEE9Yy5sZW5ndGg7azxlLmxlbmd0aDtr
+KyspY1tBKytdPWVba119ZnVuY3Rpb24gbGEoYyl7Zm9yKHZhciBlPSJzdHJpbmci
+PT10eXBlb2YgYz9mdW5jdGlvbihlKXtyZXR1cm4gYy5jaGFyQ29kZUF0KGUpfTpm
+dW5jdGlvbihlKXtyZXR1cm4gY1tlXX0saz1jLmxlbmd0aCxBPTAsbz0yNTUsdD0y
+NTU7azspe3ZhciBCPTIxPGs/MjE6ayxrPWstQjtkb3t2YXIgcT1lKEErKyk7aWYo
+MjU1PHEpdmFyIEY9cT4+OCxxPXEmCjI1NSxxPXFeRjtvKz1xO3QrPW99d2hpbGUo
+LS1CKTtvPShvJjI1NSkrKG8+PjgpO3Q9KHQmMjU1KSsodD4+OCl9ZT0obyYyNTUp
+KyhvPj44KTw8OHwodCYyNTUpKyh0Pj44KTtyZXR1cm4gNjU1MzU9PWU/MDplfWZ1
+bmN0aW9uIHRhKGUscSxrLEEpe3ZhciBvPSIiO2smJihvPW5ldyBEYXRlLG8uc2V0
+VGltZShvLmdldFRpbWUoKSs2RTQqayksbz0iO2V4cGlyZXM9IitvLnRvR01UU3Ry
+aW5nKCkpO2MuY29va2llPWUrIj0iK3ErbysiO3BhdGg9IisoQXx8Ii8iKX1mdW5j
+dGlvbiB1YShlKXtyZXR1cm4gYy5jb29raWUubWF0Y2goUmVnRXhwKCIoPzpefDtc
+XHMqKSIrZSsiPShbXjtdKikiKSk/UmVnRXhwLiQxOm51bGx9ZnVuY3Rpb24gJGEo
+KXt0YSgiX21ldHJpa2FfZW5hYmxlZCIsIjEiLDYwKTt2YXIgYz0hIXVhKCJfbWV0
+cmlrYV9lbmFibGVkIik7dGEoIl9tZXRyaWthX2VuYWJsZWQiLCIiLC0xKTtyZXR1
+cm4gY31mdW5jdGlvbiBxKCl7Zm9yKHZhciBjPXt9LHE9Imhhc2gsaG9zdCxob3N0
+bmFtZSxocmVmLHBhdGhuYW1lLHBvcnQscHJvdG9jb2wsc2VhcmNoIi5zcGxpdCgi
+LCIpLAprPXEubGVuZ3RoLEE9aztBLS07KWNbcVtBXV09IiI7dHJ5e2Zvcih2YXIg
+bz1lLmxvY2F0aW9uLEE9aztBLS07KXt2YXIgdD1xW0FdO2NbdF09b1t0XX19Y2F0
+Y2goQil7UiYmKGM9Uil9cmV0dXJuIGN9ZnVuY3Rpb24gWShjKXt0cnl7ZGVsZXRl
+IGVbY119Y2F0Y2gocSl7ZVtjXT1rYX19ZnVuY3Rpb24gYmEoZSl7dmFyIHE9Yy5j
+cmVhdGVFbGVtZW50KCJzY3JpcHQiKTtxLnR5cGU9InRleHQvamF2YXNjcmlwdCI7
+cS5hc3luYz0hMDtxLnNyYz1lO3RyeXt2YXIgaz1jLmdldEVsZW1lbnRzQnlUYWdO
+YW1lKCJodG1sIilbMF07Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgiaGVhZCIpWzBd
+fHxrLmFwcGVuZENoaWxkKGMuY3JlYXRlRWxlbWVudCgiaGVhZCIpKTt2YXIgQT1j
+LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJoZWFkIilbMF07QS5pbnNlcnRCZWZvcmUo
+cSxBLmZpcnN0Q2hpbGQpfWNhdGNoKG8pe319ZnVuY3Rpb24gbWEoYyl7YmEodmEr
+Ii8vbWV0cmlrYS55YW5kZXgucnUvanMvIisKYysiL19sb2FkZXIuanMiKX1mdW5j
+dGlvbiBhYihDLEksayxBLG8pe2Z1bmN0aW9uIHQoZCl7cmV0dXJuIGZ1bmN0aW9u
+KCl7dHJ5e3JldHVybiBkLmFwcGx5KHRoaXMsYXJndW1lbnRzKX1jYXRjaChqKXso
+bmV3IEltYWdlKS5zcmM9Ii8vYW4ueWFuZGV4LnJ1L2pzZXJyLyIrQysiPyIrWmEo
+eyJjbnQtY2xhc3MiOjEwMCtJLGVycm1zZzpqLm1lc3NhZ2UrIi0tIisoZC50b1N0
+cmluZygpLm1hdGNoKC9mdW5jdGlvblxzKFteKF0qKS8pfHx7MToiIn0pWzFdfSl9
+fX1mdW5jdGlvbiBCKCl7cmV0dXJuIkNTUzFDb21wYXQiPT1jLmNvbXBhdE1vZGU/
+Yy5kb2N1bWVudEVsZW1lbnQ6Yy5ib2R5fWZ1bmN0aW9uIFIoKXt2YXIgZD1CKCk7
+cmV0dXJuW2QuY2xpZW50V2lkdGgsZC5jbGllbnRIZWlnaHRdfWZ1bmN0aW9uIEwo
+KXt2YXIgZD1CKCksaj1SKCk7cmV0dXJuW01hdGgubWF4KGQuc2Nyb2xsV2lkdGgs
+alswXSksTWF0aC5tYXgoZC5zY3JvbGxIZWlnaHQsalsxXSldfWZ1bmN0aW9uIFgo
+KXtyZXR1cm5bZS5wYWdlWE9mZnNldHx8CmMuZG9jdW1lbnRFbGVtZW50JiZjLmRv
+Y3VtZW50RWxlbWVudC5zY3JvbGxMZWZ0fHxjLmJvZHkmJmMuYm9keS5zY3JvbGxM
+ZWZ0fHwwLGUucGFnZVlPZmZzZXR8fGMuZG9jdW1lbnRFbGVtZW50JiZjLmRvY3Vt
+ZW50RWxlbWVudC5zY3JvbGxUb3B8fGMuYm9keSYmYy5ib2R5LnNjcm9sbFRvcHx8
+MF19ZnVuY3Rpb24gWihkKXtpZighZC5vd25lckRvY3VtZW50fHwiUEFSQU0iPT1k
+LnRhZ05hbWV8fGQ9PWMuYm9keXx8ZD09Yy5kb2N1bWVudEVsZW1lbnQpcmV0dXJu
+WzAsMF07aWYoZC5nZXRCb3VuZGluZ0NsaWVudFJlY3QpcmV0dXJuIGQ9ZC5nZXRC
+b3VuZGluZ0NsaWVudFJlY3QoKSxbTWF0aC5yb3VuZChkLmxlZnQrU1swXSksTWF0
+aC5yb3VuZChkLnRvcCtTWzFdKV07Zm9yKHZhciBqPTAsYT0wO2Q7KWorPWQub2Zm
+c2V0TGVmdCxhKz1kLm9mZnNldFRvcCxkPWQub2Zmc2V0UGFyZW50O3JldHVybltq
+LGFdfWZ1bmN0aW9uIGNhKGQpe3JldHVybiBkPT1jLmRvY3VtZW50RWxlbWVudD8K
+bnVsbDpkPT1jLmJvZHk/Yy5kb2N1bWVudEVsZW1lbnQ6ZC5wYXJlbnROb2RlfWZ1
+bmN0aW9uICQoZCxqKXt2YXIgYT1bXTtpZihkKWZvcih2YXIgYj1kLmNoaWxkTm9k
+ZXMsYz0wLGY9Yi5sZW5ndGg7YzxmO2MrKyl7dmFyIGc9YltjXTshKCJJTlBVVCI9
+PWcubm9kZU5hbWUmJmcudHlwZSYmImhpZGRlbiI9PWcudHlwZS50b0xvY2FsZUxv
+d2VyQ2FzZSgpKSYmKCFqfHxnLm5vZGVOYW1lPT1qKSYmRihhLGcpfXJldHVybiBh
+fWZ1bmN0aW9uIG5hKGQpe3ZhciBqPVooZCksZD1kPT1jLmJvZHl8fGQ9PWMuZG9j
+dW1lbnRFbGVtZW50P0woKTpbZC5vZmZzZXRXaWR0aCxkLm9mZnNldEhlaWdodF07
+cmV0dXJuW2pbMF0salsxXSxkWzBdLGRbMV1dfWZ1bmN0aW9uIE0oZCl7Zm9yKHZh
+ciBqPSIiLGQ9ZC5jaGlsZE5vZGVzLGE9MCxiPWQubGVuZ3RoO2E8YjthKyspMz09
+ZFthXS5ub2RlVHlwZSYmKGorPWRbYV0ubm9kZVZhbHVlKTtyZXR1cm4gbGEoai5y
+ZXBsYWNlKC9bXHUwMDAwLVx1MDAyMF0rL2csCiIiKSl9ZnVuY3Rpb24gYWEoZCl7
+dmFyIGo9IiIsYT0iY2xhc3NOYW1lLHdpZHRoLGhlaWdodCxhbGlnbix0aXRsZSxh
+bHQsbmFtZSIuc3BsaXQoIiwiKTsiSU1HIj09ZC50YWdOYW1lJiYoais9ZC5zcmMu
+dG9Mb3dlckNhc2UoKSk7IkEiPT1kLnRhZ05hbWUmJihqKz1kLmhyZWYudG9Mb3dl
+ckNhc2UoKSk7Zm9yKHZhciBiPTA7YjxhLmxlbmd0aDtiKyspais9KCIiKyhkLmdl
+dEF0dHJpYnV0ZShhW2JdKXx8IiIpKS50b0xvd2VyQ2FzZSgpO3JldHVybiBsYShq
+LnJlcGxhY2UoL1tcdTAwMDAtXHUwMDIwXSsvZywiIikpfWZ1bmN0aW9uIG9hKGQp
+e2Zvcih2YXIgaj1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJmb3JtIiksYT0wLGI9
+ai5sZW5ndGg7YTxiO2ErKylpZihqW2FdPT1kKXJldHVybiBhO3JldHVybi0xfWZ1
+bmN0aW9uIGRhKGQpe3JldHVybiJJTlBVVCI9PWQubm9kZU5hbWUmJiJzdWJtaXQi
+IT1kLnR5cGUmJiJpbWFnZSIhPWQudHlwZSYmImhpZGRlbiIhPWQudHlwZT8icmFk
+aW8iPT0KZC50eXBlfHwiY2hlY2tib3giPT1kLnR5cGU/IWQuY2hlY2tlZDohZC52
+YWx1ZToiVEVYVEFSRUEiPT1kLm5vZGVOYW1lPyFkLnZhbHVlOiJTRUxFQ1QiPT1k
+Lm5vZGVOYW1lPzA+ZC5zZWxlY3RlZEluZGV4OiEwfWZ1bmN0aW9uIHkoZCxqLGEp
+e3ZhciBiPXQoZnVuY3Rpb24oZCl7cmV0dXJuIGEoZHx8ZS5ldmVudCl9KTtUW1Qu
+bGVuZ3RoXT1bZCxqLGEsYl07ZC5hZGRFdmVudExpc3RlbmVyP2QuYWRkRXZlbnRM
+aXN0ZW5lcihqLGIsITApOmQuYXR0YWNoRXZlbnQmJmQuYXR0YWNoRXZlbnQoIm9u
+IitqLGIpfWZ1bmN0aW9uIHIoZCxqLGEpe2Zvcih2YXIgYj0wO2I8VC5sZW5ndGg7
+YisrKWlmKFRbYl0mJlRbYl1bMF09PWQmJlRbYl1bMV09PWomJlRbYl1bMl09PWEp
+e3ZhciBjPVRbYl1bM107ZGVsZXRlIFRbYl07YnJlYWt9YyYmKGQucmVtb3ZlRXZl
+bnRMaXN0ZW5lcj9kLnJlbW92ZUV2ZW50TGlzdGVuZXIoaixjLCEwKTpkLmRldGFj
+aEV2ZW50JiZkLmRldGFjaEV2ZW50KCJvbiIrCmosYykpfWZ1bmN0aW9uIGlhKGQp
+e3ZhciBqPUIoKTtyZXR1cm5bZC5wYWdlWHx8ZC5jbGllbnRYK1NbMF0tKGouY2xp
+ZW50TGVmdHx8MCl8fDAsZC5wYWdlWXx8ZC5jbGllbnRZK1NbMV0tKGouY2xpZW50
+VG9wfHwwKXx8MF19ZnVuY3Rpb24gVShkKXtyZXR1cm4gZC50YXJnZXR8fGQuc3Jj
+RWxlbWVudH1mdW5jdGlvbiBlYShkKXtyZXR1cm4oZC5zaGlmdEtleT90YjowKXwo
+ZC5jdHJsS2V5P2JiOjApfChkLmFsdEtleT91YjowKXwoZC5tZXRhS2V5P0ZiOjAp
+fChkLmN0cmxLZXl8fGQuYWx0S2V5P0phOjApfWZ1bmN0aW9uIGphKGQpe3ZhciBq
+PShuZXcgRGF0ZSkuZ2V0VGltZSgpO2QmJmo8ZCYmKGNiKz1kLWoreik7ZS5zZXRU
+aW1lb3V0KHQoZnVuY3Rpb24oKXtqYShqKX0pLHopfWZ1bmN0aW9uIHBhKCl7dmFy
+IGQ9KG5ldyBEYXRlKS5nZXRUaW1lKCkrY2I7ZDxkYiYmKGQ9ZGIrei8yKTtyZXR1
+cm4gZGI9ZH1mdW5jdGlvbiBHKCl7cmV0dXJuIE1hdGgucm91bmQoKHBhKCktSGIp
+LwpJYil9ZnVuY3Rpb24gZmEoZCxqKXtqPU1hdGgubWF4KDAsTWF0aC5taW4oaiw2
+NTUzNSkpO0YoZCxqPj44LGomMjU1KX1mdW5jdGlvbiB4KGQsail7RihkLGomMjU1
+KX1mdW5jdGlvbiBpKGQsail7Zm9yKGo9TWF0aC5tYXgoMCxqfDApOzEyNzxqOylG
+KGQsaiYxMjd8MTI4KSxqPj49NztGKGQsail9ZnVuY3Rpb24gd2EoZCxqKXsyNTU8
+ai5sZW5ndGgmJihqPWouc3Vic3RyKDAsMjU1KSk7RihkLGoubGVuZ3RoKTtmb3Io
+dmFyIGE9MDthPGoubGVuZ3RoO2ErKylmYShkLGouY2hhckNvZGVBdChhKSl9ZnVu
+Y3Rpb24geGEoZCxqKXtpKGQsai5sZW5ndGgpO2Zvcih2YXIgYT0wO2E8ai5sZW5n
+dGg7YSsrKWkoZCxqLmNoYXJDb2RlQXQoYSkpfWZ1bmN0aW9uIHRhKGQpe2lmKCFk
+Lm5vZGVOYW1lKXJldHVybiBkW0pdPS0xLG51bGw7dmFyIGE9TnVtYmVyKGRbSl0p
+O2lmKCFpc0Zpbml0ZShhKXx8MD49YSlyZXR1cm4gbnVsbDt2YXIgYj1LYixjPTAs
+Zz1jYShkKSxmPWcmJmdbSl0/Z1tKXToKMDswPmYmJihmPTApO3ZhciBlPWQubm9k
+ZU5hbWUudG9VcHBlckNhc2UoKSxsPUxiW2VdO2x8fChifD1NYik7dmFyIGg7YTp7
+aD0kKGNhKGQpLGQubm9kZU5hbWUpO2Zvcih2YXIgdz0wO3c8aC5sZW5ndGg7dysr
+KWlmKGhbd109PWQpe2g9dzticmVhayBhfWg9MH1ofHwoYnw9TmIpO3c9bmEoZCk7
+KGc9Zz9uYShnKTpudWxsKSYmd1swXT09Z1swXSYmd1sxXT09Z1sxXSYmd1syXT09
+Z1syXSYmd1szXT09Z1szXSYmKGJ8PXZiKTtLYVthXS5wb3M9d1swXSsieCIrd1sx
+XTtLYVthXS5zaXplPXdbMl0rIngiK3dbM107ZC5pZCYmInN0cmluZyI9PXR5cGVv
+ZiBkLmlkJiYoYnw9d2IpOyhnPU0oZCkpJiYoYnw9T2IpO3ZhciBwPWFhKGQpO3Am
+JihjfD1QYik7dmFyIG07YTp7bT0kKGNhKGQpLGQudGFnTmFtZSk7Zm9yKHZhciB1
+PTA7dTxtLmxlbmd0aDt1KyspaWYoIShtW3VdLmlkJiYic3RyaW5nIj09dHlwZW9m
+IG1bdV0uaWQpJiZhYShtW3VdKT09cCYmTShtW3VdKT09Zyl7bT0hMDticmVhayBh
+fW09CiExfWlmKG0pdmFyIGI9Ynx4YixzPWxhKChkLmlubmVySFRNTHx8IiIpLnJl
+cGxhY2UoLyg8W14+XSo+fFtcdTAwMDAtXHUwMDIwXSkvZywiIikpO209W107eCht
+LFkpO2kobSxhKTt4KG0sYik7aShtLGYpO2w/eChtLGwpOndhKG0sZSk7aCYmaSht
+LGgpO2ImdmJ8fChpKG0sd1swXSksaShtLHdbMV0pLGkobSx3WzJdKSxpKG0sd1sz
+XSkpO2Imd2ImJndhKG0sZC5pZCk7ZyYmZmEobSxnKTtiJnhiJiZmYShtLHMpO3go
+bSxjKTtwJiZmYShtLHApO3JldHVybiBtfWZ1bmN0aW9uIExhKGQsYSxiLGMsZyxm
+KXtmb3IoO2ImJighYi5vZmZzZXRXaWR0aHx8IWIub2Zmc2V0SGVpZ2h0KTspYj1j
+YShiKTtpZighYilyZXR1cm4gbnVsbDt2YXIgZT1iW0pdO2lmKCFlfHwwPmUpcmV0
+dXJuIG51bGw7dmFyIGw9e21vdXNlbW92ZTpiYSxjbGljazpRYixtb3VzZWRvd246
+VGEsbW91c2V1cDpSYix0b3VjaDpzYX1bYV07aWYoIWwpcmV0dXJuIG51bGw7dmFy
+IHc9WihiKSxiPVtdO3goYixsKTtpKGIsZCk7CmkoYixlKTtpKGIsTWF0aC5tYXgo
+MCxjWzBdLXdbMF0pKTtpKGIsTWF0aC5tYXgoMCxjWzFdLXdbMV0pKTsvXm1vdXNl
+KHVwfGRvd24pfGNsaWNrJC8udGVzdChhKSYmKGQ9Z3x8Zix4KGIsMj5kP1NiOmQ9
+PShnPzI6NCk/VGI6VWIpKTtyZXR1cm4gYn1mdW5jdGlvbiB5YShkLGEpe3ZhciBi
+PVtdO3goYixtYSk7aShiLGQpO2koYixhWzBdKTtpKGIsYVsxXSk7cmV0dXJuIGJ9
+ZnVuY3Rpb24gdmEoZCxhLGIpe3ZhciBjPVtdO3goYyxXYik7aShjLGQpO2koYyxh
+WzBdKTtpKGMsYVsxXSk7aShjLGJbMF0pO2koYyxiWzFdKTtyZXR1cm4gY31mdW5j
+dGlvbiBuKGQsYSxiLGMpe3ZhciBnPVtdO3goZyxVYSk7aShnLGQpO2ZhKGcsYSk7
+eChnLGIpO2Q9Y1tKXTtpZighZHx8MD5kKWQ9MDtpKGcsZCk7cmV0dXJuIGd9ZnVu
+Y3Rpb24gemEoZCxhKXt2YXIgYixjOzA9PWEubGVuZ3RoP2M9Yj0iIjoxMDA+PWEu
+bGVuZ3RoPyhiPWEsYz0iIik6MjAwPj1hLmxlbmd0aD8oYj1hLnN1YnN0cigwLDEw
+MCksCmM9YS5zdWJzdHIoMTAwKSk6KGI9YS5zdWJzdHIoMCw5NyksYz1hLnN1YnN0
+cihhLmxlbmd0aC05NykpO3ZhciBnPVtdO3goZyxYYik7aShnLGQpO3hhKGcsYik7
+eGEoZyxjKTtyZXR1cm4gZ31mdW5jdGlvbiBBYShkKXt2YXIgYT1bXTt4KGEsWWIp
+O2koYSxkKTtyZXR1cm4gYX1mdW5jdGlvbiBnYShkKXt2YXIgYT1bXTt4KGEsJGEp
+O2koYSxkKTtyZXR1cm4gYX1mdW5jdGlvbiBNYShkKXt2YXIgYT1bXTt4KGEsYWIp
+O2koYSxkKTtyZXR1cm4gYX1mdW5jdGlvbiBOYShkLGEpe3ZhciBiPVtdO3goYixw
+Yik7aShiLGQpO2koYixhW0pdKTtyZXR1cm4gYn1mdW5jdGlvbiBIKGQsYSl7dmFy
+IGI9W107eChiLHFiKTtpKGIsZCk7aShiLGFbSl0pO3JldHVybiBifWZ1bmN0aW9u
+IE9hKGQsYSxiKXt2YXIgYz1bXTt4KGMscmIpO2koYyxkKTtpKGMsYVtKXSk7d2Eo
+YywiIitiKTtyZXR1cm4gY31mdW5jdGlvbiBlYihkLGEsYil7aWYoYj1zKGIpKXti
+LnNoaWZ0KCk7YT1wKGEpO2Euc2hpZnQoKTsKSWEoYSxiKTtiPVtdO3goYixzYik7
+aShiLGQpO2koYixhLmxlbmd0aCk7Zm9yKGQ9MDtkPGEubGVuZ3RoO2QrKyl4KGIs
+YVtkXSk7cmV0dXJuIGJ9cmV0dXJuIG51bGx9ZnVuY3Rpb24gVihkLGEpe3ZhciBi
+PWFbSl07aWYoMDxiKXt2YXIgYz1bXSxnPW5hKGEpLGY9S2FbYl0sZT1nWzBdKyJ4
+IitnWzFdLGw9Z1syXSsieCIrZ1szXTtpZihlIT1mLnBvcylmLnBvcz1lLHgoYyxX
+YSksaShjLGQpLGkoYyxiKSxpKGMsZ1swXSksaShjLGdbMV0pO2lmKGwhPWYuc2l6
+ZSlmLnNpemU9bCx4KGMsWGEpLGkoYyxkKSxpKGMsYiksaShjLGdbMl0pLGkoYyxn
+WzNdKTtpZihjLmxlbmd0aClyZXR1cm4gY31yZXR1cm4gbnVsbH1mdW5jdGlvbiBC
+YShkKXt2YXIgYT1kW0pdO2lmKCFhfHwwPmF8fCEvXklOUFVUfFNFTEVDVHxURVhU
+QVJFQSQvLnRlc3QoZC5ub2RlTmFtZSl8fCFkLmZvcm18fC8oPzpefFxzKS1tZXRy
+aWthLW5vZm9ybSg/OlxzfCQpLy50ZXN0KGQuZm9ybS5jbGFzc05hbWUpKXJldHVy
+biBudWxsOwp2YXIgYj1vYShkLmZvcm0pO2lmKDA+YilyZXR1cm4gbnVsbDt2YXIg
+YztjPSJJTlBVVCI9PWQubm9kZU5hbWU/e3RleHQ6MCxwYXNzd29yZDoyLHJhZGlv
+OjMsY2hlY2tib3g6NCxmaWxlOjYsaW1hZ2U6N31bZC50eXBlXTp7U0VMRUNUOjEs
+VEVYVEFSRUE6NX1bZC5ub2RlTmFtZV07aWYoIm51bWJlciIhPXR5cGVvZiBjKXJl
+dHVybiBudWxsO2Zvcih2YXIgZz0tMSxmPWQuZm9ybS5lbGVtZW50cyxlPWYubGVu
+Z3RoLGw9MCx3PTA7bDxlO2wrKylpZihmW2xdLm5hbWU9PWQubmFtZSl7aWYoZlts
+XT09ZCl7Zz13O2JyZWFrfXcrK31pZigwPmcpcmV0dXJuIG51bGw7Zj1bXTt4KGYs
+VmEpO2koZixhKTtpKGYsYik7aShmLGMpO3hhKGYsZC5uYW1lfHwiIik7aShmLGcp
+O3JldHVybiBmfWZ1bmN0aW9uIENhKGQsYSl7dmFyIGI9b2EoYSk7aWYoMD5iKXJl
+dHVybiBudWxsO2Zvcih2YXIgYz1hLmVsZW1lbnRzLGc9Yy5sZW5ndGgsZj1bXSxl
+PTA7ZTxnO2UrKylpZighZGEoY1tlXSkpe3ZhciBsPQpjW2VdW0pdO2wmJjA8bCYm
+RihmLGwpfWM9W107eChjLHJhKTtpKGMsZCk7aShjLGIpO2koYyxmLmxlbmd0aCk7
+Zm9yKGI9MDtiPGYubGVuZ3RoO2IrKylpKGMsZltiXSk7cmV0dXJuIGN9ZnVuY3Rp
+b24gaGEoZCl7Y2xlYXJUaW1lb3V0KHliKTtmb3IodmFyIGE9KG5ldyBEYXRlKS5n
+ZXRUaW1lKCkrWmI7UGEubGVuZ3RoJiYoZHx8KyhuZXcgRGF0ZSkuZ2V0VGltZSgp
+PGEpOyl7dmFyIGI9UGEuc2hpZnQoKTtpZihiPWJbMF0uYXBwbHkoZSxiWzFdKSk2
+NTAwPHFhLmxlbmd0aCtiLmxlbmd0aCYmdygpLElhKHFhLGIpLFFhfHwoUWE9ZS5z
+ZXRUaW1lb3V0KHQodyksJGIpKX0hMD09PWQmJncoITApO1BhLmxlbmd0aCYmKHli
+PWUuc2V0VGltZW91dCh0KGhhKSxhYykpfWZ1bmN0aW9uIEQoZCxhLGIpe0YoUGEs
+W2QsYV0pO2hhKGIpfWZ1bmN0aW9uIE4oZCl7aWYoZFtKXSlEKFYsW0coKSxkXSk7
+ZWxzZXt2YXIgYT1jYShkKTthJiZOKGEpO2RbSl09ZmI7S2FbZmJdPXt9O2ZiKys7
+RCh0YSwKW2RdKTtEKEJhLFtkXSl9fWZ1bmN0aW9uIE8oZCl7dmFyIGE9VShkKTth
+JiYiU0NST0xMQkFSIiE9YS5ub2RlTmFtZSYmKE4oYSksRChMYSxbRygpLGQudHlw
+ZSxhLGlhKGQpLGQud2hpY2gsZC5idXR0b25dKSl9ZnVuY3Rpb24gRGEoZCl7Tyhk
+KTt2YXIgYSxiO2lmKGUuZ2V0U2VsZWN0aW9uKWQ9ZS5nZXRTZWxlY3Rpb24oKSxh
+PWQudG9TdHJpbmcoKSxiPWQuYW5jaG9yTm9kZTtlbHNlIGlmKGMuc2VsZWN0aW9u
+JiZjLnNlbGVjdGlvbi5jcmVhdGVSYW5nZSlkPWMuc2VsZWN0aW9uLmNyZWF0ZVJh
+bmdlKCksYT1kLnRleHQsYj1kLnBhcmVudEVsZW1lbnQoKTtmb3IoO2ImJjEhPWIu
+bm9kZVR5cGU7KWI9Yi5wYXJlbnROb2RlO2lmKCEoYiYmIklOUFVUIj09Yi50YWdO
+YW1lJiYicGFzc3dvcmQiPT1iLnR5cGV8fGImJi8oPzpefFxzKS1tZXRyaWthLW5v
+a2V5cyg/OlxzfCQpLy50ZXN0KGIuY2xhc3NOYW1lKSkmJmEhPWdiKWdiPWEsRCh6
+YSxbRygpLGFdKX1mdW5jdGlvbiBFYShkKXt2YXIgYT0KcGEoKSxiPWEtemI7aWYo
+IShiPHVhKSl7dmFyIGM9aWEoZCksZz1oYlswXS1jWzBdLGY9aGJbMV0tY1sxXSxn
+PWcqZytmKmY7aWYoISgwPj1nfHwxNj5nJiYxMDA+YikmJiEoMjA+YiYmMjU2Pmcp
+KXpiPWEsaGI9YyxPKGQpfX1mdW5jdGlvbiBQKCl7Uz1YKCk7dmFyIGQ9cGEoKTtk
+LUFiPHVhfHwxMD5NYXRoLmFicyhTWzBdLWliWzBdKSYmMTA+TWF0aC5hYnMoU1sx
+XS1pYlsxXSl8fChBYj1kLGliPVMsRCh5YSxbRygpLFNdKSl9ZnVuY3Rpb24gYSgp
+e0QodmEsW0coKSxSKCksTCgpXSl9ZnVuY3Rpb24gZyhkKXt3KCEwKTtpZigiYmVm
+b3JldW5sb2FkIj09ZC50eXBlKWZvcihkPStuZXcgRGF0ZSs1MDsrbmV3IERhdGU8
+ZDspO31mdW5jdGlvbiBiKGQsYSxiKXtkPVUoZCk7IklOUFVUIj09ZC50YWdOYW1l
+JiYicGFzc3dvcmQiPT1kLnR5cGV8fC8oPzpefFxzKS1tZXRyaWthLW5va2V5cyg/
+OlxzfCQpLy50ZXN0KGQuY2xhc3NOYW1lKXx8KE4oZCksRChuLFtHKCksYSxiLGRd
+KSl9ZnVuY3Rpb24gZihkKXt2YXIgYT0KZC5rZXlDb2RlLGM9ZWEoZCk7aWYoezM6
+MSw4OjEsOToxLDEzOjEsMTY6MSwxNzoxLDE4OjEsMTk6MSwyMDoxLDI3OjEsMzM6
+MSwzNDoxLDM1OjEsMzY6MSwzNzoxLDM4OjEsMzk6MSw0MDoxLDQ1OjEsNDY6MSw5
+MToxLDkyOjEsOTM6MSwxMDY6MSwxMTA6MSwxMTE6MSwxNDQ6MSwxNDU6MX1bYV18
+fDExMjw9YSYmMTIzPj1hfHw5Njw9YSYmMTA1Pj1hfHxjJkphKTE5PT1hJiYoYyZ+
+SmEpPT1iYiYmKGE9MTQ0KSxiKGQsYSxjfEphKSxqYj0hMSxlLnNldFRpbWVvdXQo
+dChmdW5jdGlvbigpe2piPSEwfSksMSksNjc9PWEmJmMmYmImJiEoYyZ1YikmJiEo
+YyZ0YikmJmgoKX1mdW5jdGlvbiBsKGQpe2piJiYha2ImJjAhPT1kLndoaWNoJiYo
+YihkLGQuY2hhckNvZGV8fGQua2V5Q29kZSxlYShkKSksa2I9ITAsZS5zZXRUaW1l
+b3V0KHQoZnVuY3Rpb24oKXtrYj0hMX0pLDEpKX1mdW5jdGlvbiBoKCl7bGJ8fChs
+Yj0hMCxnYiYmRChBYSxbRygpXSksZS5zZXRUaW1lb3V0KHQoZnVuY3Rpb24oKXts
+Yj0KITF9KSwxKSl9ZnVuY3Rpb24gbSgpe0ZhfHwoRmE9ITAsRChnYSxbRygpXSkp
+fWZ1bmN0aW9uIEdhKCl7RmEmJihGYT0hMSxEKE1hLFtHKCldKSl9ZnVuY3Rpb24g
+QmIoZCl7KCFGYXx8ZCYmIWQuZnJvbUVsZW1lbnQpJiZtKCl9ZnVuY3Rpb24gQ2Io
+ZCl7ZCYmIWQudG9FbGVtZW50JiZHYSgpfWZ1bmN0aW9uIHUoZCl7aWYoKGQ9VShk
+KSkmJi9eSU5QVVR8U0VMRUNUfFRFWFRBUkVBfEJVVFRPTiQvLnRlc3QoZC50YWdO
+YW1lKSlOKGQpLEQoTmEsW0coKSxkXSl9ZnVuY3Rpb24gUmEoZCl7aWYoKGQ9VShk
+KSkmJi9eSU5QVVR8U0VMRUNUfFRFWFRBUkVBfEJVVFRPTiQvLnRlc3QoZC50YWdO
+YW1lKSlOKGQpLEQoSCxbRygpLGRdKX1mdW5jdGlvbiB2KGQpe2Q9VShkKTtpZigh
+KCJJTlBVVCI9PWQudGFnTmFtZSYmInBhc3N3b3JkIj09ZC50eXBlfHxkJiYvKD86
+XnxccyktbWV0cmlrYS1ub2tleXMoPzpcc3wkKS8udGVzdChkLmNsYXNzTmFtZSkp
+JiZkJiYvXklOUFVUfFNFTEVDVHxURVhUQVJFQSQvLnRlc3QoZC50YWdOYW1lKSl7
+dmFyIGE9Ci9eKGNoZWNrYm94fHJhZGlvKSQvLnRlc3QoZC50eXBlKT9kLmNoZWNr
+ZWQ6ZC52YWx1ZTtOKGQpO0QoT2EsW0coKSxkLGFdKX19ZnVuY3Rpb24gSGEoZCl7
+ZD1VKGQpO2lmKCEvKD86XnxccyktbWV0cmlrYS1ub2Zvcm0oPzpcc3wkKS8udGVz
+dChkLmNsYXNzTmFtZSkmJiJGT1JNIj09ZC5ub2RlTmFtZSl7Zm9yKHZhciBhPWQu
+ZWxlbWVudHMsYj0wO2I8YS5sZW5ndGg7YisrKWRhKGFbYl0pfHxOKGFbYl0pO0Qo
+Q2EsW0coKSxkXSwhMCl9fWZ1bmN0aW9uIEUoZCl7UCgpO2lmKGQudG91Y2hlcyYm
+ZC50b3VjaGVzLmxlbmd0aCl7dmFyIGE9VShkKTtpZihhKXtOKGEpO2Zvcih2YXIg
+Yj0wO2I8ZC50b3VjaGVzLmxlbmd0aDtiKyspRChMYSxbRygpLCJ0b3VjaCIsYSxb
+ZC50b3VjaGVzW2JdLnBhZ2VYLGQudG91Y2hlc1tiXS5wYWdlWV0sMCwwXSl9fX1m
+dW5jdGlvbiB3KCl7Y2xlYXJUaW1lb3V0KFFhKTtRYT0wO2lmKHFhLmxlbmd0aCl7
+Zm9yKHZhciBkPXtybjpNYXRoLnJvdW5kKDFFNSoKTWF0aC5yYW5kb20oKSksInd2
+LXR5cGUiOjAsImNudC1jbGFzcyI6SSwicGFnZS11cmwiOiIiK3EoKS5ocmVmLHdt
+b2RlOjAsInd2LWhpdCI6QSwid3YtcGFydCI6YmMrKywid3YtY2hlY2siOmxhKHFh
+KSwiYnJvd3Nlci1pbmZvIjpbInoiLERiLCJpIixtYl0uam9pbigiOiIpfSxhPXFh
+LGI9YS5sZW5ndGgsYz1bXSxnPWItYiUzLGYsZT0wO2U8ZztlKz0zKWY9KGFbZV08
+PDE2KSsoYVtlKzFdPDw4KSthW2UrMl0sRihjLFdbZj4+MTgmNjNdLFdbZj4+MTIm
+NjNdLFdbZj4+NiY2M10sV1tmJjYzXSk7c3dpdGNoKGItZyl7Y2FzZSAxOmY9YVtn
+XTw8NDtGKGMsV1tmPj42JjYzXSxXW2YmNjNdLCJfXyIpO2JyZWFrO2Nhc2UgMjpm
+PShhW2ddPDwxMCkrKGFbZysxXTw8MiksRihjLFdbZj4+MTImNjNdLFdbZj4+NiY2
+M10sV1tmJjYzXSwiXyIpfWE9eyJ3di1kYXRhIjpjLmpvaW4oIiIpfTtvLnNlbmQo
+InZpc29yIiwid2Vidmlzb3IiLGQsYSk7cWEubGVuZ3RoPTB9fWZ1bmN0aW9uIEVi
+KGQpe2lmKCJ1bmRlZmluZWQiPT0KdHlwZW9mIGQpcmV0dXJuW2NjXTtpZihudWxs
+PT09ZClyZXR1cm5bZGNdO2lmKCJib29sZWFuIj09dHlwZW9mIGQpcmV0dXJuW2Q/
+ZWM6ZmNdO2lmKCJudW1iZXIiPT10eXBlb2YgZClyZXR1cm4gZ2MoZCk7aWYoInN0
+cmluZyI9PXR5cGVvZiBkKXJldHVybiBwKGQpO2lmKCJbb2JqZWN0IEFycmF5XSI9
+PXt9LnRvU3RyaW5nLmNhbGwoZCkpcmV0dXJuIHMoZCk7aWYoIltvYmplY3QgRGF0
+ZV0iPT17fS50b1N0cmluZy5jYWxsKGQpKXJldHVybltoY10uY29uY2F0KEsoZC5n
+ZXRGdWxsWWVhcigpKSkuY29uY2F0KEsoZC5nZXRNb250aCgpKSkuY29uY2F0KEso
+ZC5nZXREYXRlKCkpKS5jb25jYXQoSyhkLmdldEhvdXJzKCkpKS5jb25jYXQoSyhk
+LmdldE1pbnV0ZXMoKSkpLmNvbmNhdChLKGQuZ2V0U2Vjb25kcygpKSkuY29uY2F0
+KEsoZC5nZXRNaWxsaXNlY29uZHMoKSkpO2lmKCJbb2JqZWN0IFJlZ0V4cF0iPT17
+fS50b1N0cmluZy5jYWxsKGQpKXt2YXIgYTthPTB8KGQuZ2xvYmFsPzE6CjApO2F8
+PWQuaWdub3JlQ2FzZT8yOjA7YXw9ZC5tdWx0aWxpbmU/NDowO2F8PWQubGFzdElu
+ZGV4Pzg6MDt2YXIgYj1wKGQuc291cmNlKTtiLnNoaWZ0KCk7cmV0dXJuW2ljLGFd
+LmNvbmNhdChiKS5jb25jYXQoZC5sYXN0SW5kZXg/SyhkLmxhc3RJbmRleCk6W10p
+fWlmKGQmJmQub3duZXJEb2N1bWVudD09YylyZXR1cm4gTihkKSxbamNdLmNvbmNh
+dChLKGRbSl0pKTtpZigiW29iamVjdCBPYmplY3RdIj09ZC50b1N0cmluZygpKXth
+PVtdO2ZvcihiIGluIGQpYS5wdXNoKGIpLGEucHVzaChkW2JdKTtkPVtrY10uY29u
+Y2F0KEsoYS5sZW5ndGgvMikpO2ZvcihiPTA7YjxhLmxlbmd0aDtiKyspe3ZhciBn
+PUViKGFbYl0pO2lmKCFnKXJldHVybiBudWxsO2Q9ZC5jb25jYXQoZyl9cmV0dXJu
+IGR9cmV0dXJuIG51bGx9ZnVuY3Rpb24gZ2MoZCl7aWYoaXNOYU4oZCkpcmV0dXJu
+W2xjXTtpZihkPT1OdW1iZXIuTkVHQVRJVkVfSU5GSU5JVFkpcmV0dXJuW21jXTtp
+ZihkPT1OdW1iZXIuUE9TSVRJVkVfSU5GSU5JVFkpcmV0dXJuW25jXTsKaWYoMD09
+PWQpcmV0dXJuW29jXTt2YXIgYT0hMTswPmQmJihkKj0tMSxhPSEwKTt2YXIgYj0o
+IiIrZCkuc3BsaXQoImUiKSxkPSsoYlsxXXx8MCkrKC0xPT1iWzBdLmluZGV4T2Yo
+Ii4iKT9iWzBdLmxlbmd0aDpiWzBdLmluZGV4T2YoIi4iKSksYj0rYlswXS5yZXBs
+YWNlKCIuIiwiIik7cmV0dXJuW2E/cGM6cWNdLmNvbmNhdChLKGIpKS5jb25jYXQo
+SyhkKSl9ZnVuY3Rpb24gcChkKXtmb3IodmFyIGE9W3JjXS5jb25jYXQoSyhkLmxl
+bmd0aCkpLGI9MDtiPGQubGVuZ3RoO2IrKylhPWEuY29uY2F0KEsoZC5jaGFyQ29k
+ZUF0KGIpKSk7cmV0dXJuIGF9ZnVuY3Rpb24gcyhhKXtmb3IodmFyIGI9W3NjXS5j
+b25jYXQoSyhhLmxlbmd0aCkpLGM9MDtjPGEubGVuZ3RoO2MrKyl7dmFyIGc9RWIo
+YVtjXSk7aWYoIWcpcmV0dXJuIG51bGw7Yj1iLmNvbmNhdChnKX1yZXR1cm4gYn1m
+dW5jdGlvbiBLKGEpe2Zvcih2YXIgYj1bXTsxMjc8YTspYi5wdXNoKGEmMTI3fDEy
+OCksYT4+PTc7Yi5wdXNoKGEpOwpyZXR1cm4gYn12YXIgWmI9MTAwLGFjPTIwMCwk
+Yj0xNUUzLHo9MjAsSWI9NTAsdWE9MTAsWT0xLGJhPTIsbWE9MyxUYT00LFVhPTUs
+VmE9NyxXYT05LFhhPTEwLHJhPTExLHNhPTEyLCRhPTE0LGFiPTE1LHBiPTE3LHFi
+PTE4LHJiPTE5LHNiPTI2LFliPTI3LFdiPTI4LFhiPTI5LFJiPTMwLFFiPTMyLFNi
+PTEsVWI9MixUYj00LHhiPTEsTWI9MixOYj00LHZiPTgsT2I9MTYsd2I9MzIsS2I9
+NjQsUGI9Mix1Yj0xLHRiPTIsYmI9NCxGYj04LEphPTE2LExiPXtBOjEsQUJCUjoy
+LEFDUk9OWU06MyxBRERSRVNTOjQsQVBQTEVUOjUsQVJFQTo2LEI6NyxCQVNFOjgs
+QkFTRUZPTlQ6OSxCRE86MTAsQklHOjExLEJMT0NLUVVPVEU6MTIsQk9EWToxMyxC
+UjoxNCxCVVRUT046MTUsQ0FQVElPTjoxNixDRU5URVI6MTcsQ0lURToxOCxDT0RF
+OjE5LENPTDoyMCxDT0xHUk9VUDoyMSxERDoyMixERUw6MjMsREZOOjI0LERJUjoy
+NSxESVY6MjYsREw6MjcsRFQ6MjgsRU06MjksRklFTERTRVQ6MzAsRk9OVDozMSwK
+Rk9STTozMixGUkFNRTozMyxGUkFNRVNFVDozNCxIMTozNSxIMjozNixIMzozNyxI
+NDozOCxINTozOSxINjo0MCxIRUFEOjQxLEhSOjQyLEhUTUw6NDMsSTo0NCxJRlJB
+TUU6NDUsSU1HOjQ2LElOUFVUOjQ3LElOUzo0OCxJU0lOREVYOjQ5LEtCRDo1MCxM
+QUJFTDo1MSxMRUdFTkQ6NTIsTEk6NTMsTElOSzo1NCxNQVA6NTUsTUVOVTo1NixN
+RVRBOjU3LE5PRlJBTUVTOjU4LE5PU0NSSVBUOjU5LE9CSkVDVDo2MCxPTDo2MSxP
+UFRHUk9VUDo2MixPUFRJT046NjMsUDo2NCxQQVJBTTo2NSxQUkU6NjYsUTo2NyxT
+OjY4LFNBTVA6NjksU0NSSVBUOjcwLFNFTEVDVDo3MSxTTUFMTDo3MixTUEFOOjcz
+LFNUUklLRTo3NCxTVFJPTkc6NzUsU1RZTEU6NzYsU1VCOjc3LFNVUDo3OCxUQUJM
+RTo3OSxUQk9EWTo4MCxURDo4MSxURVhUQVJFQTo4MixURk9PVDo4MyxUSDo4NCxU
+SEVBRDo4NSxUSVRMRTo4NixUUjo4NyxUVDo4OCxVOjg5LFVMOjkwLFZBUjo5MSxO
+T0lOREVYOjEwMH0sUz1YKCksVD1bXSwKY2I9MDtqYSgwKTt2YXIgZGI9MCxQYT1b
+XSx5YixmYj0xLHpiPTAsaGI9WzAsMF0sQWI9MCxpYj1bMCwwXSxqYj0hMCxrYj0h
+MSxnYj0iIixsYj0hMSxGYT0hMCxXPSJBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZ
+WmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSotIi5zcGxpdCgi
+IikscWE9W10sUWEsYmM9MSxjYz0xLGRjPTIsbGM9MyxtYz00LG5jPTUsb2M9Nixl
+Yz03LGZjPTgscmM9OSxxYz0xMCxwYz0xMSxzYz0xMixoYz0xMyxpYz0xNCxqYz0x
+NSxrYz0xNixIYj1wYSgpLEo9Im1ldHJpa2FJZF8iK01hdGgucmFuZG9tKCksS2E9
+e30sbmI9IjpzdWJtaXQiK01hdGgucmFuZG9tKCk7aWYoIk1ldHJpa2FQbGF5ZXIi
+IT1lLm5hbWUmJih5KGMsIm1vdXNlbW92ZSIsRWEpLHkoYywiY2xpY2siLE8pLHko
+YywibW91c2Vkb3duIixPKSx5KGMsIm1vdXNldXAiLERhKSx5KGUsInNjcm9sbCIs
+UCkseShlLCJiZWZvcmV1bmxvYWQiLGcpLGUuQ29tcG9uZW50cz09a2EmJnkoZSwK
+InVubG9hZCIsZykseShlLCJyZXNpemUiLGEpLHkoYywia2V5ZG93biIsZikseShj
+LCJrZXlwcmVzcyIsbCkseShjLCJjb3B5IixoKSx5KGMsInRvdWNobW92ZSIsRSks
+eShjLCJ0b3VjaHN0YXJ0IixFKSxjLmF0dGFjaEV2ZW50JiYhZS5vcGVyYT8oeShj
+LCJmb2N1c2luIixCYikseShjLCJmb2N1c291dCIsQ2IpKTooeShlLCJmb2N1cyIs
+bSkseShlLCJibHVyIixHYSkseShjLCJibHVyIixHYSkpLGMuYWRkRXZlbnRMaXN0
+ZW5lcj8oYy5hZGRFdmVudExpc3RlbmVyKCJmb2N1cyIsdSwhMCksYy5hZGRFdmVu
+dExpc3RlbmVyKCJibHVyIixSYSwhMCksYy5hZGRFdmVudExpc3RlbmVyKCJjaGFu
+Z2UiLHYsITApLGMuYWRkRXZlbnRMaXN0ZW5lcigic3VibWl0IixIYSwhMCkpOmMu
+YXR0YWNoRXZlbnQmJih5KGMsImZvY3VzaW4iLHUpLHkoYywiZm9jdXNvdXQiLFJh
+KSxmdW5jdGlvbigpe2Zvcih2YXIgYT1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJm
+b3JtIiksYj0wO2I8YS5sZW5ndGg7YisrKXtmb3IodmFyIGc9CmFbYl0uZ2V0RWxl
+bWVudHNCeVRhZ05hbWUoIioiKSxmPTA7ZjxnLmxlbmd0aDtmKyspL15JTlBVVHxT
+RUxFQ1R8VEVYVEFSRUEkLy50ZXN0KGdbZl0udGFnTmFtZSkmJnkoZ1tmXSwiY2hh
+bmdlIix2KTt5KGFbYl0sInN1Ym1pdCIsSGEpfX0oKSksZnVuY3Rpb24oKXt2YXIg
+YT1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJmb3JtIik7aWYoYS5sZW5ndGgpZm9y
+KHZhciBiPTA7YjxhLmxlbmd0aDtiKyspYVtiXVtuYl09YVtiXS5zdWJtaXQsYVti
+XS5zdWJtaXQ9ZnVuY3Rpb24oKXtIYSh7dGFyZ2V0OnRoaXN9KTtyZXR1cm4gdGhp
+c1tuYl0oKX19KCksIjA6MCIhPVMuam9pbigiOiIpJiZQKCksWWEuTWV0cmlrYS5j
+YXB0dXJlRnVuY3Rpb25zPWZ1bmN0aW9uKCl7Zm9yKHZhciBhPTA7YTxhcmd1bWVu
+dHMubGVuZ3RoO2ErKyl7dmFyIGI9YXJndW1lbnRzW2FdOyJmdW5jdGlvbiI9PXR5
+cGVvZiBlW2JdJiYoZVtiXT1mdW5jdGlvbihhLGQpe3JldHVybiBmdW5jdGlvbigp
+e3ZhciBiO0QoZWIsCltHKCksYSxhcmd1bWVudHNdKTtyZXR1cm4gZC5hcHBseSh0
+aGlzLGFyZ3VtZW50cyl9fShiLGVbYl0pKX19LCJ1bmRlZmluZWQiIT10eXBlb2Yg
+ayYmay53ZWJ2aXNvcikpe3ZhciBRPWsud2Vidmlzb3I7aWYoUS5jYXB0dXJlRnVu
+Y3Rpb25zKXtpZigiW29iamVjdCBBcnJheV0iIT1PYmplY3QucHJvdG90eXBlLnRv
+U3RyaW5nLmNhbGwoUS5jYXB0dXJlRnVuY3Rpb25zKSlRLmNhcHR1cmVGdW5jdGlv
+bnM9W1EuY2FwdHVyZUZ1bmN0aW9uc107WWEuTWV0cmlrYS5jYXB0dXJlRnVuY3Rp
+b25zLmFwcGx5KHRoaXMsUS5jYXB0dXJlRnVuY3Rpb25zKX1pZihRLnVwbG9hZFBh
+Z2VzKXtpZigiW29iamVjdCBBcnJheV0iIT1PYmplY3QucHJvdG90eXBlLnRvU3Ry
+aW5nLmNhbGwoUS51cGxvYWRQYWdlcykpUS51cGxvYWRQYWdlcz1bUS51cGxvYWRQ
+YWdlc107Zm9yKHZhciBvYj0wO29iPFEudXBsb2FkUGFnZXMubGVuZ3RoO29iKysp
+e3ZhciBTYT1RLnVwbG9hZFBhZ2VzW29iXTtpZigic3RyaW5nIj09CnR5cGVvZiBT
+YSYmKFNhPVNhLnJlcGxhY2UoL1suKis/XF49IToke30oKXxcW1xdXC9cXF0vZyxm
+dW5jdGlvbihhKXtyZXR1cm4iKiI9PWE/Ii4qIjoiXFwiK2F9KSxSZWdFeHAoIl4i
+K1NhKyIkIikudGVzdChxKCkuaHJlZikpKXtZYS5NZXRyaWthLnVwbG9hZFBhZ2Uo
+KTticmVha319fX1yZXR1cm57c3RvcDpmdW5jdGlvbigpe3IoYywibW91c2Vtb3Zl
+IixFYSk7cihjLCJjbGljayIsTyk7cihjLCJtb3VzZWRvd24iLE8pO3IoYywibW91
+c2V1cCIsRGEpO3IoZSwic2Nyb2xsIixQKTtyKGUsImJlZm9yZXVubG9hZCIsZyk7
+cihlLCJ1bmxvYWQiLGcpO3IoZSwicmVzaXplIixhKTtyKGMsImtleWRvd24iLGYp
+O3IoYywia2V5cHJlc3MiLGwpO3IoYywiY29weSIsaCk7cihjLCJ0b3VjaG1vdmUi
+LEUpO3IoYywidG91Y2hzdGFydCIsRSk7cihjLCJmb2N1c2luIixCYik7cihjLCJm
+b2N1c291dCIsQ2IpO3IoZSwiZm9jdXMiLG0pO3IoZSwiYmx1ciIsR2EpO3IoYywi
+Ymx1ciIsR2EpO2MucmVtb3ZlRXZlbnRMaXN0ZW5lcj8KKGMucmVtb3ZlRXZlbnRM
+aXN0ZW5lcigiZm9jdXMiLHUsITApLGMucmVtb3ZlRXZlbnRMaXN0ZW5lcigiYmx1
+ciIsUmEsITApLGMucmVtb3ZlRXZlbnRMaXN0ZW5lcigiY2hhbmdlIix2LCEwKSxj
+LnJlbW92ZUV2ZW50TGlzdGVuZXIoInN1Ym1pdCIsSGEsITApKTpjLmRldGFjaEV2
+ZW50JiYocihjLCJmb2N1c2luIix1KSxyKGMsImZvY3Vzb3V0IixSYSksZnVuY3Rp
+b24oKXtmb3IodmFyIGE9Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgiZm9ybSIpLGI9
+MDtiPGEubGVuZ3RoO2IrKyl7Zm9yKHZhciBnPWFbYl0uZ2V0RWxlbWVudHNCeVRh
+Z05hbWUoIioiKSxmPTA7ZjxnLmxlbmd0aDtmKyspL15JTlBVVHxTRUxFQ1R8VEVY
+VEFSRUEkLy50ZXN0KGdbZl0udGFnTmFtZSkmJnIoZ1tmXSwiY2hhbmdlIix2KTty
+KGFbYl0sInN1Ym1pdCIsSGEpfX0oKSk7KGZ1bmN0aW9uKCl7Zm9yKHZhciBhPWMu
+Z2V0RWxlbWVudHNCeVRhZ05hbWUoImZvcm0iKSxiPTA7YjxhLmxlbmd0aDtiKysp
+YVtiXS5zdWJtaXQ9CmFbYl1bbmJdfSkoKX19fXZhciBwYj0hMTtlLllhPWUuWWF8
+fHt9O1lhLl9tZXRyaWthPVlhLl9tZXRyaWthfHx7fTtZYS5fbWV0cmlrYS5oaXRQ
+YXJhbT1ZYS5fbWV0cmlrYS5oaXRQYXJhbXx8e307dmFyIHFiPSExLFI9cSgpLERi
+LG1iLFg9ZS5uYXZpZ2F0b3IsWj1lLnNjcmVlbix2YT0iaHR0cHM6Ij09Ui5wcm90
+b2NvbD8iaHR0cHM6IjoiaHR0cDoiLHJiPSIkUmV2OiAxODI1ICQiLm1hdGNoKC8o
+XGQrKS8pWzFdLCQ9Im9iamVjdCI9PXR5cGVvZiBjLmFsbCxUYT02NCxhYT0kPzUx
+MjoyMDQ4LFVhPSQ/NTEyOjIwNDgsVmE9JD8xMDA6NDAwLGlhPSJub2luZGV4Iixq
+YT01MCxXYT1SZWdFeHAoIlxcLig3enxhYWN8YWl8YXZpfGFwa3xibXB8Y2FifGNz
+dnxjZHJ8ZG1nfGRqdnU/fGRvYyh4fG18Yik/fGVwc3xleGV8Zmx2fGdpZnxnenxq
+cGU/Z3xqc3xtNGF8bXAoM3w0fGU/Zyl8bW92fG1zaXxvZHN8cGRmfHBocHN8cG5n
+fHBwdCh4fG18Yik/fHBzZHxyYXJ8cnNzfHJ0ZnxzZWF8c2l0fHRhcnx0aWY/Znx0
+b3JyZW50fHR4dHx3YXZ8d21hfHdtdnx4bHMoeHxtfGIpP3x4cGl8emlwKSQiLAoi
+aSIpLHNiPStuZXcgRGF0ZSxYYT0iX3ltX3Zpc29yYyI7ZS5ZYS5NZXRyaWthPWZ1
+bmN0aW9uKEMsSSxrLEEpe2Z1bmN0aW9uIG8oYSxjLGIpe1ZbVi5sZW5ndGhdPVti
+LGJdO2EuYWRkRXZlbnRMaXN0ZW5lcj9hLmFkZEV2ZW50TGlzdGVuZXIoYyxiLCEx
+KTphLmF0dGFjaEV2ZW50JiZhLmF0dGFjaEV2ZW50KCJvbiIrYyxiKX1mdW5jdGlv
+biB0KGEsYyxiKXtmb3IodmFyIGY9MDtmPFYubGVuZ3RoO2YrKylpZihWW2ZdJiZW
+W2ZdWzBdPT1iKXt2YXIgZT1WW2ZdWzFdO2RlbGV0ZSBWW2ZdO2JyZWFrfWUmJihh
+LnJlbW92ZUV2ZW50TGlzdGVuZXI/YS5yZW1vdmVFdmVudExpc3RlbmVyKGMsZSwh
+MSk6YS5kZXRhY2hFdmVudCYmYS5kZXRhY2hFdmVudCgib24iK2MsZSkpfWZ1bmN0
+aW9uIEIoYSxjKXtjPWN8fDI1NjtpZighYSlyZXR1cm4iIjthLmxlbmd0aD5jJiYo
+YT1hLnN1YnN0cigwLGMpKTtyZXR1cm4oZS5lbmNvZGVVUklDb21wb25lbnR8fGUu
+ZXNjYXBlKShhKS5yZXBsYWNlKC9cKy9nLAoiJTJCIil9ZnVuY3Rpb24gTChhKXtm
+dW5jdGlvbiBjKGEpe3JldHVybiBhP2EucmVwbGFjZSgvXFwvZywiXFxcXCIpLnJl
+cGxhY2UoLyIvZywnXFwiJyk6IiJ9aWYoYT09PWthKXJldHVybiIiO2lmKG51bGw9
+PT1hKXJldHVybiJudWxsIjtzd2l0Y2goYS5jb25zdHJ1Y3Rvcil7Y2FzZSBCb29s
+ZWFuOnJldHVybiBhLnRvU3RyaW5nKCk7Y2FzZSBOdW1iZXI6cmV0dXJuIGlzRmlu
+aXRlKGEpP2EudG9TdHJpbmcoKToibnVsbCI7Y2FzZSBTdHJpbmc6cmV0dXJuJyIn
+K2MoYSkrJyInO2Nhc2UgQXJyYXk6Zm9yKHZhciBiPVtdLGY9MCxlPWEubGVuZ3Ro
+O2Y8ZTtmKyspYltiLmxlbmd0aF09TChhW2ZdKTtyZXR1cm4iWyIrYi5qb2luKCIs
+IikrIl0iO2Nhc2UgT2JqZWN0OmI9InsiO2Y9MDtmb3IoZSBpbiBhKWlmKGEuaGFz
+T3duUHJvcGVydHkoZSkpe3ZhciBoPWFbZV07aCE9PWthJiYoYis9KGY/IiwiOiIi
+KSsnIicrYyhlKSsnIjonK0woaCksZisrKX1yZXR1cm4gYisifSI7ZGVmYXVsdDpy
+ZXR1cm4ibnVsbCJ9fQpmdW5jdGlvbiBZKGEpe2Zvcih2YXIgYz0rbmV3IERhdGUs
+Yj0xOzA8YjtiKyspaWYoMD09YiUxRTMpe3ZhciBmPStuZXcgRGF0ZTtpZihjPmYp
+YnJlYWs7aWYoZi1jPmEpYnJlYWt9fWZ1bmN0aW9uIGJhKGEsYyl7aWYoIWF8fCFj
+KXJldHVybiExO2Zvcih2YXIgYj1bXSxmPTA7ZjxjLmxlbmd0aDtmKyspYi5wdXNo
+KGNbZl0ucmVwbGFjZSgvXF4vZywiXFxeIikucmVwbGFjZSgvXCQvZywiXFwkIiku
+cmVwbGFjZSgvXC4vZywiXFwuIikucmVwbGFjZSgvXFsvZywiXFxbIikucmVwbGFj
+ZSgvXF0vZywiXFxdIikucmVwbGFjZSgvXHwvZywiXFx8IikucmVwbGFjZSgvXCgv
+ZywiXFwoIikucmVwbGFjZSgvXCkvZywiXFwpIikucmVwbGFjZSgvXD8vZywiXFw/
+IikucmVwbGFjZSgvXCovZywiXFwqIikucmVwbGFjZSgvXCsvZywiXFwrIikucmVw
+bGFjZSgvXHsvZywiXFx7IikucmVwbGFjZSgvXH0vZywiXFx9IikpO3JldHVybiBS
+ZWdFeHAoIlxcLigiK2Iuam9pbigifCIpKyIpJCIsImkiKS50ZXN0KGEpfQpmdW5j
+dGlvbiBtYShhKXthPWEudGFyZ2V0fHxhLnNyY0VsZW1lbnQ7aWYoIWEpcmV0dXJu
+ITE7aWYoMz09YS5ub2RlVHlwZSlhPWEucGFyZW50Tm9kZTtmb3IodmFyIGM9YS5u
+b2RlTmFtZS50b1N0cmluZygpLnRvTG93ZXJDYXNlKCk7YS5wYXJlbnROb2RlJiZh
+LnBhcmVudE5vZGUubm9kZU5hbWUmJigiYSIhPWMmJiJhcmVhIiE9Y3x8IWEuaHJl
+Zik7KWE9YS5wYXJlbnROb2RlLGM9YS5ub2RlTmFtZS50b1N0cmluZygpLnRvTG93
+ZXJDYXNlKCk7cmV0dXJuIWEuaHJlZj8hMTphfWZ1bmN0aW9uIGNhKGEsYyl7cmV0
+dXJuKGE/YS5yZXBsYWNlKC9ed3d3XC4vLCIiKToiIik9PShjP2MucmVwbGFjZSgv
+Xnd3d1wuLywiIik6IiIpPyEwOiExfWZ1bmN0aW9uIHJhKGEsYyl7ZnVuY3Rpb24g
+YihhKXthPWEuc3BsaXQoIjoiKTthPWFbMV18fCIiO2E9YS5yZXBsYWNlKC9eXC8q
+LywiIikucmVwbGFjZSgvXnd3d1wuLywiIik7cmV0dXJuIGEuc3BsaXQoIi8iKVsw
+XX1yZXR1cm4hYXx8IWM/IWEmJgohYz8hMDohMTpiKGEpPT1iKGMpPyEwOiExfWZ1
+bmN0aW9uIG5hKGEsYyl7dmFyIGI9Yy50YXJnZXQsZj0hMTtpZighYy5ob3N0bmFt
+ZSlyZXR1cm4hMTtpZighYnx8Il9zZWxmIj09Ynx8Il90b3AiPT1ifHwiX3BhcmVu
+dCI9PWIpZj0hMDsoYj1hLnNoaWZ0S2V5fHxhLmN0cmxLZXl8fGEuYWx0S2V5KXx8
+YS5tb2RpZmllcnMmJmUuRXZlbnQmJihiPWEubW9kaWZpZXJzJmUuRXZlbnQuQ09O
+VFJPTF9NQVNLfHxhLm1vZGlmaWVycyZlLkV2ZW50LlNISUZUX01BU0t8fGEubW9k
+aWZpZXJzJmUuRXZlbnQuQUxUX01BU0spO3JldHVybiBmJiYhYn1mdW5jdGlvbiBN
+KGEsYyxiLGYsbCl7ZnVuY3Rpb24gaChhLGIpe21bbS5sZW5ndGhdPWE7bVttLmxl
+bmd0aF09Yn12YXIgbD1sfHx7fSxiPSJ1bmRlZmluZWQiIT10eXBlb2YgYj9iOmdh
+LG09W107bC5hciYmIWwub25seURhdGEmJihiPWRhKGIpLGE9ZGEoYSkpO2goInBh
+Z2UtcmVmIixCKGIsYWEpKTtoKCJwYWdlLXVybCIsQihhLGFhKSk7aCgiYnJvd3Nl
+ci1pbmZvIiwKcihjLGwpKTstMSE9cSgpLmhvc3RuYW1lLnNlYXJjaCgvKD86Xnxc
+LikoPzp5YXx5YW5kZXh8bmFyb2R8bmFyb2QyKVwuKD86XHcrfGNvbVwuXHcrKSQv
+KT9oKCJ1dCIsaWEpOiJ1bmRlZmluZWQiIT10eXBlb2YgbC51dCYmaCgidXQiLEIo
+IiIrbC51dCxUYSkpO2YmJmgoInNpdGUtaW5mbyIsQihMKGYpLFVhKSk7bC5zYXZl
+UmVmJiYoZ2E9Yik7YT1vYShPYSxtKTtpZigiTWV0cmlrYVBsYXllciIhPWUubmFt
+ZSkobmV3IEltYWdlKS5zcmM9YSx5KGEpLGwuaXNEZWxheSYmWShsLmRlbGF5KTty
+ZXR1cm4gYX1mdW5jdGlvbiBzYShhLGcsYixmLGwsaCxtKXtmdW5jdGlvbiBpKGEs
+Yil7a1trLmxlbmd0aF09YTtrW2subGVuZ3RoXT1ifXZhciBsPWx8fHt9LGI9InVu
+ZGVmaW5lZCIhPXR5cGVvZiBiP2I6Z2Esaz1bXTtsLmFyJiYhbC5vbmx5RGF0YSYm
+KGI9ZGEoYiksYT1kYShhKSk7aWYoIk1ldHJpa2FQbGF5ZXIiIT1lLm5hbWUpe3Zh
+ciBuPSJfeW1qc3AiK01hdGguZmxvb3IoMUU2Kk1hdGgucmFuZG9tKCkpLAp1PWMu
+Y3JlYXRlRWxlbWVudCgic2NyaXB0Iik7ZVtuXT1mdW5jdGlvbihhKXt0cnl7ZGVs
+ZXRlIGVbbl19Y2F0Y2goYil7ZVtuXT1rYX1tKGEpO3UucGFyZW50Tm9kZSYmdS5w
+YXJlbnROb2RlLnJlbW92ZUNoaWxkKHUpfTtpKCJ3bW9kZSIsNSk7aSgiY2FsbGJh
+Y2siLG4pO2koInBhZ2UtcmVmIixCKGIsYWEpKTtpKCJwYWdlLXVybCIsQihhLGFh
+KSk7YT1yKGcsbCk7aCYmKGE9WyJ2YyIsaCxhXS5qb2luKCI6IikpO2koImJyb3dz
+ZXItaW5mbyIsYSk7LTEhPXEoKS5ob3N0bmFtZS5zZWFyY2goLyg/Ol58XC4pKD86
+eWF8eWFuZGV4fG5hcm9kfG5hcm9kMilcLig/Olx3K3xjb21cLlx3KykkLyk/aSgi
+dXQiLGlhKToidW5kZWZpbmVkIiE9dHlwZW9mIGwudXQmJmkoInV0IixCKCIiK2wu
+dXQsVGEpKTtmJiZpKCJzaXRlLWluZm8iLEIoTChmKSxVYSkpO2wuc2F2ZVJlZiYm
+KGdhPWIpO2Y9b2EoT2Esayk7dS50eXBlPSJ0ZXh0L2phdmFzY3JpcHQiO3Uuc3Jj
+PWY7bD1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJoZWFkIilbMF07CmwuaW5zZXJ0
+QmVmb3JlKHUsbC5maXJzdENoaWxkKTt5KGYpfX1mdW5jdGlvbiBvYShhLGMpe2Zv
+cih2YXIgYj1bInJuIixNYXRoLmZsb29yKDFFNipNYXRoLnJhbmRvbSgpKSwiY250
+LWNsYXNzIixrXS5jb25jYXQoYyksZj1bXSxlPTA7ZTxiLmxlbmd0aDtlKz0yKXt2
+YXIgaD1iW2UrMV07aCYmKGZbZi5sZW5ndGhdPWJbZV0rIj0iK2gpfXJldHVybiB2
+YSthK0MrIj8iK2Yuam9pbigiJiIpfWZ1bmN0aW9uIGRhKGEpe3ZhciBjPXEoKSxi
+PWMuaG9zdCxjPWMuaHJlZjtpZighYSlyZXR1cm4gYztpZigtMSE9YS5zZWFyY2go
+L15cdys6XC9cLy8pKXJldHVybiBhO3ZhciBmPWEuY2hhckF0KDApO2lmKCI/Ij09
+ZilyZXR1cm4gZj1jLnNlYXJjaCgvXD8vKSwtMT09Zj9jK2E6Yy5zdWJzdHIoMCxm
+KSthO2lmKCIjIj09ZilyZXR1cm4gZj1jLnNlYXJjaCgvIy8pLC0xPT1mP2MrYTpj
+LnN1YnN0cigwLGYpK2E7aWYoIi8iPT1mKXtpZihmPWMuc2VhcmNoKGIpLC0xIT1m
+KXJldHVybiBjLnN1YnN0cigwLApmK2IubGVuZ3RoKSthfWVsc2UgcmV0dXJuIGI9
+Yy5zcGxpdCgiLyIpLGJbYi5sZW5ndGgtMV09YSxiLmpvaW4oIi8iKTtyZXR1cm4g
+YX1mdW5jdGlvbiB5KGEpeyJmdW5jdGlvbiI9PXR5cGVvZiBlLnltTG9nJiZlLnlt
+TG9nKGEpfWZ1bmN0aW9uIHIoYSxnKXtmdW5jdGlvbiBiKGEsYil7YSYmYiYmKGxb
+bC5sZW5ndGhdPVthLGJdLmpvaW4oIjoiKSl9ZnVuY3Rpb24gZihhKXtiKGEsZ1th
+XT8iMSI6IiIpfXZhciBnPWd8fHt9LGw9W10saD0tMSoobmV3IERhdGUpLmdldFRp
+bWV6b25lT2Zmc2V0KCksbT1wYSgpO21ifHwobWI9bSxEYj1oKTtiKCJqIixYLmph
+dmFFbmFibGVkKCk/IjEiOiIiKTtaJiZiKCJzIixaLndpZHRoKyJ4IitaLmhlaWdo
+dCsieCIrKFouY29sb3JEZXB0aHx8Wi5waXhlbERlcHRoKSk7bnVsbD09PUJhJiYo
+QmE9VSgpKTtiKCJmIixCYSk7YigidyIsRygpKyJ4IitmYSgpKTtiKCJ6IixoKTti
+KCJpIixtKTtudWxsPT09Q2EmJihDYT1HYigpKTtiKCJsIixDYXx8IiIpOwpiKCJl
+biIsSWEoKXx8IiIpO2IoInYiLHJiKTtiKCJjIixYLmNvb2tpZUVuYWJsZWQ/IjEi
+OiIiKTskJiZjLmRvY3VtZW50TW9kZSYmKG51bGw9PT1oYSYmKGhhPUZ1bmN0aW9u
+KCJyZXR1cm4gLypAY2Nfb24gQF9qc2NyaXB0X3ZlcnNpb24gQCovOyIpKCkpLGhh
+JiZiKCJqdiIsaGEpKTtiKCJsYSIsKFgmJihYLmxhbmd1YWdlfHxYLmJyb3dzZXJM
+YW5ndWFnZSl8fCIiKS50b0xvd2VyQ2FzZSgpKTtiKCJleCIsInByZXJlbmRlciI9
+PWMud2Via2l0VmlzaWJpbGl0eVN0YXRlPyJwcmUxIjoiIik7UCYmYigid2giLCIx
+Iik7bT0iYXIsbG4sZGwsYWQsbmIscGEiLnNwbGl0KCIsIik7Zm9yKGg9MDtoPG0u
+bGVuZ3RoO2grKylmKG1baF0pO209WyJ2YSIsInZ0Iiwic24iLCJzYSIsImhlIl07
+Zm9yKGg9MDtoPG0ubGVuZ3RoO2grKyl7dmFyIGk9bVtoXTtiKGksZ1tpXSl9aWYo
+bi5fd2Vidmlzb3Ipe2IoImhpZCIsemEpO2lmKCFlLm5hbWUpZS5uYW1lPU1hdGgu
+cm91bmQoNjU1MzUqTWF0aC5yYW5kb20oKSk7CmlmKGg9K2UubmFtZSkwPmgmJiho
+Kj0tMSksaCU9NjU1MzU7Yigid24iLGh8fGxhKGUubmFtZSkpO3RyeXtlLm9wZW5l
+ciYmZS5vcGVuZXIubmFtZSYmYigib24iLGxhKGUub3BlbmVyLm5hbWUpKX1jYXRj
+aChrKXt9dHJ5e2UuaGlzdG9yeSYmYigiaGwiLCIiK2UuaGlzdG9yeS5sZW5ndGgp
+fWNhdGNoKHEpe319aD0idW5kZWZpbmVkIj09dHlwZW9mIGE/KGg9ZWEoKSk/Qiho
+LFZhKToiIjpCKGEsVmEpO2IoInQiLGgpO3JldHVybiBsLmpvaW4oIjoiKX1mdW5j
+dGlvbiBJYSgpe3ZhciBhPSIiLGc9Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgibWV0
+YSIpO2lmKGcmJjA8Zy5sZW5ndGgpZm9yKHZhciBiPTAsZj1nLmxlbmd0aDtiPGY7
+YisrKXtpZihnW2JdLmNvbnRlbnQpe3ZhciBlPWdbYl0uY29udGVudC5tYXRjaCgv
+Y2hhcnNldD0oLiopLyk7aWYoZSl7YT1lWzFdO2JyZWFrfX19ZWxzZSBhPWMuY2hh
+cmFjdGVyU2V0fHxjLmNoYXJzZXQ7cmV0dXJuIGF9ZnVuY3Rpb24gVSgpe3ZhciBh
+PQpudWxsLGM9bnVsbCxiLGY9ZS5uYXZpZ2F0b3I7aWYoInVuZGVmaW5lZCIhPXR5
+cGVvZiBmLnBsdWdpbnMmJiJvYmplY3QiPT10eXBlb2YgZi5wbHVnaW5zWyJTaG9j
+a3dhdmUgRmxhc2giXSkoYT1mLnBsdWdpbnNbIlNob2Nrd2F2ZSBGbGFzaCJdLmRl
+c2NyaXB0aW9uKSYmISgidW5kZWZpbmVkIiE9dHlwZW9mIGYubWltZVR5cGVzJiZm
+Lm1pbWVUeXBlc1siYXBwbGljYXRpb24veC1zaG9ja3dhdmUtZmxhc2giXSYmIWYu
+bWltZVR5cGVzWyJhcHBsaWNhdGlvbi94LXNob2Nrd2F2ZS1mbGFzaCJdLmVuYWJs
+ZWRQbHVnaW4pJiYoYz1hLnJlcGxhY2UoLyhbYS16QS1aXXxccykrLywiIikucmVw
+bGFjZSgvKFxzK3J8XHMrYlswLTldKykvLCIuIikpO2Vsc2UgaWYoInVuZGVmaW5l
+ZCIhPXR5cGVvZiBlLkFjdGl2ZVhPYmplY3QpdHJ5e2lmKGI9bmV3IEFjdGl2ZVhP
+YmplY3QoIlNob2Nrd2F2ZUZsYXNoLlNob2Nrd2F2ZUZsYXNoIikpKGE9Yi5HZXRW
+YXJpYWJsZSgiJHZlcnNpb24iKSkmJihjPQphLnNwbGl0KCIgIilbMV0ucmVwbGFj
+ZSgvLC9nLCIuIikucmVwbGFjZSgvW14uXGRdL2csIiIpKX1jYXRjaChsKXt9cmV0
+dXJuIGN9ZnVuY3Rpb24gZWEoKXt2YXIgYT1jLnRpdGxlOyJzdHJpbmciIT10eXBl
+b2YgYSYmKGE9KGE9Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgidGl0bGUiKSkmJmEu
+bGVuZ3RoP2FbMF0uaW5uZXJIVE1MOiIiKTtyZXR1cm4gYX1mdW5jdGlvbiBHYigp
+e3ZhciBhPW51bGw7aWYoZS5BY3RpdmVYT2JqZWN0KXRyeXt2YXIgYz1uZXcgQWN0
+aXZlWE9iamVjdCgiQWdDb250cm9sLkFnQ29udHJvbCIpLGI9ZnVuY3Rpb24oYSxi
+LGMsZil7Zm9yKDthLmlzVmVyc2lvblN1cHBvcnRlZChiWzBdKyIuIitiWzFdKyIu
+IitiWzJdKyIuIitiWzNdKTspYltjXSs9ZjtiW2NdLT1mfSxmPVsxLDAsMCwwXTti
+KGMsZiwwLDEpO2IoYyxmLDEsMSk7YihjLGYsMiwxRTQpO2IoYyxmLDIsMUUzKTti
+KGMsZiwyLDEwMCk7YihjLGYsMiwxMCk7YihjLGYsMiwxKTtiKGMsZiwzLDEpO2E9
+CmYuam9pbigiLiIpfWNhdGNoKGwpe31lbHNlIGlmKGM9WC5wbHVnaW5zWyJTaWx2
+ZXJsaWdodCBQbHVnLUluIl0pYT1jLmRlc2NyaXB0aW9uO3JldHVybiBhfWZ1bmN0
+aW9uIHBhKCl7Zm9yKHZhciBhPW5ldyBEYXRlLGE9W2EuZ2V0RnVsbFllYXIoKSxh
+LmdldE1vbnRoKCkrMSxhLmdldERhdGUoKSxhLmdldEhvdXJzKCksYS5nZXRNaW51
+dGVzKCksYS5nZXRTZWNvbmRzKCldLGM9IiIsYj0wO2I8YS5sZW5ndGg7YisrKWMr
+PTEwPmFbYl0/IjAiK2FbYl06YVtiXTtyZXR1cm4gY31mdW5jdGlvbiBHKCl7dmFy
+IGE9LTE7aWYoYy5kb2N1bWVudEVsZW1lbnQmJiJDU1MxQ29tcGF0Ij09Yy5jb21w
+YXRNb2RlKWE9Yy5kb2N1bWVudEVsZW1lbnQuY2xpZW50V2lkdGg7ZWxzZSBpZihj
+LmJvZHkpYT1jLmJvZHkuY2xpZW50V2lkdGg7cmV0dXJuIGF9ZnVuY3Rpb24gZmEo
+KXt2YXIgYT0tMTtpZihjLmRvY3VtZW50RWxlbWVudCYmIkNTUzFDb21wYXQiPT1j
+LmNvbXBhdE1vZGUpYT1jLmRvY3VtZW50RWxlbWVudC5jbGllbnRIZWlnaHQ7CmVs
+c2UgaWYoYy5ib2R5KWE9Yy5ib2R5LmNsaWVudEhlaWdodDtyZXR1cm4gYX1mdW5j
+dGlvbiB4KCl7WWEuX21ldHJpa2EuY291bnRlcnM9WWEuX21ldHJpa2EuY291bnRl
+cnN8fHt9O3ZhciBhPSExLGc9QysiOiIraztpZihZYS5fbWV0cmlrYS5oaXRQYXJh
+bVtnXSlpZigxPT1rJiYhWWEuX21ldHJpa2EuY291bnRlcnNbZ10pYT0hMDtlbHNl
+IHJldHVybiExO1lhLl9tZXRyaWthLmNvdW50ZXJzW2ddPW47WWEuX21ldHJpa2Eu
+aGl0UGFyYW1bZ109MTt2YXIgYjtuLl93ZWJ2aXNvcj0hQSYmKEgmJkgud2Vidmlz
+b3J8fHBifHxxYik7aWYoIUEmJiFhKXt2YXIgZj11YShYYSk7ImIiIT1mJiYidyIh
+PWYmJihmPSIiKTskYSgpfHwoZj0iYiIpO3NhKFIuaHJlZixlYSgpLGMucmVmZXJy
+ZXIsSSx7dXQ6QWEsaGU6SD9+fkguaHR0cEVycm9yOjAsYWQ6MT09ayYmZS5ZYSYm
+ZS5ZYS5EaXJlY3Q/ITA6ITEsc2F2ZVJlZjohMH0sZixmdW5jdGlvbihhKXt2YXIg
+YT1hfHx7fSxjPWEud2Vidmlzb3J8fAp7fSxhPVtdO2lmKGIpe2M9K2MucmVjcDtp
+ZighaXNGaW5pdGUoYyl8fDA+Y3x8MTxjKWY9InciO2Z8fChmPXphJTFFNC8xRTQ8
+Yz8idyI6ImIiKTt0YShYYSxmLDMwKTsidyI9PWY/RihhLCJ2aXNvciIpOmIuc3Rv
+cCgpfUQuaW5pdChhKX0pfXdhKCk7SCYmKEguZW5hYmxlQWxsP24uZW5hYmxlQWxs
+KCk6KEguY2xpY2ttYXAmJm4uY2xpY2ttYXAoSC5jbGlja21hcCksSC50cmFja0xp
+bmtzJiZuLnRyYWNrTGlua3MoSC50cmFja0xpbmtzKSxILmFjY3VyYXRlVHJhY2tC
+b3VuY2UmJm4uYWNjdXJhdGVUcmFja0JvdW5jZShILmFjY3VyYXRlVHJhY2tCb3Vu
+Y2UpKSxILnRyYWNrSGFzaCYmbi50cmFja0hhc2goITApKTtuLl93ZWJ2aXNvciYm
+KGI9bmV3IGFiKEMsayxILHphLEQpKX1mdW5jdGlvbiBpKGEpe3ZhciBjPXtkZWxh
+eTpqYX07c3dpdGNoKHR5cGVvZiBhKXtjYXNlICJzdHJpbmciOmMub249ITA7YnJl
+YWs7Y2FzZSAib2JqZWN0IjpjLm9uPSEwO2MuZGVsYXk9Im51bWJlciIhPXR5cGVv
+ZiBhLmRlbGF5PwpqYTphLmRlbGF5O2JyZWFrO2Nhc2UgImJvb2xlYW4iOmMub249
+YTticmVhaztkZWZhdWx0OnJldHVybn1OPWN9ZnVuY3Rpb24gd2EoKXtpKCExKTtv
+KGMsImNsaWNrIixmdW5jdGlvbihhKXtOLm9uJiZ4YShhKX0pfWZ1bmN0aW9uIHhh
+KGEpe2Z1bmN0aW9uIGMoYSl7dmFyIGY7Zj0oZj1iLmlubmVySFRNTD9iLmlubmVy
+SFRNTC50b1N0cmluZygpLnJlcGxhY2UoLzxcLz9bXj5dKz4vZ2ksIiIpOiIiKT9m
+LnRvU3RyaW5nKCkucmVwbGFjZSgvXlxzKy8sIiIpLnJlcGxhY2UoL1xzKyQvLCIi
+KToiIjtNKGUsZT09Zj8iIjpmLHEoKS5ocmVmLG51bGwsYSl9dmFyIGI9bWEoYSk7
+aWYoYil7dmFyIGY9ITEsZT0iIitiLmhyZWYsaD1lP2Uuc3BsaXQoL1w/LylbMF06
+IiI7aWYoV2EudGVzdChoKXx8V2EudGVzdChlKXx8YmEoZSxPKXx8YmEoaCxPKSlm
+PSEwO3ZhciBtPWIuY2xhc3NOYW1lLGg9bSYmLTEhPW0uc2VhcmNoKC95bS1kaXNh
+YmxlLXRyYWNrbGluay8pPyEwOiExLG09bSYmLTEhPW0uc2VhcmNoKC95bS1leHRl
+cm5hbC1saW5rLyk/CiEwOiExO2lmKCFoKWlmKGE9e2xuOiEwLGRsOmYsaXNEZWxh
+eTpuYShhLGIpLGRlbGF5Ok4uZGVsYXl9LG0pYyhhKTtlbHNlIGlmKGNhKHEoKS5o
+b3N0bmFtZSxiLmhvc3RuYW1lKSl7aWYoZilhLmxuPSExLGMoYSl9ZWxzZSBpZigh
+KGUmJi0xIT1lLnNlYXJjaCgvXiAqamF2YXNjcmlwdDovaSkpKWEudXQ9aWEsYyhh
+KX19ZnVuY3Rpb24gSmIoYSxnKXtmdW5jdGlvbiBiKCl7aWYoIXEpe3UmJmNsZWFy
+VGltZW91dCh1KTt2YXIgYj1nLShpP2s6aysgK25ldyBEYXRlLW4pOzA+YiYmKGI9
+MCk7dT1zZXRUaW1lb3V0KGZ1bmN0aW9uKCl7cT0hMDtsKCExKTthKCl9LGIpfX1m
+dW5jdGlvbiBmKCl7bXx8KGg9ITAsaT0hMSxtPSEwLGIoKSl9ZnVuY3Rpb24gbChh
+KXtmb3IodmFyIGI9MDtiPHYubGVuZ3RoO2IrPTMpYT9vKHZbYl0sdltiKzFdLHZb
+YisyXSk6dCh2W2JdLHZbYisxXSx2W2IrMl0pfXZhciBoPSExLG09ITEsaT0hMCxr
+PTAsbj0rbmV3IERhdGUsdT1udWxsLHE9ITEsdj1bZSwiYmx1ciIsCmZ1bmN0aW9u
+KCl7aT1oPW09ITA7ays9K25ldyBEYXRlLW47bj0rbmV3IERhdGU7YigpfSxlLCJm
+b2N1cyIsZnVuY3Rpb24oKXshaCYmIW0mJihrPTApO249K25ldyBEYXRlO2g9bT0h
+MDtpPSExO2IoKX0sYywiY2xpY2siLGYsYywibW91c2Vtb3ZlIixmLGMsImtleWRv
+d24iLGYsYywic2Nyb2xsIixmXTtsKCEwKTtiKCl9ZnVuY3Rpb24gTGEoYSl7ZnVu
+Y3Rpb24gYygpe3ZhciBhPXEoKS5oYXNoLnNwbGl0KCIjIilbMV07aWYoInVuZGVm
+aW5lZCI9PXR5cGVvZiBhKXJldHVybiExO3ZhciBiPWEuaW5kZXhPZigiPyIpOzA8
+YiYmKGE9YS5zdWJzdHJpbmcoMCxiKSk7cmV0dXJuIGF9dmFyIGI9YygpOyhmdW5j
+dGlvbiBsKCl7dmFyIGU9YygpO2UhPT1iJiYoYSgpLGI9ZSk7RWE9c2V0VGltZW91
+dChsLDIwMCl9KSgpfWZ1bmN0aW9uIHlhKCl7TmE9Z2E9TWE7TShxKCkuaHJlZixl
+YSgpLE5hLG51bGwse3V0OkFhLGFkOjE9PWsmJmUuWWEmJmUuWWEuRGlyZWN0PyEw
+OiExLHdoOiEwLHNhdmVSZWY6ITB9KTsKTWE9cSgpLmhyZWZ9ZnVuY3Rpb24gVmIo
+YSl7ZnVuY3Rpb24gZygpe3ZhciBhPWMuZG9jdW1lbnRFbGVtZW50O3JldHVybiBN
+YXRoLm1heChhLnNjcm9sbFdpZHRoLGMuYm9keS5zY3JvbGxXaWR0aCxhLmNsaWVu
+dFdpZHRoKX1mdW5jdGlvbiBiKGEpe2Z1bmN0aW9uIGIoYSl7Zm9yKHZhciBjPTAs
+Zj0wO2E7KWMrPXBhcnNlSW50KGEub2Zmc2V0VG9wKSxmKz1wYXJzZUludChhLm9m
+ZnNldExlZnQpLGE9YS5vZmZzZXRQYXJlbnQ7cmV0dXJue3RvcDpjLGxlZnQ6Zn19
+ZnVuY3Rpb24gZihhKXt2YXIgYT1hLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLGI9
+Yy5ib2R5LGc9Yy5kb2N1bWVudEVsZW1lbnQsdz1hLmxlZnQrKGUucGFnZVhPZmZz
+ZXR8fGcuc2Nyb2xsTGVmdHx8Yi5zY3JvbGxMZWZ0KS0oZy5jbGllbnRMZWZ0fHxi
+LmNsaWVudExlZnR8fDApO3JldHVybnt0b3A6TWF0aC5yb3VuZChhLnRvcCsoZS5w
+YWdlWU9mZnNldHx8Zy5zY3JvbGxUb3B8fGIuc2Nyb2xsVG9wKS0oZy5jbGllbnRU
+b3B8fApiLmNsaWVudFRvcHx8MCkpLGxlZnQ6TWF0aC5yb3VuZCh3KX19cmV0dXJu
+IGEuZ2V0Qm91bmRpbmdDbGllbnRSZWN0P2YoYSk6YihhKX1mdW5jdGlvbiBmKGEp
+e3JldHVybiBhLnRvU3RyaW5nKCkudG9VcHBlckNhc2UoKX1mdW5jdGlvbiBsKGEp
+e3JldHVybiBhJiYoYT0iIithLmNsYXNzTmFtZSkmJi0xIT1hLnNlYXJjaCgveW0t
+Y2xpY2ttYXAtaWdub3JlLyk/ITA6ITF9ZnVuY3Rpb24gaChhKXtpZihudWxsPT1h
+LnBhZ2VYJiZudWxsIT1hLmNsaWVudFgpe3ZhciBiPWMuZG9jdW1lbnRFbGVtZW50
+LGY9Yy5ib2R5O2EucGFnZVg9YS5jbGllbnRYKyhiJiZiLnNjcm9sbExlZnR8fGYm
+JmYuc2Nyb2xsTGVmdHx8MCktKGIuY2xpZW50TGVmdHx8MCk7YS5wYWdlWT1hLmNs
+aWVudFkrKGImJmIuc2Nyb2xsVG9wfHxmJiZmLnNjcm9sbFRvcHx8MCktKGIuY2xp
+ZW50VG9wfHwwKX1yZXR1cm57eDphLnBhZ2VYLHk6YS5wYWdlWX19ZnVuY3Rpb24g
+aShhKXtmb3IodmFyIGI9ZihhLm5vZGVOYW1lKTthLnBhcmVudE5vZGUmJgoiQk9E
+WSIhPWImJiJIVE1MIiE9Yjspe2lmKCJBIj09Ynx8IklOUFVUIj09Ynx8IlRFWFRB
+UkVBIj09YilyZXR1cm4hMDthPWEucGFyZW50Tm9kZTtiPWEubm9kZU5hbWV9cmV0
+dXJuITF9Zm9yKHZhciBrPXRoaXMsbj0wLEM9bnVsbCx1PSJBLEIsQklHLEJPRFks
+QlVUVE9OLERELERJVixETCxEVCxFTSxGSUVMRFNFVCxGT1JNLEgxLEgyLEgzLEg0
+LEg1LEg2LEhSLEksSU1HLElOUFVULExJLE9MLFAsUFJFLFNFTEVDVCxTTUFMTCxT
+UEFOLFNUUk9ORyxTVUIsU1VQLFRBQkxFLFRCT0RZLFRELFRFWFRBUkVBLFRGT09U
+LFRILFRIRUFELFRSLFUsVUwsQUJCUixBUkVBLEJMT0NLUVVPVEUsQ0FQVElPTixD
+RU5URVIsQ0lURSxDT0RFLENBTlZBUyxERk4sRU1CRUQsRk9OVCxJTlMsS0JELExF
+R0VORCxMQUJFTCxNQVAsT0JKRUNULFEsUyxTQU1QLFNUUklLRSxUVCxBUlRJQ0xF
+LEFVRElPLEFTSURFLEZPT1RFUixIRUFERVIsTUVOVSxNRVRFUixOQVYsUFJPR1JF
+U1MsU0VDVElPTixUSU1FLFZJREVPLE5PSU5ERVgsTk9CUiIuc3BsaXQoIiwiKSwK
+cj01OSx2PVN0cmluZy5mcm9tQ2hhckNvZGUseD17fSxFPTA7RTx1Lmxlbmd0aDtF
+KyspeFt1W0VdXT12KHIpLHYocikscisrO3RoaXMuaGFuZGxlcj1mdW5jdGlvbihh
+KXt2YXIgdT1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJib2R5IilbMF07aWYoIWUu
+eW1EaXNhYmxlZENsaWNrbWFwJiYhbCh1KSl7aWYoay5fcHJlZnMuaGFzUXVvdGEp
+e2lmKCFrLl9wcmVmcy5xdW90YSlyZXR1cm47ay5fcHJlZnMucXVvdGEtLX12YXIg
+dj1hLnRhcmdldHx8YS5zcmNFbGVtZW50O2lmKDM9PXYubm9kZVR5cGUpdj12LnBh
+cmVudE5vZGU7dmFyIHU9Zih2Lm5vZGVOYW1lKSxwPWgoYSkscztpZighYS53aGlj
+aCYmYS5idXR0b24hPT1rYSlhLndoaWNoPWEuYnV0dG9uJjE/MTphLmJ1dHRvbiYy
+PzM6YS5idXR0b24mND8yOjA7cz1hLndoaWNoO2lmKCEocz0oMj09c3x8Mz09cykm
+JiJBIiE9dSkpcz12Lm9mZnNldEhlaWdodCxzPTA9PT12Lm9mZnNldFdpZHRoJiYw
+PT09c3x8di5zdHlsZSYmIm5vbmUiPT09CnYuc3R5bGUuZGlzcGxheTtpZighcyl7
+Yjp7Zm9yKHM9djtzLnBhcmVudE5vZGU7KXtpZihsKHMpKXtzPSEwO2JyZWFrIGJ9
+cz1zLnBhcmVudE5vZGV9cz0hMX1pZighcyl7Yjp7cz1rLl9wcmVmcy5pZ25vcmVU
+YWdzO2Zvcih2YXIgcj0wO3I8cy5sZW5ndGg7cisrKWlmKGYoc1tyXSk9PWYodSkp
+e3M9ITA7YnJlYWsgYn1zPSExfXM9c3x8IWsuX3ByZWZzLmZpbHRlcih2LHUpfWlm
+KCFzKXt1PStuZXcgRGF0ZTt2PXtkb206dix4OnAueCx5OnAueSx0aW1lOnV9O2lm
+KHA9NTA8dS1uKWlmKCEocD0hay5fcHJlZnMuaWdub3JlU2FtZUNsaWNrcykpe2lm
+KHA9Qyl7cz1NYXRoLmFicyhwLngtdi54KTt2YXIgcj1NYXRoLmFicyhwLnktdi55
+KSxvPXYudGltZS1wLnRpbWUscD1wLmRvbT09di5kb20mJjI+cyYmMj5yJiYxRTM+
+bz8hMDohMX1lbHNlIHA9ITE7cD0hcH1pZihwJiYiTWV0cmlrYVBsYXllciIhPWUu
+bmFtZSl7cz1oKGEpO3A9cy54O3M9cy55O3ZhciBvPWEudGFyZ2V0fHxhLnNyY0Vs
+ZW1lbnQsCnQ9ay5fcHJlZnMsRT1iKG8pLHo9IiIscj1xKCkuaHJlZjtzd2l0Y2go
+dC5tb2RlKXtjYXNlICJmaXhlZCI6ej0iMCI7aShvKSYmKHorPSJ1Iik7YnJlYWs7
+Y2FzZSAiY2VudGVyZWQiOno9IjEiO0U9TWF0aC5mbG9vcihnKCkvMik7cD1wPkU/
+cC1FKzMyNzY4OnA7aShvKSYmKHorPSJ1Iik7YnJlYWs7ZGVmYXVsdDp6PWYoby5u
+b2RlTmFtZSk7ej0iQk9EWSI9PXp8fCJIVE1MIj09ej9nKCk6by5vZmZzZXRXaWR0
+aDt0PWYoby5ub2RlTmFtZSk7IkJPRFkiPT10fHwiSFRNTCI9PXQ/KHQ9Yy5kb2N1
+bWVudEVsZW1lbnQsdD1NYXRoLm1heCh0LnNjcm9sbEhlaWdodCxjLmJvZHkuc2Ny
+b2xsSGVpZ2h0LHQuY2xpZW50SGVpZ2h0KSk6dD1vLm9mZnNldEhlaWdodDt6fHwo
+ej0xKTt0fHwodD0xKTtwPU1hdGguZmxvb3IoNjU1MzUqKHAtRS5sZWZ0KS96KTtz
+PU1hdGguZmxvb3IoNjU1MzUqKHMtRS50b3ApL3QpO2ZvcihFPSIiO28ucGFyZW50
+Tm9kZSYmIkJPRFkiIT1mKG8ubm9kZU5hbWUpJiYKIkhUTUwiIT1mKG8ubm9kZU5h
+bWUpOyl7RSs9eFtvLm5vZGVOYW1lXXx8IioiO2I6e2Zvcih2YXIgej1vLnBhcmVu
+dE5vZGUsQT10PTA7QTx6LmNoaWxkTm9kZXMubGVuZ3RoO0ErKylpZihvLm5vZGVO
+YW1lPT16LmNoaWxkTm9kZXNbQV0ubm9kZU5hbWUpe2lmKG89PXouY2hpbGROb2Rl
+c1tBXSl7ej10O2JyZWFrIGJ9dCsrfXo9MH1FKz16fHwiIjtvPW8ucGFyZW50Tm9k
+ZX16PUIoRSwxMjgpfVB8fChyPXI/ci5yZXBsYWNlKC9cIy4qJC8sIiIpOnIpOyJm
+dW5jdGlvbiI9PXR5cGVvZiBrLl9wcmVmcy51cmxGaWx0ZXImJihyPWsuX3ByZWZz
+LnVybEZpbHRlcihyKSk7cD1vYShlYixbInBhZ2UtdXJsIixCKHIsYWEpLCJwb2lu
+dGVyLWNsaWNrIiwieDoiK3ArIjp5OiIrcysiOnQ6IitNYXRoLmZsb29yKE1hdGgu
+Zmxvb3IoK25ldyBEYXRlLXNiKS8xMDApKyI6cDoiK3pdKTsobmV3IEltYWdlKS5z
+cmM9cDt5KHApO2lmKHA9YS50YXJnZXR8fGEuc3JjRWxlbWVudCl7aWYoMz09cC5u
+b2RlVHlwZSlwPQpwLnBhcmVudE5vZGU7Zm9yKHM9ZihwLm5vZGVOYW1lKTtwLnBh
+cmVudE5vZGUmJnAucGFyZW50Tm9kZS5ub2RlTmFtZSYmKCJBIiE9cyYmIkFSRUEi
+IT1zfHwhcC5ocmVmKTspcD1wLnBhcmVudE5vZGUscz1mKHAubm9kZU5hbWUpO3A9
+IXAuaHJlZj8hMTpwfWVsc2UgcD0hMTtwJiZuYShhLHApJiZZKGsuX3ByZWZzLmRl
+bGF5KX1uPXU7Qz12fX19fTt0aGlzLnNldFByZWZzPWZ1bmN0aW9uKGEpe2Z1bmN0
+aW9uIGIoKXtyZXR1cm4hMH10aGlzLl9wcmVmcz0idW5kZWZpbmVkIj09dHlwZW9m
+IGF8fCExPT09YXx8ITA9PT1hP3tmaWx0ZXI6YixpZ25vcmVUYWdzOltdLG1vZGU6
+IiIsZGVsYXk6amEscXVvdGE6MCxoYXNRdW90YTohMSxpZ25vcmVTYW1lQ2xpY2tz
+OiEwfTp7ZmlsdGVyOmEuZmlsdGVyfHxiLGlnbm9yZVRhZ3M6YS5pZ25vcmVUYWdz
+fHxbXSxtb2RlOmEubW9kZXx8IiIsZGVsYXk6InVuZGVmaW5lZCI9PXR5cGVvZiBh
+LmRlbGF5P2phOmEuZGVsYXkscXVvdGE6YS5xdW90YXx8CjAsaGFzUXVvdGE6ISFh
+LnF1b3RhLGlnbm9yZVNhbWVDbGlja3M6InVuZGVmaW5lZCI9PXR5cGVvZiBhLmln
+bm9yZVNhbWVDbGlja3M/ITA6ITEsdXJsRmlsdGVyOmEudXJsRmlsdGVyfX07dGhp
+cy51cGRhdGVTdGF0dXM9ZnVuY3Rpb24oYSl7c3dpdGNoKHR5cGVvZiBhKXtjYXNl
+ICJ1bmRlZmluZWQiOnRoaXMuc3RhcnQoITApO2JyZWFrO2Nhc2UgImJvb2xlYW4i
+OmE/dGhpcy5zdGFydChhKTp0aGlzLnN0b3AoKTticmVhaztjYXNlICJvYmplY3Qi
+OnRoaXMuc3RhcnQoYSl9fTt0aGlzLl9zdGFydD0hMTt0aGlzLnN0YXJ0PWZ1bmN0
+aW9uKGEpe3RoaXMuc2V0UHJlZnMoYSk7dGhpcy5fc3RhcnR8fG8oYywiY2xpY2si
+LHRoaXMuaGFuZGxlcik7dGhpcy5fc3RhcnQ9ITB9O3RoaXMuc3RvcD1mdW5jdGlv
+bigpe3RoaXMuX3N0YXJ0JiZ0KGMsImNsaWNrIix0aGlzLmhhbmRsZXIpO3RoaXMu
+X3N0YXJ0PSExfTt0aGlzLnN0YXJ0KGEpfXZhciBuPXRoaXMsemE9TWF0aC5yb3Vu
+ZCgxMDczNzQxODI0KgpNYXRoLnJhbmRvbSgpKSxBYT0iIixnYT1SLmhyZWYsTWE9
+Ui5ocmVmLE5hPSIiO2lmKCFZYS5fbWV0cmlrYS5jb3VudGVyKVlhLl9tZXRyaWth
+LmNvdW50ZXI9bjt2YXIgSDtpZigib2JqZWN0Ij09dHlwZW9mIEMpSD1DLEE9Qy5k
+ZWZlcixBYT1DLnV0LGs9Qy50eXBlLEk9Qy5wYXJhbXMsQz1DLmlkO3ZhciBDPUN8
+fDAsaz1rfHwwLE9hPSIvL21jLnlhbmRleC5ydS93YXRjaC8iLGViPSIvL21jLnlh
+bmRleC5ydS9jbG1hcC8iLFY9W10sQmE9bnVsbCxDYT1udWxsLGhhPW51bGwsRD1u
+ZXcgZnVuY3Rpb24oYSxjKXtmdW5jdGlvbiBiKGEsYixjKXtpZihpKWYoYSxiLGMp
+O2Vsc2V7aWYoIlhNTEh0dHBSZXF1ZXN0ImluIGUpe3ZhciBnPW5ldyBYTUxIdHRw
+UmVxdWVzdDtpZigid2l0aENyZWRlbnRpYWxzImluIGcpe3ZhciBoPWM/IlBPU1Qi
+OiJHRVQiLGE9bChhLGIsIlBPU1QiPT1oPzE6MCk7Zy5vcGVuKGgsYSwhMCk7Zy53
+aXRoQ3JlZGVudGlhbHM9ITA7IlBPU1QiPT1oJiYiW29iamVjdCBuc1hQQ0NvbXBv
+bmVudHNdIiE9CiIiK2UuQ29tcG9uZW50cyYmZy5zZXRSZXF1ZXN0SGVhZGVyKCJD
+b250ZW50LVR5cGUiLCJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQi
+KTtnLnNlbmQoIlBPU1QiPT1oP1phKGMpOm51bGwpO3JldHVybn19Zm9yKGggaW4g
+YyljLmhhc093blByb3BlcnR5KGgpJiYoYltoXT1jW2hdKTsobmV3IEltYWdlKS5z
+cmM9bChhLGIsMCl9fWZ1bmN0aW9uIGYoYSxiLGMpe3ZhciBmPSJpZnIiK01hdGgu
+cm91bmQoMUUxMCpNYXRoLnJhbmRvbSgpKSxlPWkuY3JlYXRlRWxlbWVudCgiZGl2
+IiksYT1bJzxpZnJhbWUgbmFtZT0iJyxmLCciPjwvaWZyYW1lPicsJzxmb3JtIGFj
+dGlvbj0iJyxsKGEsYiwwKSwnIiBtZXRob2Q9InBvc3QiIHRhcmdldD0iJyxmLCci
+IGVuY3R5cGU9ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCI+J10s
+Zztmb3IoZyBpbiBjKWMuaGFzT3duUHJvcGVydHkoZykmJkYoYSwnPHRleHRhcmVh
+IG5hbWU9IicsZywnIj4nLGNbZ10sIjwvdGV4dGFyZWE+Iik7CkYoYSwiPC9mb3Jt
+PiIpO2UuaW5uZXJIVE1MPWEuam9pbigiIik7aS5ib2R5LmFwcGVuZENoaWxkKGUp
+O2UuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImZvcm0iKVswXS5zdWJtaXQoKTtzZXRU
+aW1lb3V0KGZ1bmN0aW9uKCl7aS5ib2R5LnJlbW92ZUNoaWxkKGUpfSwxRTQpfWZ1
+bmN0aW9uIGwoYixmLGUpe2ZbImJyb3dzZXItaW5mbyJdPVsiY3QiLGUsZlsiYnJv
+d3Nlci1pbmZvIl1dLmpvaW4oIjoiKTtyZXR1cm4iLy8iK2ErIi8iK2IrIi8iK2Mr
+Ij8iK1phKGYpfWZ1bmN0aW9uIGgoKXtpZihlLkFjdGl2ZVhPYmplY3Qpe3ZhciBh
+PW5ldyBBY3RpdmVYT2JqZWN0KCJodG1sZmlsZSIpO2Eub3BlbigpO2Eud3JpdGUo
+IjxodG1sPjxib2R5PjwvYm9keT48L2h0bWw+Iik7YS5jbG9zZSgpO3JldHVybiBh
+fXJldHVybiBudWxsfXRyeXt2YXIgaT1oKCl9Y2F0Y2goayl7fXZhciBuPSIiLG89
+W107cmV0dXJue3NlbmQ6ZnVuY3Rpb24oYSxjLGYsZSl7YT9uPy0xPG4uaW5kZXhP
+ZigifCIrYSsifCIpJiYKYihjLGYsZSk6RihvLGFyZ3VtZW50cyk6YihjLGYsZSl9
+LGluaXQ6ZnVuY3Rpb24oYSl7bj0ifCIrYS5qb2luKCJ8IikrInwiO2ZvcihhPTA7
+YTxvLmxlbmd0aDthKyspLTE8bi5pbmRleE9mKCJ8IitvW2FdWzBdKyJ8IikmJmIo
+b1thXVsxXSxvW2FdWzJdLG9bYV1bM10pO28ubGVuZ3RoPTB9fX0oIm1jLnlhbmRl
+eC5ydSIsQyk7bi5yZWFjaEdvYWw9ZnVuY3Rpb24oYSxlKXt2YXIgYj1hPyJnb2Fs
+Oi8vIitxKCkuaG9zdG5hbWUrIi8iK2E6cSgpLmhyZWYsZj1lYSgpLGk9YT9xKCku
+aHJlZjpjLnJlZmVycmVyO00oYixmLGksZSx7YXI6ITAsaXNEZWxheTphPyEwOiEx
+LGRlbGF5OjEwMH0pO3JldHVybiEwfTt2YXIgTjtuLnRyYWNrTGlua3M9aTtuLmhp
+dD1mdW5jdGlvbihhLGMsYixmLGUpe2EmJk0oYSxjLGIsZix7dXQ6ZSxhcjohMCxz
+YXZlUmVmOiEwfSl9O24ucGFyYW1zPWZ1bmN0aW9uKGEpe2lmKGEpe3ZhciBjPWFy
+Z3VtZW50cy5sZW5ndGg7aWYoMTxjKXtmb3IodmFyIGI9e30sCmY9YixlPTA7ZTxj
+LTE7ZSsrKXt2YXIgaD0iIithcmd1bWVudHNbZV07ZltoXT17fTtlPGMtMiYmKGY9
+ZltoXSl9ZltoXT1hcmd1bWVudHNbYy0xXTthPWJ9TSgiIiwiIiwiIixhLHthcjoh
+MCxwYTohMCxvbmx5RGF0YTohMH0pfX07bi5maWxlPWZ1bmN0aW9uKGEsYyxiLGYp
+e2EmJk0oYSwiIixxKCkuaHJlZixmLHthcjohMCxsbjohMCxkbDohMH0pfTtuLmV4
+dExpbms9ZnVuY3Rpb24oYSxjLGIsZil7YSYmTShhLCIiLHEoKS5ocmVmLGYse2Fy
+OiEwLGxuOiEwLHV0OmlhfSl9O24ubm90Qm91bmNlPWZ1bmN0aW9uKCl7TSgiIiwi
+IiwiIixudWxsLHthcjohMCxuYjohMCxvbmx5RGF0YTohMH0pfTt2YXIgTz1bXTtu
+LmFkZEZpbGVFeHRlbnNpb249ZnVuY3Rpb24oYSl7InN0cmluZyI9PXR5cGVvZiBh
+P08ucHVzaChhKTpPPU8uY29uY2F0KGEpfTtuLmNsaWNrbWFwPWZ1bmN0aW9uKGEp
+e24uX2NsaWNrbWFwP24uX2NsaWNrbWFwLnVwZGF0ZVN0YXR1cyhhKTpuLl9jbGlj
+a21hcD1uZXcgVmIoYSl9Owp2YXIgRGE9ITE7bi5hY2N1cmF0ZVRyYWNrQm91bmNl
+PWZ1bmN0aW9uKGEpe2Z1bmN0aW9uIGUoKXtuLm5vdEJvdW5jZSgpfURhfHwoRGE9
+ITAscmEoYy5yZWZlcnJlcixxKCkuaHJlZil8fCgibnVtYmVyIiE9dHlwZW9mIGEm
+JihhPTE1RTMpLCQ/c2V0VGltZW91dChlLGEpOkpiKGUsYSkpKX07dmFyIEVhPW51
+bGwsUD0hMTtuLnRyYWNrSGFzaD1mdW5jdGlvbihhKXshMT09PWE/UCYmKCJvbmhh
+c2hjaGFuZ2UiaW4gZT90KGUsImhhc2hjaGFuZ2UiLHlhKTpjbGVhckludGVydmFs
+KEVhKSxQPSExKTpQfHwoIm9uaGFzaGNoYW5nZSJpbiBlP28oZSwiaGFzaGNoYW5n
+ZSIseWEpOkxhKHlhKSxQPSEwKTtuLl90cmFja0hhc2g9UH07bi52aWRlbz1mdW5j
+dGlvbihhLGMsYixmKXt2YXIgZT1bImVuZCIsInBsYXkiLCJwYXVzZSIsInNlZWsi
+XTtpZihhJiZiKXthOntmb3IodmFyIGg9MCxpPWUubGVuZ3RoO2g8aTtoKz0xKWlm
+KGE9PT1lW2hdKXtlPWg7YnJlYWsgYX1lPSExfSExIT09ZSYmTShiLApmfHwiIiwi
+IixudWxsLHthcjohMCx2YTphLHZ0On5+Y30pfX07bi5zb2NpYWw9ZnVuY3Rpb24o
+YSxjLGIpe2EmJmMmJk0oYnx8cSgpLmhyZWYsIiIsIiIsbnVsbCx7YXI6ITAsc246
+QihhLDY0KSxzYTpCKGMsNjQpfSl9O24uZW5hYmxlQWxsPWZ1bmN0aW9uKCl7bi50
+cmFja0xpbmtzKCEwKTtuLmNsaWNrbWFwKCEwKTtuLmFjY3VyYXRlVHJhY2tCb3Vu
+Y2UoKX07bi5wYXVzZT1ZO24udXBsb2FkUGFnZT1mdW5jdGlvbigpe307QyYmeCgp
+fTtlLnlhX2NpZCYmbmV3IFlhLk1ldHJpa2EoZS55YV9jaWQsZS55YV9wYXJhbXMs
+ZS55YV9jbGFzcyk7aWYoZS55YV9jaWQmJiFlLnlhX2hpdCllLnlhX2hpdD1mdW5j
+dGlvbihjLGUpe1lhLl9tZXRyaWthLmNvdW50ZXImJllhLl9tZXRyaWthLmNvdW50
+ZXIucmVhY2hHb2FsKGMsZSl9O3ZhciBMPWUueWFuZGV4X21ldHJpa2FfY2FsbGJh
+Y2ssST1lLnlhbmRleF9tZXRyaWthX2NhbGxiYWNrczsiZnVuY3Rpb24iPT10eXBl
+b2YgTCYmTCgpO2lmKCJvYmplY3QiPT0KdHlwZW9mIEkpZm9yKEw9MDtMPEkubGVu
+Z3RoO0wrKyl7dmFyIHJhPUlbTF07cmEmJihJW0xdPW51bGwscmEoKSl9WSgieWFu
+ZGV4X21ldHJpa2FfY2FsbGJhY2siKTtZKCJ5YW5kZXhfbWV0cmlrYV9jYWxsYmFj
+a3MiKTtJPVIuaHJlZjstMSE9SS5zZWFyY2goInltX3BsYXliYWNrPWxpbmttYXAi
+KT9tYSgibGlua21hcCIpOi0xIT1JLnNlYXJjaCgieW1fcGxheWJhY2s9Y2xpY2tt
+YXAiKSYmbWEoImNsaWNrbWFwIik7ZS5ZYS5NZXRyaWthLmluZm9ybWVyPWZ1bmN0
+aW9uKGMpe3ZhciBlPSEhWWEuTWV0cmlrYS5faW5mb3JtZXI7WWEuTWV0cmlrYS5f
+aW5mb3JtZXI9YztlfHxiYSh2YSsiLy9icy55YW5kZXgucnUvbWV0cmlrYS9pbmZv
+cm1lci5qcyIpfTtpZih0b3AhPWUmJnBhcmVudD09dG9wJiZlLnBvc3RNZXNzYWdl
+JiYhWWEuTWV0cmlrYV92aXNvclBsYXllck9uKXtZYS5NZXRyaWthX3Zpc29yUGxh
+eWVyT249ITA7ST1jLmNyZWF0ZUVsZW1lbnQoImRpdiIpO0kuaW5uZXJIVE1MPQon
+PGlmcmFtZSBuYW1lPSJSZW1vdGVJZnJhbWUiIGFsbG93dHJhbnNwYXJlbmN5PSJ0
+cnVlIiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyBsZWZ0OiAtOTk5cHg7IHRv
+cDogLTk5OXB4OyB3aWR0aDogMXB4OyBoZWlnaHQ6IDFweDsiPjwvaWZyYW1lPic7
+dmFyIHNhPUkuZmlyc3RDaGlsZDtzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7Yy5ib2R5
+Lmluc2VydEJlZm9yZShzYSxjLmJvZHkuZmlyc3RDaGlsZCk7dHJ5e3ZhciBlPXNh
+LmNvbnRlbnRXaW5kb3cuZG9jdW1lbnR9Y2F0Y2gocSl7fWUmJihlLm9wZW4oKSxl
+LndyaXRlKCc8IWRvY3R5cGUgaHRtbD48aHRtbD48aGVhZD48bWV0YSBodHRwLWVx
+dWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9IklFPUVtdWxhdGVJRTcsSUU9
+ZWRnZSIgLz48L2hlYWQ+PGJvZHk+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3Jp
+cHQiPnZhciBuZXd2ZXJzaW9uID0gdHJ1ZTt0cnkge2lmICh0b3AucG9zdE1lc3Nh
+Z2UpIHt3aW5kb3cub25tZXNzYWdlID0gZnVuY3Rpb24oZXZ0KSB7ZXZ0ID0gZXZ0
+IHx8IHdpbmRvdy5ldmVudDt0cnkge3ZhciBtZXNzYWdlID0gbmV3IEZ1bmN0aW9u
+KCJyZXR1cm4gIiArIGV2dC5kYXRhKSgpO30gY2F0Y2ggKGUpIHtyZXR1cm47fWlm
+ICgvKF58XFwuKXlhbmRleFxcLihydXxjb218dWF8a3p8Ynl8Y29tXFwudHIpKDpc
+XGR7NH0pPyQvLnRlc3QoZXZ0Lm9yaWdpbikgJiYgbWVzc2FnZS5uYW1lID09ICJz
+Y3JpcHQiICYmIG1lc3NhZ2UuZGF0YSkge3ZhciBoZWFkID0gZG9jdW1lbnQuZ2V0
+RWxlbWVudHNCeVRhZ05hbWUoImhlYWQiKVswXTt2YXIgYmFzZSA9IGRvY3VtZW50
+LmNyZWF0ZUVsZW1lbnQoImJhc2UiKTtiYXNlLmhyZWYgPSBtZXNzYWdlLmRhdGE7
+aGVhZC5hcHBlbmRDaGlsZChiYXNlKTt2YXIgc2NyaXB0ID0gZG9jdW1lbnQuY3Jl
+YXRlRWxlbWVudCgic2NyaXB0Iik7c2NyaXB0LnNyYyA9IG1lc3NhZ2UuZGF0YTto
+ZWFkLmFwcGVuZENoaWxkKHNjcmlwdCk7cGFyZW50LnJlbW92ZUV2ZW50TGlzdGVu
+ZXIoIm1lc3NhZ2UiLCB3aW5kb3cub25tZXNzYWdlLCBmYWxzZSk7d2luZG93Lm9u
+bWVzc2FnZSA9IG51bGw7fX07aWYgKG5hdmlnYXRvci51c2VyQWdlbnQuaW5kZXhP
+ZigiRmlyZWZveC8zLjYuIikgPiAtMSkge3BhcmVudC5hZGRFdmVudExpc3RlbmVy
+KCJtZXNzYWdlIiwgd2luZG93Lm9ubWVzc2FnZSwgZmFsc2UpO310b3AucG9zdE1l
+c3NhZ2UoXCd7Im5hbWUiOiJwaW5nIn1cJywgIioiKTt9fSBjYXRjaCAoZSkge308
+XC9zY3JpcHQ+PC9ib2R5PjwvaHRtbD4nKSwKZS5jbG9zZSgpKX0sMjAwKX19KSh0
+aGlzLHRoaXMuZG9jdW1lbnQpOwo=
+
+------------s5j3yFJIaAwrLyyqn2J3uU--

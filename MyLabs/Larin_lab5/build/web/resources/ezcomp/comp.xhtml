@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:cc="http://java.sun.com/jsf/composite">
+
+  <!-- INTERFACE -->
+  <cc:interface>
+
+      <cc:attribute name="email" required="true"/>
+      <cc:attribute name="password" required="true"/>
+      <cc:attribute name="fio" required="true"/>
+      <cc:attribute name="age" required="true"/>
+      <cc:attribute name="date" required="true"/>
+      <cc:attribute name="message" required="true"/>
+      <cc:attribute name="action" required="true"
+                targets="form:submit_button"/>
+
+
+  </cc:interface>
+
+  <!-- IMPLEMENTATION -->
+  <cc:implementation>
+
+      <form jsfc="h:form" id="form">
+            <h:messages id="msgs"/>
+
+            Ваш email: <h:inputText id="email" value="#{cc.attrs.email}" /><br />
+            Пароль: <h:inputText id="password" value="#{cc.attrs.password}" /><br />
+            Вас зовут: <h:inputText id="fio" value="#{cc.attrs.fio}" /><br />
+            Дата (гггг-мм-дд): <h:inputText id="date" value="#{cc.attrs.date}">
+            <f:convertDateTime pattern="yyyy-mm-dd"/>
+            </h:inputText> <br />
+
+            Возраст: <h:inputText id="age" value="#{cc.attrs.age}">
+
+                <f:validateLongRange for="age" minimum="0" maximum="130"/>
+            </h:inputText> <br />
+            AJAX-message: <h:outputText id="message" style="color: blue;" value="#{cc.attrs.message}" /><br />
+
+            <input id="submit_button" type="submit" jsfc="h:commandButton" action="#{cc.attrs.action}" value="Вход :)">
+                <f:ajax id="form_ajax" execute="email date fio age" render="message"/>
+            </input>
+
+      </form>
+
+  </cc:implementation>
+
+</html>
+

@@ -1,0 +1,1903 @@
+Content-Type: multipart/related; start=<op.mhtml.1330671991177.97f584092c036847@85.143.29.174>; boundary=----------NRetR0tYc677hdOXPI0EoB
+Content-Location: http://www.java-course.ru/students/students.php?name=part1
+Subject: =?utf-8?Q?Java-=D1=82=D0=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D0=B8?=
+MIME-Version: 1.0
+
+------------NRetR0tYc677hdOXPI0EoB
+Content-Disposition: inline; filename=students.htm
+Content-Type: text/html; charset=windows-1251; name=students.htm
+Content-ID: <op.mhtml.1330671991177.97f584092c036847@85.143.29.174>
+Content-Location: http://www.java-course.ru/students/students.php?name=part1
+Content-Transfer-Encoding: 8bit
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+        <link rel="stylesheet" type="text/css" href="../css/javacourse.css" />
+
+        <title>Java-технологии</title>
+    </head>
+
+    <body>
+        <!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter7161052 = new Ya.Metrika({id:7161052,
+                    clickmap:true,
+                    accurateTrackBounce:true});
+        }
+        catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/7161052" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<div class='jc-header'>
+    <table class="jc-table-header">
+        <tbody>
+            <tr>
+                <td><strong><a href="/">О сайте</a></strong></td>
+                <td><strong><a href="/students/students.php">Студенческий отдел кадров</a></strong></td>
+                <td><strong><a href="/articles/articles.php">Статьи</a></strong></td>
+                <td><strong><a href="/courses/courses.php">Курсы по Java</a></strong></td>
+                <td><strong><a href="/sader/index.php">Вопросы/Ответы</a></strong></td>
+                <td><strong><a href="http://vingrad.ru/blogs/AntonSaburov/" target="_blank">Блог</a></strong></td>
+                <td><strong><a href="mailto:AntonSaburov@yandex.ru">email</a></strong></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+        <table width="100%">
+            <tr valign="top">
+                <td style="width: 20%">
+                    <div class='jc-nav'>
+                        <h4>Книга 1 - Начальные сведения</h4>
+<ol>
+    <li>        
+        <a href="students.php?name=intro">Введение</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part1">Используем коллекции</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part2">Пользовательский интерфейс: начало</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part3">База данных</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part4">Пользовательский интерфейс, часть 1</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part5">Пользовательский интерфейс, часть 2</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part6">Пользовательский интерфейс, часть 3</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part7">WEB: что такое Servlet ?</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part8">WEB: что такое JSP ?</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part9">Простое WEB-приложение</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part10">Тестирование с точки зрения разработчика</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part11">Application Server и Enterprise Java Beans</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part12">Application Server и Enterprise Java Beans - копаем вглубь</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part13">"Студенческий отдел кадров" в виде Enterprise-приложения</a><br/>
+    </li>
+</ol>
+<h4>Книга 2 - Более профессиональный подход</h4>
+<ol>
+    <li>        
+        <a href="students.php?name=part14">Схема построения Enterprise-приложения</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part15">Новая структура данных</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part16">Hibernate. Начало пути</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part17">Hibernate. Запись в виде XML-файлов</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part18">Hibernate. Аннотации вместо XML</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part19">Spring. Бизнес-уровень в действии</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part20">Spring. Переходим на Web</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part21">Struts 1.x. Первое знакомство</a><br/>
+    </li>
+</ol>                    </div>
+                </td>
+
+
+                <td width='80%'>
+                    <div class="jc-article">
+                                <p class="copyright" align="right">
+            Студенческий отдел кадров<br/>
+            Пособие по JAVA-технологиям<br/>
+            (с) AntonSaburov<br/>
+        </p>
+        <h3>Что такое коллекции - краткое описание</h3>
+        <p class="plain">
+            Как уже можно было видеть из описания классов, класс <span class="code-text">УправляющаяСистема</span>
+            использует два списка - список групп и список студентов. как видите в нашем крайне скудном приложении
+            мы уже столкнулись с ситуацией, когда нам потребуется работать с группой/массивом/списокм данных.
+            Буем называть это коллекцией.
+        </p>
+        <p class="plain">
+            <span class="recommend">Рекомендуем:</span> Здесь не будет приведена подробная информация о коллекциях.
+            Для хорошего ознакомления с ними отсылаем вас к документации по JAVA.
+            В первую очередь это оригинал от SUN:
+            <a href="http://java.sun.com/j2se/1.5.0/docs/guide/collections/index.html">The Collections Framework</a><br/>
+            А также ссылки статей на форуме Vingrad:
+            <a href="http://forum.vingrad.ru/faq/topic-157917.html">Collections Framework </a> и
+            <a href="http://vingrad.ru/JAVA-FAQ-002980">Коллекции</a><br/>
+        </p>
+        <p class="plain">
+            Хоть я и говорил, что мы не будем рассматривать очень подробно коллекции, все же считаю необходимым
+            привести некоторую информацию.<br/>
+            Коллекции являются очень популярными типами данных. По сути любое действие над группой каких-либо
+            данных потребует какое-то хранилище. И это хранилище будет коллекцией.Т.е. сказать, что коллекции
+            востребованы - это почти ничего не сказать. Без коллекций было бы очень сложно программировать.<br/>
+        </p>
+        <p class="plain">
+            Типов коллекций достаточно много. Это связано с тем, что пока никто не смог создать коллекцию,
+            которая прекрасно подходила бы для всех видов работы с ней. Например, если коллекция позволяет быстро
+            добавлять в нее новый элемент вне зависимости от размера коллекции, то скорость обращения к какому-то
+            элементу этой коллекции по индексу скоре всего будет зависеть от размера. И чем больше будет ваша
+            коллекция, тем больше потребуется времени для этого. Такие коллекции обычно организуются как связанные
+            списки, где первый элемент ссылается на второй, второй - на третий и т.д.<br/>
+            Также например одни коллекции позволяют иметь одинаковые элементы, другие - нет. С одними коллекциями
+            можно работать из нескольких потоков, с другими надежная работа не гарантруется. Одни коллекции
+            сразу сортируют все данные, другие хранят данные в том порядке, в котором их добавляли.<br/>
+            Что очень важно отметить - коллекции все-таки имеют много общего, на что указывает реализация этими
+            коллекциями определенных интерфейсов. Вы можете использовать одинаковые механизмя для работы с разными
+            типами коллекций. Отличие будет заключаться в скорости работы.<br/>
+            Коллекции имеют очень широкий спектр всевозможных функций - их можно сливать в одну, узнавать какие
+            элементы есть в обеих коллекциях, какие наоборот отсутствуют в первой, но есть во второй. Коллекции можно
+            сортировать по определенному алгоритму - вы можете использовать стандартные варианты, можете написать свои
+            правила сортировки.
+        </p>
+        <p class="plain">
+            До версии Java 1.5 коллекции не были типизированы - т.е. программист мог поместить в коллекцию любой
+            объект. Таким образом в коллекции могли мирно уживаться строки, даты и другие объекты разных классов.
+            Что на самом деле встречается достаточно редко - чаще в коллекции находятся данные одного типа.
+            Версия Java 1.5 ввела понятие <span class="code-text">Generic</span>. Об этом вы можете более подробно
+            узнать в статье <a href="../articles/java15.html">Что нового в Java SE 5.0</a>. Основная мысль в следующем:
+            программист при объявлении коллекции указывает, какой тип данных может в ней храниться. И с этого момента
+            уже на уровне компиляции есть проверка, что в коллекции будут данные определенного типа. Это позволяет
+            не писать код приведения типа в виде <span class="code-text">String s = (String)list.get(0);</span>.<br/>
+            Использование типизации позволяет разрабатывать более строгий код и выявлять многие ошибки еще на
+            стадии компиляции, что безусловно гораздо удобнее.<br/>
+            Например если бы мы хотели распечатать список групп из списка, то до Java 1.5 нам пришлось бы использовать
+            следующую конструкцию:
+        </p>
+<pre class="code-snippet">
+<span class="comment">// Предположим, что мы как-то получили список групп</span>
+List groups = getGroups();
+...
+<span class="keyword-directive">for</span> (Iterator gi = groups.iterator(); gi.hasNext();) {
+    Group group = (Group) gi.next();
+    System.out.println(<span class="character">&quot;</span><span class="character">---&gt; Группа:</span><span class="character">&quot;</span> + group.getNameGroup());
+}
+</pre>
+        <p class="plain">
+            Обратите внимание, что мы должны использовать класс <span class="code-text">Iterator</span>.
+            Это специальный класс, который позволяет работать с коллекций. Идея его очень простая - при создании 
+            итератор указывает на начало коллекции и перемещается к следующему элементу вызовом метода
+            <span class="code-text">next</span>. Этот метод также возвращает тот объект из коллекции,
+            на который в данный момент указывает итератор. А метод <span class="code-text">hasNext</span>
+            проверяет - есть ли еще элементы в коллекции. Таким образом просмотреть ЛЮБУЮ коллекцию.
+            Также мы вынуждены приводить итератор к нужному нам типу насильно.
+            Что не может не приводить иногда к ошибкам.<br/>
+            А теперь посмотрим на код, который позволяет нам написать Java 1.5
+        </p>
+<pre class="code-snippet">
+List&lt;Group&gt; groups = getGroups(); <span class="comment">// Предположим, что мы как-то получили список групп</span>
+...
+<span class="keyword-directive">for</span> (Group group : groups) {
+    System.out.println(<span class="character">&quot;</span><span class="character">---&gt; Группа:</span><span class="character">&quot;</span> + group.getNameGroup());
+}
+</pre>
+        <p class="plain">
+            Как говориться - почуствуйте разницу. Во-первых, мы сразу говорим, что наш список содержит объекты
+            типа <span class="code-text">Gruop</span>. Это позволяет нам больше не думать о приведении типа
+            при работе со списком. Компилятор не позволит нам добавлять объекты иного класса, автоматически
+            сделает приведение - вообщем всякие вкусности. Во-вторых - обратите внимание на новый вариант
+            прохода по списку - цикл <span class="code-text">for</span>
+            теперь совсем простой и достаточно симпатично выглядит. По секрету - вы все еще можете использовать
+            <span class="code-text">Iterator</span> - и он будет работать точно также. Только теперь итератор
+            тоже можно типизировать - например <span class="code-text">Iterator&lt;Group&gt;</span>. И теперь
+            метод <span class="code-text">next</span> будет возвращать нужный нам тип данных сразу без приведения.
+        </p>
+<pre class="code-snippet">
+<span class="comment">// Предположим, что мы как-то получили список групп</span>
+List groups = getGroups();
+...
+<span class="keyword-directive">for</span> (Iterator&lt;Group&gt; gi = groups.iterator(); gi.hasNext();) {
+    Group group = gi.next();
+    System.out.println(<span class="character">&quot;</span><span class="character">---&gt; Группа:</span><span class="character">&quot;</span> + group.getNameGroup());
+}
+</pre>
+        <p class="plain">
+            Подводя итог краткому описанию возможностей коллекций я призываю вас очень внимательно отнестись к этому
+            очень мощному инструменту обработки данных. В подавляющем большинстве приложений вам они потребуются
+            обязательно.
+        </p>
+        <p class="plain">
+            А теперь попробуем написать несложную реализацию классов для нашей системы. Наши классы будут
+            находится в следующих файлах JAVA<br/>
+            <span class="code-text">Student.java</span><br/>
+            <span class="code-text">Group.java</span><br/>
+            <span class="code-text">ManagementSystem.java</span><br/>
+        </p>
+        <p class="plain">
+            <strong>Замечание:</strong> Для класса <span class="code-text">ManagementSystem</span> сделаем метод
+            <span class="code-text">main</span>, который решает две задачи:
+            <ol>
+                <li>Запускает класс без каких-либо дополнительных усилий</li>
+                <li>Позволяет проверить функциональность системы на тестовых данных</li>
+            </ol>
+            На данном этапе у нас не будет красивого графического интерфейса - мы просто пытаемся
+            описать необходимые функции и проверить их работоспособность. Настоятельно рекомендую: внимательно
+            просмотрите код метода <span class="code-text">main</span> класса
+            <span class="code-text">ManagementSystem</span> - там преведены вызовы всех функций,
+            которые мы будем использовать.<br/>
+            Классы <span class="code-text">Student</span> и <span class="code-text">Group</span> - эти классы
+            содержат только описания необходимых полей, а также методы для доступа к этим полям. Так
+            называемые сеттеры и геттеры (от слов <span class="code-text">set/get</span> - установить/получить). Это уже
+            по сути стандартный подход к работе с полями класса - поле для хранения объявляется как
+            <span class="code-text">private</span>, а для доступа используются методы
+            <span class="code-text">set/get</span>. Принцип именования следующий:<br/>
+            Имя переменной начинается со строчной буквы – например, ИД студента будет выглядеть как
+            <span class="code-text">studentId</span>. А методы будут выглядеть вот так:
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">private</span> <span class="keyword-directive">int</span> studentId;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setStudentId(<span class="keyword-directive">int</span> studentId) {
+    <span class="keyword-directive">this</span>.studentId = studentId;
+}
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getStudentId() {
+    <span class="keyword-directive">return</span> <span class="keyword-directive">this</span>.studentId;
+}
+        </pre>
+        <p class="plain">
+            Как видите, методы имеют слова <span class="code-text">set/get</span> и дальше уже с заглавной
+            буквы идет имя переменной. Также при установке поля в метод передается параметр такого же типа.
+            Я люблю именовать его так же, хотя это не обязательно. Многие системы разработки
+            (Eclipse, JBuilder, IDEA) содержат специальные меню, которые позволяют создать set/get
+            автоматически по списку переменных. Такой принцип именования был предложен SUN для того, чтобы
+            можно было легко определять, какие свойства и методы есть у класса - об этом подробно описывается
+            в спецификации JavaBeans.<br/>
+            Также отметим, что прародитель всех классов <span class="code-text">Object</span> (все классы в
+            JAVA наследуются от <span class="code-text">Object</span>, даже если Вы не указали это явно)
+            имеет метод <span class="code-text">toString()</span>. Этот метод используется очень часто и
+            к нему обращаются в случае если хотят вывести объект на экран. Самая простая строка
+            <span class="code-text">System.out.println(s);</span> на самом деле вызовет у объекта
+            <span class="code-text">s</span> метод <span class="code-text">toString()</span> и его
+            результат уже покажет на экране.<br/>
+            Сам <span class="code-text">Object</span> делает это не очень красиво - он выводит имя класса и
+            некое число (что-то похожее на адрес в памяти). В подавляющем большинстве случаев это не
+            информативно, да и не очень красиво. Т.к. наши классы <span class="code-text">Student</span> и
+            <span class="code-text">Group</span> будут выводится на экран, мы изменим поведение
+            <span class="code-text">toString()</span> для них - Вы сможете посмотреть их реализацию в коде.<br/>
+            И еще - вряд ли нас устроит, что студенты в списке будут идти не по алфавиту. Коллекции позволяют
+            делать сортировку, но для этого надо выполнить условие - то, что находится в коллекции, должно иметь
+            способы для сравнения. Ведь по сути при составлении списка студентов мы располагаем их по алфавиту -
+            вот такой прицип и будет использован.
+        </p>
+        <p class="plain">
+            Для того, чтобы студенты имели "возможность сравниваться друг с другом" мы должны реализовать
+            интерфейс <span class="code-text">Comparable</span>, который имеет только один метод - <br/>
+            <span class="code-text">public int compareTo(Object obj)</span><br/>
+            Как видите, метод возвращает целое
+            число больше 0, если объект <span class="code-text">obj</span> меньше, 0 - если они равны, и
+            отрицательное число - если больше.
+            Класс <span class="code-text">String</span> уже имеет такой метод и мы могли бы им воспользоваться,
+            но это будет не совсем корректно. Во-первых - хотелось бы учитывать локализацию. Т.е. языковые настройки.
+            Во-вторых - если мы будем сравнивать "ПАВЕЛ" и "артем", то хотелось бы, чтобы на первом месте был
+            "артем". Для этого используем специальный класс - <span class="code-text">Collator</span>. Этот класс
+            позволяет сравнивать строки с учетом языка (Locale) а также устанавливать насколько тоно должно быть
+            сравнение - с учетом регистра или без учета и т.д. Я приведу здесь простенький пример, с которым вы можете
+            поэкспериментировать. Сразу обращу ваше внимание на то. что последние две строки возвращают совершенно
+            разные результаты - при сравнении через класс <span class="code-text">Collator</span> слово
+            "ПАВЕЛ" больше, чем "артем". А при обычном сравнении строк результат обратный. И это понятно - символ "а"
+            имеет числовой код больше, чем "П". Следовательно, сравнение будет некорректным, если данные о ФИО
+            будут внесены в разном регистре. Конечно, можно при вводе приводить все к одному виду, но все-таки
+            надежнее сделать сравнение корректно.<br/>
+            Я все-таки не совсем элегантно все делаю - сравниваю строки, в которых есть номера групп, даты - и в этом
+            случае возможны тоже не совсем корректные сравнения, но предлагаю вам самим сделать необходимые исправления.
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">import</span> java.text.Collator;
+<span class="keyword-directive">import</span> java.util.Locale;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> Test
+{
+  <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> main(String[] arg) {
+
+    Collator c = Collator.getInstance(<span class="keyword-directive">new</span> Locale(<span class="character">&quot;</span><span class="character">ru</span><span class="character">&quot;</span>));
+    <span class="comment">// Если закомментировать следующую строку, то &quot;ПАВЕЛ&quot; будет не равен &quot;Павел&quot; </span>
+    <span class="comment">// (c.compare!=0) что по идее не совсем корректно</span>
+    c.setStrength(Collator.PRIMARY);
+    System.out.println(c.compare(<span class="character">&quot;</span><span class="character">ПАВЕЛ</span><span class="character">&quot;</span>, <span class="character">&quot;</span><span class="character">ПАВЕЛ</span><span class="character">&quot;</span>));
+    System.out.println(c.compare(<span class="character">&quot;</span><span class="character">ПАВЕЛ</span><span class="character">&quot;</span>, <span class="character">&quot;</span><span class="character">Павел</span><span class="character">&quot;</span>));
+    System.out.println(c.compare(<span class="character">&quot;</span><span class="character">ПАВЕЛ</span><span class="character">&quot;</span>, <span class="character">&quot;</span><span class="character">артем</span><span class="character">&quot;</span>));
+    System.out.println(<span class="character">&quot;</span><span class="character">ПАВЕЛ</span><span class="character">&quot;</span>.compareTo(<span class="character">&quot;</span><span class="character">артем</span><span class="character">&quot;</span>));
+  }
+}
+        </pre>
+        <p class="plain">
+            А теперь приведем код наших классов с комментариями:
+        </p>
+        <p class="plain">
+            <span class="code-text">Student.java</span><br/>
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.logic;
+
+<span class="keyword-directive">import</span> java.text.Collator;
+<span class="keyword-directive">import</span> java.text.DateFormat;
+<span class="keyword-directive">import</span> java.util.Date;
+<span class="keyword-directive">import</span> java.util.Locale;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> Student <span class="keyword-directive">implements</span> Comparable {
+
+    <span class="comment">// поле ИД СТУДЕНТА</span>
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> studentId;
+    <span class="comment">// поле ИМЯ</span>
+    <span class="keyword-directive">private</span> String firstName;
+    <span class="comment">// поле ФАМИЛИЯ</span>
+    <span class="keyword-directive">private</span> String surName;
+    <span class="comment">// поле ОТЧЕСТВО</span>
+    <span class="keyword-directive">private</span> String patronymic;
+    <span class="comment">// поле ДАТА РОЖДЕНИЯ</span>
+    <span class="keyword-directive">private</span> Date dateOfBirth;
+    <span class="comment">// поле ПОЛ</span>
+    <span class="keyword-directive">private</span> <span class="keyword-directive">char</span> sex;
+    <span class="comment">// поле ИД ГРУППЫ</span>
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> groupId;
+    <span class="comment">// поле ГОД ОБУЧЕНИЯ</span>
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> educationYear;
+
+    <span class="comment">// get/set для ДАТА РОЖДЕНИЯ</span>
+    <span class="keyword-directive">public</span> Date getDateOfBirth() {
+        <span class="keyword-directive">return</span> dateOfBirth;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setDateOfBirth(Date dateOfBirth) {
+        <span class="keyword-directive">this</span>.dateOfBirth = dateOfBirth;
+    }
+
+    <span class="comment">// get/set для ГОД ОБУЧЕНИЯ</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getEducationYear() {
+        <span class="keyword-directive">return</span> educationYear;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setEducationYear(<span class="keyword-directive">int</span> educationYear) {
+        <span class="keyword-directive">this</span>.educationYear = educationYear;
+    }
+
+    <span class="comment">// get/set для ИД ГРУППЫ</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getGroupId() {
+        <span class="keyword-directive">return</span> groupId;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setGroupId(<span class="keyword-directive">int</span> groupId) {
+        <span class="keyword-directive">this</span>.groupId = groupId;
+    }
+
+    <span class="comment">// get/set для ИД СТУДЕНТА</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getStudentId() {
+        <span class="keyword-directive">return</span> studentId;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setStudentId(<span class="keyword-directive">int</span> studentId) {
+        <span class="keyword-directive">this</span>.studentId = studentId;
+    }
+
+    <span class="comment">// get/set для ИМЯ</span>
+    <span class="keyword-directive">public</span> String getFirstName() {
+        <span class="keyword-directive">return</span> firstName;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setFirstName(String firstName) {
+        <span class="keyword-directive">this</span>.firstName = firstName;
+    }
+
+    <span class="comment">// get/set для ОТЧЕСТВО</span>
+    <span class="keyword-directive">public</span> String getPatronymic() {
+        <span class="keyword-directive">return</span> patronymic;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setPatronymic(String patronymic) {
+        <span class="keyword-directive">this</span>.patronymic = patronymic;
+    }
+
+    <span class="comment">// get/set для ФАМИЛИЯ</span>
+    <span class="keyword-directive">public</span> String getSurName() {
+        <span class="keyword-directive">return</span> surName;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setSurName(String surName) {
+        <span class="keyword-directive">this</span>.surName = surName;
+    }
+
+    <span class="comment">// get/set для ПОЛ</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">char</span> getSex() {
+        <span class="keyword-directive">return</span> sex;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setSex(<span class="keyword-directive">char</span> sex) {
+        <span class="keyword-directive">this</span>.sex = sex;
+    }
+
+    <span class="comment">// DateFormat - класс для преобразования даты</span>
+    <span class="comment">// в строку в определеннном формате.</span>
+    <span class="comment">// Подробнее смотрите документацию по этому методу</span>
+    <span class="keyword-directive">public</span> String toString() {
+        <span class="keyword-directive">return</span> surName + <span class="character">&quot;</span> <span class="character">&quot;</span> + firstName + <span class="character">&quot;</span> <span class="character">&quot;</span> + patronymic + <span class="character">&quot;</span><span class="character">, </span><span class="character">&quot;</span>
+                + DateFormat.getDateInstance(DateFormat.SHORT).format(dateOfBirth)
+                + <span class="character">&quot;</span><span class="character">, Группа ИД=</span><span class="character">&quot;</span> + groupId + <span class="character">&quot;</span><span class="character"> Год:</span><span class="character">&quot;</span> + educationYear;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> compareTo(Object obj) {
+        Collator c = Collator.getInstance(<span class="keyword-directive">new</span> Locale(<span class="character">&quot;</span><span class="character">ru</span><span class="character">&quot;</span>));
+        c.setStrength(Collator.PRIMARY);
+        <span class="keyword-directive">return</span> c.compare(<span class="keyword-directive">this</span>.toString(), obj.toString());
+    }
+}
+        </pre>
+        <p class="plain">
+            <span class="code-text">Group.java</span><br/>
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.logic;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> Group {
+
+    <span class="comment">// поле ИД ГРУППЫ</span>
+    <span class="keyword-directive">private</span> <span class="keyword-directive">int</span> groupId;
+    <span class="comment">// поле ИМЯ ГРУППЫ</span>
+    <span class="keyword-directive">private</span> String nameGroup;
+    <span class="comment">// поле КУРАТОР</span>
+    <span class="keyword-directive">private</span> String curator;
+    <span class="comment">// поле СПЕЦИАЛЬНОСТЬ</span>
+    <span class="keyword-directive">private</span> String speciality;
+
+    <span class="comment">// get/set для КУРАТОР</span>
+    <span class="keyword-directive">public</span> String getCurator() {
+        <span class="keyword-directive">return</span> curator;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setCurator(String curator) {
+        <span class="keyword-directive">this</span>.curator = curator;
+    }
+
+    <span class="comment">// get/set для ИД ГРУППЫ</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">int</span> getGroupId() {
+        <span class="keyword-directive">return</span> groupId;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setGroupId(<span class="keyword-directive">int</span> groupId) {
+        <span class="keyword-directive">this</span>.groupId = groupId;
+    }
+
+    <span class="comment">// get/set для ИМЯ ГРУППЫ</span>
+    <span class="keyword-directive">public</span> String getNameGroup() {
+        <span class="keyword-directive">return</span> nameGroup;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setNameGroup(String nameGroup) {
+        <span class="keyword-directive">this</span>.nameGroup = nameGroup;
+    }
+
+    <span class="comment">// get/set для СПЕЦИАЛЬНОСТЬ</span>
+    <span class="keyword-directive">public</span> String getSpeciality() {
+        <span class="keyword-directive">return</span> speciality;
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> setSpeciality(String speciality) {
+        <span class="keyword-directive">this</span>.speciality = speciality;
+    }
+
+    <span class="keyword-directive">public</span> String toString() {
+        <span class="keyword-directive">return</span> nameGroup;
+    }
+}
+        </pre>
+        <br/>
+
+        <p class="plain">
+            Давайте немного подробнее остановимся на <span class="code-text">ManagementSystem.java</span>.
+            Этот класс пока не очень сложный, но все таки он дает нам некоторую функциональность.
+            Он позволяет добавить нового студента, изменить параметры студента, перевести всех студентов
+            одной группы в другую (частая ситуация, когда после года обучения студенты переходят в другую
+            группу), удалить студентов из группы - для тех, кто закончил учиться.<br/>
+            Если посмотреть на конструктор <span class="code-text">ManagementSystem</span>, то можно увидеть,
+            что мы вызываем загрузку списка студентов и групп. Таким образом получится, что при каждом создании
+            <span class="code-text">ManagementSystem</span> мы будем делать одну и ту же работу, что конечно
+            не очень хорошо.<br/>
+            Для того, чтобы избежать такого мы воспользуемся <strong>шаблоном проектирования</strong> (очень
+            интересная область знаний, которая описывает стандартные решения для каких-либо проектных задач)
+            <span class="code-text">Singletone</span>. Этот шаблон показывает, как можно использовать только
+            один экземпляр объекта. Реализация делается следующим образом:
+            <ul>
+                <li>конструктор объявляется <span class="code-text">private</span> (теперь напрямую создать
+                объект нельзя)</li>
+                <li>описывается одна статическая переменная такого же класса (т.е. для всех объектов класса
+                будет только одна такая переменная)</li>
+                <li>создается метод (обычно его называют <span class="code-text">getInstance</span>), который
+                возвращает ссылку на единственный объект.</li>
+            </ul>
+        </p>
+        <p class="plain">
+            После кода мы еще остановимся на некоторых функциях.
+        </p>
+
+        <p class="plain">
+            <span class="code-text">ManagementSystem.java</span><br/>
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.logic;
+
+<span class="keyword-directive">import</span> java.io.FileNotFoundException;
+<span class="keyword-directive">import</span> java.io.PrintStream;
+<span class="keyword-directive">import</span> java.io.UnsupportedEncodingException;
+<span class="keyword-directive">import</span> java.util.ArrayList;
+<span class="keyword-directive">import</span> java.util.Calendar;
+<span class="keyword-directive">import</span> java.util.Collection;
+<span class="keyword-directive">import</span> java.util.Iterator;
+<span class="keyword-directive">import</span> java.util.List;
+<span class="keyword-directive">import</span> java.util.TreeSet;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> ManagementSystem {
+
+    <span class="keyword-directive">private</span> List&lt;Group&gt; groups;
+    <span class="keyword-directive">private</span> Collection&lt;Student&gt; students;
+
+    <span class="comment">// Для шаблона Singletone статическая переменная</span>
+    <span class="keyword-directive">private</span> <span class="keyword-directive">static</span> ManagementSystem instance;
+
+    <span class="comment">// закрытый конструктор</span>
+    <span class="keyword-directive">private</span> ManagementSystem() {
+        loadGroups();
+        loadStudents();
+    }
+
+    <span class="comment">// метод getInstance - проверяtт, инициализирована ли статическая</span>
+    <span class="comment">// переменная (в случае надобности делает это) и возвращает ее</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">synchronized</span> ManagementSystem getInstance() {
+        <span class="keyword-directive">if</span> (instance == <span class="keyword-directive">null</span>) {
+            instance = <span class="keyword-directive">new</span> ManagementSystem();
+        }
+        <span class="keyword-directive">return</span> instance;
+    }
+
+    <span class="comment">// Метод, который вызывается при запуске класса</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> main(String[] args) {
+        <span class="comment">// Этот код позволяет нам перенаправить стандартный вывод в файл</span>
+        <span class="comment">// Т.к. на экран выводится не совсем удобочитаемая кодировка, </span>
+        <span class="comment">// файл в данном случае более удобен</span>
+        <span class="keyword-directive">try</span> {
+            System.setOut(<span class="keyword-directive">new</span> PrintStream(<span class="character">&quot;</span><span class="character">out.txt</span><span class="character">&quot;</span>));
+        } <span class="keyword-directive">catch</span> (FileNotFoundException ex) {
+            ex.printStackTrace();
+            <span class="keyword-directive">return</span>;
+        }
+
+        ManagementSystem ms = ManagementSystem.getInstance();
+
+        <span class="comment">// Просмотр полного списка групп</span>
+        printString(<span class="character">&quot;</span><span class="character">Полный список групп</span><span class="character">&quot;</span>);
+        printString(<span class="character">&quot;</span><span class="character">*******************</span><span class="character">&quot;</span>);
+        List&lt;Group&gt; allGroups = ms.getGroups();
+        <span class="keyword-directive">for</span> (Group gi : allGroups) {
+            printString(gi);
+        }
+        printString();
+
+        <span class="comment">// Просмотр полного списка студентов</span>
+        printString(<span class="character">&quot;</span><span class="character">Полный список студентов</span><span class="character">&quot;</span>);
+        printString(<span class="character">&quot;</span><span class="character">***********************</span><span class="character">&quot;</span>);
+        Collection&lt;Student&gt; allStudends = ms.getAllStudents();
+        <span class="keyword-directive">for</span> (Student si : allStudends) {
+            printString(si);
+        }
+        printString();
+
+        <span class="comment">// Вывод списков студентов по группам</span>
+        printString(<span class="character">&quot;</span><span class="character">Список студентов по группам</span><span class="character">&quot;</span>);
+        printString(<span class="character">&quot;</span><span class="character">***************************</span><span class="character">&quot;</span>);
+        List&lt;Group&gt; groups = ms.getGroups();
+        <span class="comment">// Проверяем все группы</span>
+        <span class="keyword-directive">for</span> (Group gi : groups) {
+            printString(<span class="character">&quot;</span><span class="character">---&gt; Группа:</span><span class="character">&quot;</span> + gi.getNameGroup());
+            <span class="comment">// Получаем список студентов для конкретной группы</span>
+            Collection&lt;Student&gt; students = ms.getStudentsFromGroup(gi, 2006);
+            <span class="keyword-directive">for</span> (Student si : students) {
+                printString(si);
+            }
+        }
+        printString();
+
+        <span class="comment">// Создадим нового студента и добавим его в список</span>
+        Student s = <span class="keyword-directive">new</span> Student();
+        s.setStudentId(5);
+        s.setFirstName(<span class="character">&quot;</span><span class="character">Игорь</span><span class="character">&quot;</span>);
+        s.setPatronymic(<span class="character">&quot;</span><span class="character">Владимирович</span><span class="character">&quot;</span>);
+        s.setSurName(<span class="character">&quot;</span><span class="character">Перебежкин</span><span class="character">&quot;</span>);
+        s.setSex(<span class="character">&#39;М&#39;</span>);
+        Calendar c = Calendar.getInstance();
+        c.set(1991, 8, 31);
+        s.setDateOfBirth(c.getTime());
+        s.setGroupId(1);
+        s.setEducationYear(2006);
+        printString(<span class="character">&quot;</span><span class="character">Добавление студента:</span><span class="character">&quot;</span> + s);
+        printString(<span class="character">&quot;</span><span class="character">********************</span><span class="character">&quot;</span>);
+        ms.insertStudent(s);
+        printString(<span class="character">&quot;</span><span class="character">---&gt;&gt; Полный список студентов после добавления</span><span class="character">&quot;</span>);
+        allStudends = ms.getAllStudents();
+        <span class="keyword-directive">for</span> (Student si : allStudends) {
+            printString(si);
+        }
+        printString();
+
+        <span class="comment">// Изменим данные о студенте - Перебежкин станет у нас Новоперебежкиным</span>
+        <span class="comment">// Но все остальное будет таким же - создаем студента с таким же ИД</span>
+        s = <span class="keyword-directive">new</span> Student();
+        s.setStudentId(5);
+        s.setFirstName(<span class="character">&quot;</span><span class="character">Игорь</span><span class="character">&quot;</span>);
+        s.setPatronymic(<span class="character">&quot;</span><span class="character">Владимирович</span><span class="character">&quot;</span>);
+        s.setSurName(<span class="character">&quot;</span><span class="character">Новоперебежкин</span><span class="character">&quot;</span>);
+        s.setSex(<span class="character">&#39;М&#39;</span>);
+        c = Calendar.getInstance();
+        c.set(1991, 8, 31);
+        s.setDateOfBirth(c.getTime());
+        s.setGroupId(1);
+        s.setEducationYear(2006);
+        printString(<span class="character">&quot;</span><span class="character">Редактирование данных студента:</span><span class="character">&quot;</span> + s);
+        printString(<span class="character">&quot;</span><span class="character">*******************************</span><span class="character">&quot;</span>);
+        ms.updateStudent(s);
+        printString(<span class="character">&quot;</span><span class="character">---&gt;&gt; Полный список студентов после редактирования</span><span class="character">&quot;</span>);
+        allStudends = ms.getAllStudents();
+        <span class="keyword-directive">for</span> (Student si : allStudends) {
+            printString(si);
+        }
+        printString();
+
+        <span class="comment">// Удалим нашего студента</span>
+        printString(<span class="character">&quot;</span><span class="character">Удаление студента:</span><span class="character">&quot;</span> + s);
+        printString(<span class="character">&quot;</span><span class="character">******************</span><span class="character">&quot;</span>);
+        ms.deleteStudent(s);
+        printString(<span class="character">&quot;</span><span class="character">---&gt;&gt; Полный список студентов после удаления</span><span class="character">&quot;</span>);
+        allStudends = ms.getAllStudents();
+        <span class="keyword-directive">for</span> (Student si : allStudends) {
+            printString(si);
+        }
+        printString();
+
+        <span class="comment">// Здесь мы переводим всех студентов одной группы в другую</span>
+        <span class="comment">// Мы знаем, что у нас 2 группы</span>
+        <span class="comment">// Не совсем элегантное решение, но пока сделаем так</span>
+        Group g1 = groups.get(0);
+        Group g2 = groups.get(1);
+        printString(<span class="character">&quot;</span><span class="character">Перевод студентов из 1-ой во 2-ю группу</span><span class="character">&quot;</span>);
+        printString(<span class="character">&quot;</span><span class="character">***************************************</span><span class="character">&quot;</span>);
+        ms.moveStudentsToGroup(g1, 2006, g2, 2007);
+        printString(<span class="character">&quot;</span><span class="character">---&gt;&gt; Полный список студентов после перевода</span><span class="character">&quot;</span>);
+        allStudends = ms.getAllStudents();
+        <span class="keyword-directive">for</span> (Student si : allStudends) {
+            printString(si);
+        }
+        printString();
+
+        <span class="comment">// Удаляем студентов из группы</span>
+        printString(<span class="character">&quot;</span><span class="character">Удаление студентов из группы:</span><span class="character">&quot;</span> + g2 + <span class="character">&quot;</span><span class="character"> в 2006 году</span><span class="character">&quot;</span>);
+        printString(<span class="character">&quot;</span><span class="character">*****************************</span><span class="character">&quot;</span>);
+        ms.removeStudentsFromGroup(g2, 2006);
+        printString(<span class="character">&quot;</span><span class="character">---&gt;&gt; Полный список студентов после удаления</span><span class="character">&quot;</span>);
+        allStudends = ms.getAllStudents();
+        <span class="keyword-directive">for</span> (Iterator i = allStudends.iterator(); i.hasNext();) {
+            printString(i.next());
+        }
+        printString();
+    }
+
+    <span class="comment">// Метод создает две группы и помещает их в коллекцию для групп</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> loadGroups() {
+        <span class="comment">// Проверяем - может быть наш список еще не создан вообще</span>
+        <span class="keyword-directive">if</span> (groups == <span class="keyword-directive">null</span>) {
+            groups = <span class="keyword-directive">new</span> ArrayList&lt;Group&gt;();
+        } <span class="keyword-directive">else</span> {
+            groups.clear();
+        }
+        Group g = <span class="keyword-directive">null</span>;
+
+        g = <span class="keyword-directive">new</span> Group();
+        g.setGroupId(1);
+        g.setNameGroup(<span class="character">&quot;</span><span class="character">Первая</span><span class="character">&quot;</span>);
+        g.setCurator(<span class="character">&quot;</span><span class="character">Доктор Борменталь</span><span class="character">&quot;</span>);
+        g.setSpeciality(<span class="character">&quot;</span><span class="character">Создание собачек из человеков</span><span class="character">&quot;</span>);
+        groups.add(g);
+
+        g = <span class="keyword-directive">new</span> Group();
+        g.setGroupId(2);
+        g.setNameGroup(<span class="character">&quot;</span><span class="character">Вторая</span><span class="character">&quot;</span>);
+        g.setCurator(<span class="character">&quot;</span><span class="character">Профессор Преображенский</span><span class="character">&quot;</span>);
+        g.setSpeciality(<span class="character">&quot;</span><span class="character">Создание человеков из собачек</span><span class="character">&quot;</span>);
+        groups.add(g);
+    }
+
+    <span class="comment">// Метод создает несколько студентов и помещает их в коллекцию</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> loadStudents() {
+        <span class="keyword-directive">if</span> (students == <span class="keyword-directive">null</span>) {
+            <span class="comment">// Мы используем коллекцию, которая автоматически сортирует свои элементы</span>
+            students = <span class="keyword-directive">new</span> TreeSet&lt;Student&gt;();
+        } <span class="keyword-directive">else</span> {
+            students.clear();
+        }
+
+        Student s = <span class="keyword-directive">null</span>;
+        Calendar c = Calendar.getInstance();
+
+        <span class="comment">// Вторая группа</span>
+        s = <span class="keyword-directive">new</span> Student();
+        s.setStudentId(1);
+        s.setFirstName(<span class="character">&quot;</span><span class="character">Иван</span><span class="character">&quot;</span>);
+        s.setPatronymic(<span class="character">&quot;</span><span class="character">Сергеевич</span><span class="character">&quot;</span>);
+        s.setSurName(<span class="character">&quot;</span><span class="character">Степанов</span><span class="character">&quot;</span>);
+        s.setSex(<span class="character">&#39;М&#39;</span>);
+        c.set(1990, 3, 20);
+        s.setDateOfBirth(c.getTime());
+        s.setGroupId(2);
+        s.setEducationYear(2006);
+        students.add(s);
+
+        s = <span class="keyword-directive">new</span> Student();
+        s.setStudentId(2);
+        s.setFirstName(<span class="character">&quot;</span><span class="character">Наталья</span><span class="character">&quot;</span>);
+        s.setPatronymic(<span class="character">&quot;</span><span class="character">Андреевна</span><span class="character">&quot;</span>);
+        s.setSurName(<span class="character">&quot;</span><span class="character">Чичикова</span><span class="character">&quot;</span>);
+        s.setSex(<span class="character">&#39;Ж&#39;</span>);
+        c.set(1990, 6, 10);
+        s.setDateOfBirth(c.getTime());
+        s.setGroupId(2);
+        s.setEducationYear(2006);
+        students.add(s);
+
+        <span class="comment">// Первая группа</span>
+        s = <span class="keyword-directive">new</span> Student();
+        s.setStudentId(3);
+        s.setFirstName(<span class="character">&quot;</span><span class="character">Петр</span><span class="character">&quot;</span>);
+        s.setPatronymic(<span class="character">&quot;</span><span class="character">Викторович</span><span class="character">&quot;</span>);
+        s.setSurName(<span class="character">&quot;</span><span class="character">Сушкин</span><span class="character">&quot;</span>);
+        s.setSex(<span class="character">&#39;М&#39;</span>);
+        c.set(1991, 3, 12);
+        s.setDateOfBirth(c.getTime());
+        s.setEducationYear(2006);
+        s.setGroupId(1);
+        students.add(s);
+
+        s = <span class="keyword-directive">new</span> Student();
+        s.setStudentId(4);
+        s.setFirstName(<span class="character">&quot;</span><span class="character">Вероника</span><span class="character">&quot;</span>);
+        s.setPatronymic(<span class="character">&quot;</span><span class="character">Сергеевна</span><span class="character">&quot;</span>);
+        s.setSurName(<span class="character">&quot;</span><span class="character">Ковалева</span><span class="character">&quot;</span>);
+        s.setSex(<span class="character">&#39;Ж&#39;</span>);
+        c.set(1991, 7, 19);
+        s.setDateOfBirth(c.getTime());
+        s.setEducationYear(2006);
+        s.setGroupId(1);
+        students.add(s);
+    }
+
+    <span class="comment">// Получить список групп</span>
+    <span class="keyword-directive">public</span> List&lt;Group&gt; getGroups() {
+        <span class="keyword-directive">return</span> groups;
+    }
+
+    <span class="comment">// Получить список всех студентов</span>
+    <span class="keyword-directive">public</span> Collection&lt;Student&gt; getAllStudents() {
+        <span class="keyword-directive">return</span> students;
+    }
+
+    <span class="comment">// Получить список студентов для определенной группы</span>
+    <span class="keyword-directive">public</span> Collection&lt;Student&gt; getStudentsFromGroup(Group group, <span class="keyword-directive">int</span> year) {
+        Collection&lt;Student&gt; l = <span class="keyword-directive">new</span> TreeSet&lt;Student&gt;();
+        <span class="keyword-directive">for</span> (Student si : students) {
+            <span class="keyword-directive">if</span> (si.getGroupId() == group.getGroupId() &amp;&amp; si.getEducationYear() == year) {
+                l.add(si);
+            }
+        }
+        <span class="keyword-directive">return</span> l;
+    }
+
+    <span class="comment">// Перевести студентов из одной группы с одним годом обучения в другую группу с другим годом обучения</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> moveStudentsToGroup(Group oldGroup, <span class="keyword-directive">int</span> oldYear, Group newGroup, <span class="keyword-directive">int</span> newYear) {
+        <span class="keyword-directive">for</span> (Student si : students) {
+            <span class="keyword-directive">if</span> (si.getGroupId() == oldGroup.getGroupId() &amp;&amp; si.getEducationYear() == oldYear) {
+                si.setGroupId(newGroup.getGroupId());
+                si.setEducationYear(newYear);
+            }
+        }
+    }
+
+    <span class="comment">// Удалить всех студентов из определенной группы</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> removeStudentsFromGroup(Group group, <span class="keyword-directive">int</span> year) {
+        <span class="comment">// Мы создадим новый список студентов БЕЗ тех, кого мы хотим удалить.</span>
+        <span class="comment">// Возможно не самый интересный вариант. Можно было бы продемонстрировать</span>
+        <span class="comment">// более элегантный метод, но он требует погрузиться в коллекции более глубоко</span>
+        <span class="comment">//</span><span class="comment"> Здесь мы не ставим себе такую цель</span>
+        Collection&lt;Student&gt; tmp = <span class="keyword-directive">new</span> TreeSet&lt;Student&gt;();
+        <span class="keyword-directive">for</span> (Student si : students) {
+            <span class="keyword-directive">if</span> (si.getGroupId() != group.getGroupId() || si.getEducationYear() != year) {
+                tmp.add(si);
+            }
+        }
+        students = tmp;
+    }
+
+    <span class="comment">// Добавить студента</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> insertStudent(Student student) {
+        <span class="comment">// Просто добавляем объект в коллекцию</span>
+        students.add(student);
+    }
+
+    <span class="comment">// Обновить данные о студенте</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> updateStudent(Student student) {
+        <span class="comment">// Надо найти нужного студента (по его ИД) и заменить поля</span>
+        Student updStudent = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">for</span> (Student si : students) {
+            <span class="keyword-directive">if</span> (si.getStudentId() == student.getStudentId()) {
+                <span class="comment">// Вот этот студент - запоминаем его и прекращаем цикл</span>
+                updStudent = si;
+                <span class="keyword-directive">break</span>;
+            }
+        }
+        updStudent.setFirstName(student.getFirstName());
+        updStudent.setPatronymic(student.getPatronymic());
+        updStudent.setSurName(student.getSurName());
+        updStudent.setSex(student.getSex());
+        updStudent.setDateOfBirth(student.getDateOfBirth());
+        updStudent.setGroupId(student.getGroupId());
+        updStudent.setEducationYear(student.getEducationYear());
+    }
+
+    <span class="comment">// Удалить студента</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> deleteStudent(Student student) {
+        <span class="comment">// Надо найти нужного студента (по его ИД) и удалить</span>
+        Student delStudent = <span class="keyword-directive">null</span>;
+        <span class="keyword-directive">for</span> (Student si : students) {
+            <span class="keyword-directive">if</span> (si.getStudentId() == student.getStudentId()) {
+                <span class="comment">// Вот этот студент - запоминаем его и прекращаем цикл</span>
+                delStudent = si;
+                <span class="keyword-directive">break</span>;
+            }
+        }
+        students.remove(delStudent);
+    }
+
+    <span class="comment">// Этот код позволяет нам изменить кодировку</span>
+    <span class="comment">// Такое может произойти если используется IDE - например NetBeans.</span>
+    <span class="comment">// Тогда вы получаете просто одни вопросы, что крайне неудобно читать</span>
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> printString(Object s) {
+        <span class="comment">//System.out.println(s.toString());</span>
+        <span class="keyword-directive">try</span> {
+            System.out.println(<span class="keyword-directive">new</span> String(s.toString().getBytes(<span class="character">&quot;</span><span class="character">windows-1251</span><span class="character">&quot;</span>), <span class="character">&quot;</span><span class="character">windows-1252</span><span class="character">&quot;</span>));
+        } <span class="keyword-directive">catch</span> (UnsupportedEncodingException ex) {
+            ex.printStackTrace();
+        }
+    }
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">static</span> <span class="keyword-directive">void</span> printString() {
+        System.out.println();
+    }
+}
+        </pre>
+        <p class="plain">
+            Итак, самое интересно на взгляд автора кроется в следующих функциях:<br/>
+            <span class="code-text">loadGroups, loadStudents, getStudentsFromGroup, moveStudentsToGroup,
+            removeStudentsFromGroup, insertStudent, updateStudent, deleteStudent</span>
+        </p>
+        <p class="plain">
+            <span class="code-text">loadGroups</span> и <span class="code-text">loadStudent</span> - эти функции
+            на сегодня делают неблагодарную работу. Они создают данные и помещают их в коллекции.
+            Остальные функции как раз и демонстрируют в какой-то мере возможности коллекций.
+        </p>
+        <p class="plain">
+            <span class="code-text">insertStudent</span> - здесь вы можете видеть, что добавление в коллекцию -
+            очень простая опреация. Вы просто добавляете и все. Вам не надо думать о том, как ее расширять, где
+            взять памяти. Вы просто вызываете метод add.<br/>
+        </p>
+        <p class="plain">
+            <span class="code-text">deleteStudent, updateStudent</span> - эти функции демонстрируют некоторые
+            сложности при работе с коллекциями. Во-первых, здесь есть демонстрация того, каким образом можно
+            просмотреть все элементы коллекции.
+            Как вы могли заметить, функции достаточно похожи. В случае удаления мы просто удаляем найденного
+            студента. В случае изменения - заменяем поля студента на новые.
+        </p>
+        <p class="plain">
+            <span class="code-text">getStudentsFromGroup</span> - здесь мы получаем список студентов для
+            определенной группы. Как видите, мы создаем еще один список, куда перемещаем всех студентов из
+            конкретной группы и возвращаем уже вновь созданный список.
+        </p>
+        <p class="plain">
+            <span class="code-text">moveStudentsToGroup</span> - здесь все проще в связи с тем, что при
+            просмотре коллекции мы получаем ссылки на реальные объекты и их изменение будет сразу заметно.
+        </p>
+        <p class="plain">
+            <span class="code-text">removeStudentsFromGroup</span> - здесь предложен следующий вариант - создать
+            новый список из студентов, которые должны остаться.
+        </p>
+        <p class="plain">
+            Также надо обратить внимание на то, что наши списки групп и студентов - разные.
+            <span class="code-text">ArrayList</span> - простой список, который имеет порядок в каком были
+            добавлены эдементы.<br/>
+            <span class="code-text">TreeSet</span> - список, который умеет сортировать. Но умеет сортировать
+            объекты только такого класса, который имеет реализацию интерфейса <span class="code-text">Comparable</span>.
+        </p>
+        <p class="plain">
+            Ну и конечно вам просто необходимо просмотреть код метода <span class="code-text">main</span>
+            (напоминаю еще раз). В нем мы сделали несколько вызовов реализованных методов и убедились, что
+            они работают.
+        </p>
+        <p class="plain">
+            <span class="recommend">Рекомендуем: </span>Для более тонкого понимания как ищутся объекты в
+            коллекциях рекомендуем вам посмотреть описания методов <span class="code-text">hashCode</span> и
+            <span class="code-text">equals</span>. Коллекции часто рассматривают объекты как одинаковые,
+            если у них одинаковый хэшкод. Мы привели не самый интересные решения. Если переопределить для
+            класса <span class="code-text">Student</span> методы <span class="code-text">hashCode</span> и
+            <span class="code-text">equals</span>, которые будут считать студентов "равными" если у них
+            одинаковый ИД, то процесс удаления будет короче - просто вызов
+            <span class="code-text">students.remove(student)</span>
+        </p>
+        <p class="plain">
+            <strong>ВНИМАНИЕ!!!</strong><br/>
+            Наши классы находятся в пакете <span class="code-text">students.logic</span> - обратите внимание на
+            первую строку во всех файлах - <span class="code-text">package students.logic;</span><br/>
+            Это значит, что Вам надо создать вот такую структуру каталогов:<br/>
+            <pre class="code-snippet">
+<strong>- /student
+   - /logic
+      - Student.java
+      - Group.java
+      - ManagementSystem.java</strong>
+            </pre>
+            Для того, чтобы собрать наш проект Вам надо установить текующую директорию, в которой находится
+            директория <span class="code-text">students</span>. Для сборки нашего проекта используется команда
+        </p>
+        <p class="plain">
+            <span class="code-text">javac students/logic/*.java</span>
+        </p>
+        <p class="plain">
+            Если вы собираетесь использовать пример из архива, то вам необходимо сделать вот такой вызов:
+        </p>
+        <p class="plain">
+            <span class="code-text">javac -encoding UTF-8 students/logic/*.java</span>
+        </p>
+        <p class="plain">
+            Дело в том, что я использую IDE NetBeans и в ней кодировка UTF-8, которая при обычном запуске
+            не определяется компилятором <span class="code-text">javac</span> и вы получаете море ошибок.
+            Так что будьте внимательны.<br/>
+            Для запуска наберите следующую команду:
+        </p>
+        <p class="plain">
+            <span class="code-text">java -cp . students.logic.ManagementSystem</span>
+        </p>
+        <p class="plain">
+            При запуске все данные записываются в файл <span class="code-text">out.txt</span>.
+            Я ввел его из-за проблем с кодировкой. Файл всегда проще посмотреть - в том же
+            <span class="code-text">Notepad</span>.
+            Если хочется все-таки выводить данные на консоль - закомментируйте кусок кода,
+            где я перенаправляю стандартный вывод в файл. И Вы можете просто не использовать русский шрифт
+            - используйте только английский. Тогда будет проще.<br/>
+            А пока давайте перейдем к следующей части, где сможем насладиться нормальным видом нашего приложения.
+            Итак, <a href="students.php?name=part2">Часть 2 - Введение в GUI</a>
+        </p>
+        <p class="plain">
+            Архив с исходными кодами: <a href="Sources/part01.zip">Исходный код</a>
+        </p>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html> 
+------------NRetR0tYc677hdOXPI0EoB
+Content-Disposition: inline; filename=javacourse.css
+Content-Type: text/css; charset=windows-1251; name=javacourse.css
+Content-Location: http://www.java-course.ru/css/javacourse.css
+Content-Transfer-Encoding: 8bit
+
+.welcome {
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.jc-header {
+    width : 100%;
+    background-color: blue;
+}
+
+.jc-table-header {
+    line-height : 3;
+    color: white;
+}
+
+.jc-table-header a {
+    padding-right:10px;
+    padding-left:10px;
+}
+
+.jc-table-header a:link {
+    color: white;
+}
+
+.jc-table-header a:visited {
+    color: white;
+}
+
+.jc-table-header a:hover {
+    color: white;
+    background-color: #333333;
+    text-decoration: none;
+}
+
+.jc-header-text {
+    margin-left: 20px;
+    text-align: left;
+    text-shadow: white 2px 2px 2px;
+}
+
+.jc-nav {
+    background-color: aqua;
+}
+
+.jc-topLevel {
+    font-size: large;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.jc-article {
+    margin-left: 20px;
+    background-color: #cfffff;
+}
+
+.copyright {font-size: small;  font-family: serif; }
+.plain {font-size: medium;  font-family: serif; }
+.recommend {font-size: large; font-weight: bold; font-family: monospace; color: blue;}
+
+.code-snippet {font-family: monospace; background: #dddddd; }
+.code-text {font-weight: bold; font-family: monospace; }
+
+.comment {color: #969696; }
+.character {color: #ce7b00; }
+.keyword-directive {color: #0000e6; }
+
+.xml-comment {color: #969696; }
+.xml-attribute {color: #009900; }
+.xml-value {color: #ce7b00; }
+.xml-tag {color: #0000e6; }
+
+.sql-block-comment {color: #969696}
+.sql-identifier {color: #009900}
+.sql-string-literal {color: #ce7b00}
+.sql-keyword {color: #0000e6}
+
+------------NRetR0tYc677hdOXPI0EoB
+Content-Disposition: inline; filename=watch.js
+Content-Type: application/x-javascript; charset=windows-1251; name=watch.js
+Content-Location: http://mc.yandex.ru/metrika/watch.js
+Content-Transfer-Encoding: Base64
+
+KGZ1bmN0aW9uKGUsYyxrYSl7ZnVuY3Rpb24gWmEoYyl7dmFyIGU9W10saztmb3Io
+ayBpbiBjKWMuaGFzT3duUHJvcGVydHkoaykmJihlW2UubGVuZ3RoXT1rKyI9Iitl
+bmNvZGVVUklDb21wb25lbnQoY1trXSkpO3JldHVybiBlLmpvaW4oIiYiKX1mdW5j
+dGlvbiBGKGMpe2Zvcih2YXIgZT0xLGs9Yy5sZW5ndGg7ZTxhcmd1bWVudHMubGVu
+Z3RoO2UrKyljW2srK109YXJndW1lbnRzW2VdO3JldHVybiBjLmxlbmd0aH1mdW5j
+dGlvbiBJYShjLGUpe2Zvcih2YXIgaz0wLEE9Yy5sZW5ndGg7azxlLmxlbmd0aDtr
+KyspY1tBKytdPWVba119ZnVuY3Rpb24gbGEoYyl7Zm9yKHZhciBlPSJzdHJpbmci
+PT10eXBlb2YgYz9mdW5jdGlvbihlKXtyZXR1cm4gYy5jaGFyQ29kZUF0KGUpfTpm
+dW5jdGlvbihlKXtyZXR1cm4gY1tlXX0saz1jLmxlbmd0aCxBPTAsbz0yNTUsdD0y
+NTU7azspe3ZhciBCPTIxPGs/MjE6ayxrPWstQjtkb3t2YXIgcT1lKEErKyk7aWYo
+MjU1PHEpdmFyIEY9cT4+OCxxPXEmCjI1NSxxPXFeRjtvKz1xO3QrPW99d2hpbGUo
+LS1CKTtvPShvJjI1NSkrKG8+PjgpO3Q9KHQmMjU1KSsodD4+OCl9ZT0obyYyNTUp
+KyhvPj44KTw8OHwodCYyNTUpKyh0Pj44KTtyZXR1cm4gNjU1MzU9PWU/MDplfWZ1
+bmN0aW9uIHRhKGUscSxrLEEpe3ZhciBvPSIiO2smJihvPW5ldyBEYXRlLG8uc2V0
+VGltZShvLmdldFRpbWUoKSs2RTQqayksbz0iO2V4cGlyZXM9IitvLnRvR01UU3Ry
+aW5nKCkpO2MuY29va2llPWUrIj0iK3ErbysiO3BhdGg9IisoQXx8Ii8iKX1mdW5j
+dGlvbiB1YShlKXtyZXR1cm4gYy5jb29raWUubWF0Y2goUmVnRXhwKCIoPzpefDtc
+XHMqKSIrZSsiPShbXjtdKikiKSk/UmVnRXhwLiQxOm51bGx9ZnVuY3Rpb24gJGEo
+KXt0YSgiX21ldHJpa2FfZW5hYmxlZCIsIjEiLDYwKTt2YXIgYz0hIXVhKCJfbWV0
+cmlrYV9lbmFibGVkIik7dGEoIl9tZXRyaWthX2VuYWJsZWQiLCIiLC0xKTtyZXR1
+cm4gY31mdW5jdGlvbiBxKCl7Zm9yKHZhciBjPXt9LHE9Imhhc2gsaG9zdCxob3N0
+bmFtZSxocmVmLHBhdGhuYW1lLHBvcnQscHJvdG9jb2wsc2VhcmNoIi5zcGxpdCgi
+LCIpLAprPXEubGVuZ3RoLEE9aztBLS07KWNbcVtBXV09IiI7dHJ5e2Zvcih2YXIg
+bz1lLmxvY2F0aW9uLEE9aztBLS07KXt2YXIgdD1xW0FdO2NbdF09b1t0XX19Y2F0
+Y2goQil7UiYmKGM9Uil9cmV0dXJuIGN9ZnVuY3Rpb24gWShjKXt0cnl7ZGVsZXRl
+IGVbY119Y2F0Y2gocSl7ZVtjXT1rYX19ZnVuY3Rpb24gYmEoZSl7dmFyIHE9Yy5j
+cmVhdGVFbGVtZW50KCJzY3JpcHQiKTtxLnR5cGU9InRleHQvamF2YXNjcmlwdCI7
+cS5hc3luYz0hMDtxLnNyYz1lO3RyeXt2YXIgaz1jLmdldEVsZW1lbnRzQnlUYWdO
+YW1lKCJodG1sIilbMF07Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgiaGVhZCIpWzBd
+fHxrLmFwcGVuZENoaWxkKGMuY3JlYXRlRWxlbWVudCgiaGVhZCIpKTt2YXIgQT1j
+LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJoZWFkIilbMF07QS5pbnNlcnRCZWZvcmUo
+cSxBLmZpcnN0Q2hpbGQpfWNhdGNoKG8pe319ZnVuY3Rpb24gbWEoYyl7YmEodmEr
+Ii8vbWV0cmlrYS55YW5kZXgucnUvanMvIisKYysiL19sb2FkZXIuanMiKX1mdW5j
+dGlvbiBhYihDLEksayxBLG8pe2Z1bmN0aW9uIHQoZCl7cmV0dXJuIGZ1bmN0aW9u
+KCl7dHJ5e3JldHVybiBkLmFwcGx5KHRoaXMsYXJndW1lbnRzKX1jYXRjaChqKXso
+bmV3IEltYWdlKS5zcmM9Ii8vYW4ueWFuZGV4LnJ1L2pzZXJyLyIrQysiPyIrWmEo
+eyJjbnQtY2xhc3MiOjEwMCtJLGVycm1zZzpqLm1lc3NhZ2UrIi0tIisoZC50b1N0
+cmluZygpLm1hdGNoKC9mdW5jdGlvblxzKFteKF0qKS8pfHx7MToiIn0pWzFdfSl9
+fX1mdW5jdGlvbiBCKCl7cmV0dXJuIkNTUzFDb21wYXQiPT1jLmNvbXBhdE1vZGU/
+Yy5kb2N1bWVudEVsZW1lbnQ6Yy5ib2R5fWZ1bmN0aW9uIFIoKXt2YXIgZD1CKCk7
+cmV0dXJuW2QuY2xpZW50V2lkdGgsZC5jbGllbnRIZWlnaHRdfWZ1bmN0aW9uIEwo
+KXt2YXIgZD1CKCksaj1SKCk7cmV0dXJuW01hdGgubWF4KGQuc2Nyb2xsV2lkdGgs
+alswXSksTWF0aC5tYXgoZC5zY3JvbGxIZWlnaHQsalsxXSldfWZ1bmN0aW9uIFgo
+KXtyZXR1cm5bZS5wYWdlWE9mZnNldHx8CmMuZG9jdW1lbnRFbGVtZW50JiZjLmRv
+Y3VtZW50RWxlbWVudC5zY3JvbGxMZWZ0fHxjLmJvZHkmJmMuYm9keS5zY3JvbGxM
+ZWZ0fHwwLGUucGFnZVlPZmZzZXR8fGMuZG9jdW1lbnRFbGVtZW50JiZjLmRvY3Vt
+ZW50RWxlbWVudC5zY3JvbGxUb3B8fGMuYm9keSYmYy5ib2R5LnNjcm9sbFRvcHx8
+MF19ZnVuY3Rpb24gWihkKXtpZighZC5vd25lckRvY3VtZW50fHwiUEFSQU0iPT1k
+LnRhZ05hbWV8fGQ9PWMuYm9keXx8ZD09Yy5kb2N1bWVudEVsZW1lbnQpcmV0dXJu
+WzAsMF07aWYoZC5nZXRCb3VuZGluZ0NsaWVudFJlY3QpcmV0dXJuIGQ9ZC5nZXRC
+b3VuZGluZ0NsaWVudFJlY3QoKSxbTWF0aC5yb3VuZChkLmxlZnQrU1swXSksTWF0
+aC5yb3VuZChkLnRvcCtTWzFdKV07Zm9yKHZhciBqPTAsYT0wO2Q7KWorPWQub2Zm
+c2V0TGVmdCxhKz1kLm9mZnNldFRvcCxkPWQub2Zmc2V0UGFyZW50O3JldHVybltq
+LGFdfWZ1bmN0aW9uIGNhKGQpe3JldHVybiBkPT1jLmRvY3VtZW50RWxlbWVudD8K
+bnVsbDpkPT1jLmJvZHk/Yy5kb2N1bWVudEVsZW1lbnQ6ZC5wYXJlbnROb2RlfWZ1
+bmN0aW9uICQoZCxqKXt2YXIgYT1bXTtpZihkKWZvcih2YXIgYj1kLmNoaWxkTm9k
+ZXMsYz0wLGY9Yi5sZW5ndGg7YzxmO2MrKyl7dmFyIGc9YltjXTshKCJJTlBVVCI9
+PWcubm9kZU5hbWUmJmcudHlwZSYmImhpZGRlbiI9PWcudHlwZS50b0xvY2FsZUxv
+d2VyQ2FzZSgpKSYmKCFqfHxnLm5vZGVOYW1lPT1qKSYmRihhLGcpfXJldHVybiBh
+fWZ1bmN0aW9uIG5hKGQpe3ZhciBqPVooZCksZD1kPT1jLmJvZHl8fGQ9PWMuZG9j
+dW1lbnRFbGVtZW50P0woKTpbZC5vZmZzZXRXaWR0aCxkLm9mZnNldEhlaWdodF07
+cmV0dXJuW2pbMF0salsxXSxkWzBdLGRbMV1dfWZ1bmN0aW9uIE0oZCl7Zm9yKHZh
+ciBqPSIiLGQ9ZC5jaGlsZE5vZGVzLGE9MCxiPWQubGVuZ3RoO2E8YjthKyspMz09
+ZFthXS5ub2RlVHlwZSYmKGorPWRbYV0ubm9kZVZhbHVlKTtyZXR1cm4gbGEoai5y
+ZXBsYWNlKC9bXHUwMDAwLVx1MDAyMF0rL2csCiIiKSl9ZnVuY3Rpb24gYWEoZCl7
+dmFyIGo9IiIsYT0iY2xhc3NOYW1lLHdpZHRoLGhlaWdodCxhbGlnbix0aXRsZSxh
+bHQsbmFtZSIuc3BsaXQoIiwiKTsiSU1HIj09ZC50YWdOYW1lJiYoais9ZC5zcmMu
+dG9Mb3dlckNhc2UoKSk7IkEiPT1kLnRhZ05hbWUmJihqKz1kLmhyZWYudG9Mb3dl
+ckNhc2UoKSk7Zm9yKHZhciBiPTA7YjxhLmxlbmd0aDtiKyspais9KCIiKyhkLmdl
+dEF0dHJpYnV0ZShhW2JdKXx8IiIpKS50b0xvd2VyQ2FzZSgpO3JldHVybiBsYShq
+LnJlcGxhY2UoL1tcdTAwMDAtXHUwMDIwXSsvZywiIikpfWZ1bmN0aW9uIG9hKGQp
+e2Zvcih2YXIgaj1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJmb3JtIiksYT0wLGI9
+ai5sZW5ndGg7YTxiO2ErKylpZihqW2FdPT1kKXJldHVybiBhO3JldHVybi0xfWZ1
+bmN0aW9uIGRhKGQpe3JldHVybiJJTlBVVCI9PWQubm9kZU5hbWUmJiJzdWJtaXQi
+IT1kLnR5cGUmJiJpbWFnZSIhPWQudHlwZSYmImhpZGRlbiIhPWQudHlwZT8icmFk
+aW8iPT0KZC50eXBlfHwiY2hlY2tib3giPT1kLnR5cGU/IWQuY2hlY2tlZDohZC52
+YWx1ZToiVEVYVEFSRUEiPT1kLm5vZGVOYW1lPyFkLnZhbHVlOiJTRUxFQ1QiPT1k
+Lm5vZGVOYW1lPzA+ZC5zZWxlY3RlZEluZGV4OiEwfWZ1bmN0aW9uIHkoZCxqLGEp
+e3ZhciBiPXQoZnVuY3Rpb24oZCl7cmV0dXJuIGEoZHx8ZS5ldmVudCl9KTtUW1Qu
+bGVuZ3RoXT1bZCxqLGEsYl07ZC5hZGRFdmVudExpc3RlbmVyP2QuYWRkRXZlbnRM
+aXN0ZW5lcihqLGIsITApOmQuYXR0YWNoRXZlbnQmJmQuYXR0YWNoRXZlbnQoIm9u
+IitqLGIpfWZ1bmN0aW9uIHIoZCxqLGEpe2Zvcih2YXIgYj0wO2I8VC5sZW5ndGg7
+YisrKWlmKFRbYl0mJlRbYl1bMF09PWQmJlRbYl1bMV09PWomJlRbYl1bMl09PWEp
+e3ZhciBjPVRbYl1bM107ZGVsZXRlIFRbYl07YnJlYWt9YyYmKGQucmVtb3ZlRXZl
+bnRMaXN0ZW5lcj9kLnJlbW92ZUV2ZW50TGlzdGVuZXIoaixjLCEwKTpkLmRldGFj
+aEV2ZW50JiZkLmRldGFjaEV2ZW50KCJvbiIrCmosYykpfWZ1bmN0aW9uIGlhKGQp
+e3ZhciBqPUIoKTtyZXR1cm5bZC5wYWdlWHx8ZC5jbGllbnRYK1NbMF0tKGouY2xp
+ZW50TGVmdHx8MCl8fDAsZC5wYWdlWXx8ZC5jbGllbnRZK1NbMV0tKGouY2xpZW50
+VG9wfHwwKXx8MF19ZnVuY3Rpb24gVShkKXtyZXR1cm4gZC50YXJnZXR8fGQuc3Jj
+RWxlbWVudH1mdW5jdGlvbiBlYShkKXtyZXR1cm4oZC5zaGlmdEtleT90YjowKXwo
+ZC5jdHJsS2V5P2JiOjApfChkLmFsdEtleT91YjowKXwoZC5tZXRhS2V5P0ZiOjAp
+fChkLmN0cmxLZXl8fGQuYWx0S2V5P0phOjApfWZ1bmN0aW9uIGphKGQpe3ZhciBq
+PShuZXcgRGF0ZSkuZ2V0VGltZSgpO2QmJmo8ZCYmKGNiKz1kLWoreik7ZS5zZXRU
+aW1lb3V0KHQoZnVuY3Rpb24oKXtqYShqKX0pLHopfWZ1bmN0aW9uIHBhKCl7dmFy
+IGQ9KG5ldyBEYXRlKS5nZXRUaW1lKCkrY2I7ZDxkYiYmKGQ9ZGIrei8yKTtyZXR1
+cm4gZGI9ZH1mdW5jdGlvbiBHKCl7cmV0dXJuIE1hdGgucm91bmQoKHBhKCktSGIp
+LwpJYil9ZnVuY3Rpb24gZmEoZCxqKXtqPU1hdGgubWF4KDAsTWF0aC5taW4oaiw2
+NTUzNSkpO0YoZCxqPj44LGomMjU1KX1mdW5jdGlvbiB4KGQsail7RihkLGomMjU1
+KX1mdW5jdGlvbiBpKGQsail7Zm9yKGo9TWF0aC5tYXgoMCxqfDApOzEyNzxqOylG
+KGQsaiYxMjd8MTI4KSxqPj49NztGKGQsail9ZnVuY3Rpb24gd2EoZCxqKXsyNTU8
+ai5sZW5ndGgmJihqPWouc3Vic3RyKDAsMjU1KSk7RihkLGoubGVuZ3RoKTtmb3Io
+dmFyIGE9MDthPGoubGVuZ3RoO2ErKylmYShkLGouY2hhckNvZGVBdChhKSl9ZnVu
+Y3Rpb24geGEoZCxqKXtpKGQsai5sZW5ndGgpO2Zvcih2YXIgYT0wO2E8ai5sZW5n
+dGg7YSsrKWkoZCxqLmNoYXJDb2RlQXQoYSkpfWZ1bmN0aW9uIHRhKGQpe2lmKCFk
+Lm5vZGVOYW1lKXJldHVybiBkW0pdPS0xLG51bGw7dmFyIGE9TnVtYmVyKGRbSl0p
+O2lmKCFpc0Zpbml0ZShhKXx8MD49YSlyZXR1cm4gbnVsbDt2YXIgYj1LYixjPTAs
+Zz1jYShkKSxmPWcmJmdbSl0/Z1tKXToKMDswPmYmJihmPTApO3ZhciBlPWQubm9k
+ZU5hbWUudG9VcHBlckNhc2UoKSxsPUxiW2VdO2x8fChifD1NYik7dmFyIGg7YTp7
+aD0kKGNhKGQpLGQubm9kZU5hbWUpO2Zvcih2YXIgdz0wO3c8aC5sZW5ndGg7dysr
+KWlmKGhbd109PWQpe2g9dzticmVhayBhfWg9MH1ofHwoYnw9TmIpO3c9bmEoZCk7
+KGc9Zz9uYShnKTpudWxsKSYmd1swXT09Z1swXSYmd1sxXT09Z1sxXSYmd1syXT09
+Z1syXSYmd1szXT09Z1szXSYmKGJ8PXZiKTtLYVthXS5wb3M9d1swXSsieCIrd1sx
+XTtLYVthXS5zaXplPXdbMl0rIngiK3dbM107ZC5pZCYmInN0cmluZyI9PXR5cGVv
+ZiBkLmlkJiYoYnw9d2IpOyhnPU0oZCkpJiYoYnw9T2IpO3ZhciBwPWFhKGQpO3Am
+JihjfD1QYik7dmFyIG07YTp7bT0kKGNhKGQpLGQudGFnTmFtZSk7Zm9yKHZhciB1
+PTA7dTxtLmxlbmd0aDt1KyspaWYoIShtW3VdLmlkJiYic3RyaW5nIj09dHlwZW9m
+IG1bdV0uaWQpJiZhYShtW3VdKT09cCYmTShtW3VdKT09Zyl7bT0hMDticmVhayBh
+fW09CiExfWlmKG0pdmFyIGI9Ynx4YixzPWxhKChkLmlubmVySFRNTHx8IiIpLnJl
+cGxhY2UoLyg8W14+XSo+fFtcdTAwMDAtXHUwMDIwXSkvZywiIikpO209W107eCht
+LFkpO2kobSxhKTt4KG0sYik7aShtLGYpO2w/eChtLGwpOndhKG0sZSk7aCYmaSht
+LGgpO2ImdmJ8fChpKG0sd1swXSksaShtLHdbMV0pLGkobSx3WzJdKSxpKG0sd1sz
+XSkpO2Imd2ImJndhKG0sZC5pZCk7ZyYmZmEobSxnKTtiJnhiJiZmYShtLHMpO3go
+bSxjKTtwJiZmYShtLHApO3JldHVybiBtfWZ1bmN0aW9uIExhKGQsYSxiLGMsZyxm
+KXtmb3IoO2ImJighYi5vZmZzZXRXaWR0aHx8IWIub2Zmc2V0SGVpZ2h0KTspYj1j
+YShiKTtpZighYilyZXR1cm4gbnVsbDt2YXIgZT1iW0pdO2lmKCFlfHwwPmUpcmV0
+dXJuIG51bGw7dmFyIGw9e21vdXNlbW92ZTpiYSxjbGljazpRYixtb3VzZWRvd246
+VGEsbW91c2V1cDpSYix0b3VjaDpzYX1bYV07aWYoIWwpcmV0dXJuIG51bGw7dmFy
+IHc9WihiKSxiPVtdO3goYixsKTtpKGIsZCk7CmkoYixlKTtpKGIsTWF0aC5tYXgo
+MCxjWzBdLXdbMF0pKTtpKGIsTWF0aC5tYXgoMCxjWzFdLXdbMV0pKTsvXm1vdXNl
+KHVwfGRvd24pfGNsaWNrJC8udGVzdChhKSYmKGQ9Z3x8Zix4KGIsMj5kP1NiOmQ9
+PShnPzI6NCk/VGI6VWIpKTtyZXR1cm4gYn1mdW5jdGlvbiB5YShkLGEpe3ZhciBi
+PVtdO3goYixtYSk7aShiLGQpO2koYixhWzBdKTtpKGIsYVsxXSk7cmV0dXJuIGJ9
+ZnVuY3Rpb24gdmEoZCxhLGIpe3ZhciBjPVtdO3goYyxXYik7aShjLGQpO2koYyxh
+WzBdKTtpKGMsYVsxXSk7aShjLGJbMF0pO2koYyxiWzFdKTtyZXR1cm4gY31mdW5j
+dGlvbiBuKGQsYSxiLGMpe3ZhciBnPVtdO3goZyxVYSk7aShnLGQpO2ZhKGcsYSk7
+eChnLGIpO2Q9Y1tKXTtpZighZHx8MD5kKWQ9MDtpKGcsZCk7cmV0dXJuIGd9ZnVu
+Y3Rpb24gemEoZCxhKXt2YXIgYixjOzA9PWEubGVuZ3RoP2M9Yj0iIjoxMDA+PWEu
+bGVuZ3RoPyhiPWEsYz0iIik6MjAwPj1hLmxlbmd0aD8oYj1hLnN1YnN0cigwLDEw
+MCksCmM9YS5zdWJzdHIoMTAwKSk6KGI9YS5zdWJzdHIoMCw5NyksYz1hLnN1YnN0
+cihhLmxlbmd0aC05NykpO3ZhciBnPVtdO3goZyxYYik7aShnLGQpO3hhKGcsYik7
+eGEoZyxjKTtyZXR1cm4gZ31mdW5jdGlvbiBBYShkKXt2YXIgYT1bXTt4KGEsWWIp
+O2koYSxkKTtyZXR1cm4gYX1mdW5jdGlvbiBnYShkKXt2YXIgYT1bXTt4KGEsJGEp
+O2koYSxkKTtyZXR1cm4gYX1mdW5jdGlvbiBNYShkKXt2YXIgYT1bXTt4KGEsYWIp
+O2koYSxkKTtyZXR1cm4gYX1mdW5jdGlvbiBOYShkLGEpe3ZhciBiPVtdO3goYixw
+Yik7aShiLGQpO2koYixhW0pdKTtyZXR1cm4gYn1mdW5jdGlvbiBIKGQsYSl7dmFy
+IGI9W107eChiLHFiKTtpKGIsZCk7aShiLGFbSl0pO3JldHVybiBifWZ1bmN0aW9u
+IE9hKGQsYSxiKXt2YXIgYz1bXTt4KGMscmIpO2koYyxkKTtpKGMsYVtKXSk7d2Eo
+YywiIitiKTtyZXR1cm4gY31mdW5jdGlvbiBlYihkLGEsYil7aWYoYj1zKGIpKXti
+LnNoaWZ0KCk7YT1wKGEpO2Euc2hpZnQoKTsKSWEoYSxiKTtiPVtdO3goYixzYik7
+aShiLGQpO2koYixhLmxlbmd0aCk7Zm9yKGQ9MDtkPGEubGVuZ3RoO2QrKyl4KGIs
+YVtkXSk7cmV0dXJuIGJ9cmV0dXJuIG51bGx9ZnVuY3Rpb24gVihkLGEpe3ZhciBi
+PWFbSl07aWYoMDxiKXt2YXIgYz1bXSxnPW5hKGEpLGY9S2FbYl0sZT1nWzBdKyJ4
+IitnWzFdLGw9Z1syXSsieCIrZ1szXTtpZihlIT1mLnBvcylmLnBvcz1lLHgoYyxX
+YSksaShjLGQpLGkoYyxiKSxpKGMsZ1swXSksaShjLGdbMV0pO2lmKGwhPWYuc2l6
+ZSlmLnNpemU9bCx4KGMsWGEpLGkoYyxkKSxpKGMsYiksaShjLGdbMl0pLGkoYyxn
+WzNdKTtpZihjLmxlbmd0aClyZXR1cm4gY31yZXR1cm4gbnVsbH1mdW5jdGlvbiBC
+YShkKXt2YXIgYT1kW0pdO2lmKCFhfHwwPmF8fCEvXklOUFVUfFNFTEVDVHxURVhU
+QVJFQSQvLnRlc3QoZC5ub2RlTmFtZSl8fCFkLmZvcm18fC8oPzpefFxzKS1tZXRy
+aWthLW5vZm9ybSg/OlxzfCQpLy50ZXN0KGQuZm9ybS5jbGFzc05hbWUpKXJldHVy
+biBudWxsOwp2YXIgYj1vYShkLmZvcm0pO2lmKDA+YilyZXR1cm4gbnVsbDt2YXIg
+YztjPSJJTlBVVCI9PWQubm9kZU5hbWU/e3RleHQ6MCxwYXNzd29yZDoyLHJhZGlv
+OjMsY2hlY2tib3g6NCxmaWxlOjYsaW1hZ2U6N31bZC50eXBlXTp7U0VMRUNUOjEs
+VEVYVEFSRUE6NX1bZC5ub2RlTmFtZV07aWYoIm51bWJlciIhPXR5cGVvZiBjKXJl
+dHVybiBudWxsO2Zvcih2YXIgZz0tMSxmPWQuZm9ybS5lbGVtZW50cyxlPWYubGVu
+Z3RoLGw9MCx3PTA7bDxlO2wrKylpZihmW2xdLm5hbWU9PWQubmFtZSl7aWYoZlts
+XT09ZCl7Zz13O2JyZWFrfXcrK31pZigwPmcpcmV0dXJuIG51bGw7Zj1bXTt4KGYs
+VmEpO2koZixhKTtpKGYsYik7aShmLGMpO3hhKGYsZC5uYW1lfHwiIik7aShmLGcp
+O3JldHVybiBmfWZ1bmN0aW9uIENhKGQsYSl7dmFyIGI9b2EoYSk7aWYoMD5iKXJl
+dHVybiBudWxsO2Zvcih2YXIgYz1hLmVsZW1lbnRzLGc9Yy5sZW5ndGgsZj1bXSxl
+PTA7ZTxnO2UrKylpZighZGEoY1tlXSkpe3ZhciBsPQpjW2VdW0pdO2wmJjA8bCYm
+RihmLGwpfWM9W107eChjLHJhKTtpKGMsZCk7aShjLGIpO2koYyxmLmxlbmd0aCk7
+Zm9yKGI9MDtiPGYubGVuZ3RoO2IrKylpKGMsZltiXSk7cmV0dXJuIGN9ZnVuY3Rp
+b24gaGEoZCl7Y2xlYXJUaW1lb3V0KHliKTtmb3IodmFyIGE9KG5ldyBEYXRlKS5n
+ZXRUaW1lKCkrWmI7UGEubGVuZ3RoJiYoZHx8KyhuZXcgRGF0ZSkuZ2V0VGltZSgp
+PGEpOyl7dmFyIGI9UGEuc2hpZnQoKTtpZihiPWJbMF0uYXBwbHkoZSxiWzFdKSk2
+NTAwPHFhLmxlbmd0aCtiLmxlbmd0aCYmdygpLElhKHFhLGIpLFFhfHwoUWE9ZS5z
+ZXRUaW1lb3V0KHQodyksJGIpKX0hMD09PWQmJncoITApO1BhLmxlbmd0aCYmKHli
+PWUuc2V0VGltZW91dCh0KGhhKSxhYykpfWZ1bmN0aW9uIEQoZCxhLGIpe0YoUGEs
+W2QsYV0pO2hhKGIpfWZ1bmN0aW9uIE4oZCl7aWYoZFtKXSlEKFYsW0coKSxkXSk7
+ZWxzZXt2YXIgYT1jYShkKTthJiZOKGEpO2RbSl09ZmI7S2FbZmJdPXt9O2ZiKys7
+RCh0YSwKW2RdKTtEKEJhLFtkXSl9fWZ1bmN0aW9uIE8oZCl7dmFyIGE9VShkKTth
+JiYiU0NST0xMQkFSIiE9YS5ub2RlTmFtZSYmKE4oYSksRChMYSxbRygpLGQudHlw
+ZSxhLGlhKGQpLGQud2hpY2gsZC5idXR0b25dKSl9ZnVuY3Rpb24gRGEoZCl7Tyhk
+KTt2YXIgYSxiO2lmKGUuZ2V0U2VsZWN0aW9uKWQ9ZS5nZXRTZWxlY3Rpb24oKSxh
+PWQudG9TdHJpbmcoKSxiPWQuYW5jaG9yTm9kZTtlbHNlIGlmKGMuc2VsZWN0aW9u
+JiZjLnNlbGVjdGlvbi5jcmVhdGVSYW5nZSlkPWMuc2VsZWN0aW9uLmNyZWF0ZVJh
+bmdlKCksYT1kLnRleHQsYj1kLnBhcmVudEVsZW1lbnQoKTtmb3IoO2ImJjEhPWIu
+bm9kZVR5cGU7KWI9Yi5wYXJlbnROb2RlO2lmKCEoYiYmIklOUFVUIj09Yi50YWdO
+YW1lJiYicGFzc3dvcmQiPT1iLnR5cGV8fGImJi8oPzpefFxzKS1tZXRyaWthLW5v
+a2V5cyg/OlxzfCQpLy50ZXN0KGIuY2xhc3NOYW1lKSkmJmEhPWdiKWdiPWEsRCh6
+YSxbRygpLGFdKX1mdW5jdGlvbiBFYShkKXt2YXIgYT0KcGEoKSxiPWEtemI7aWYo
+IShiPHVhKSl7dmFyIGM9aWEoZCksZz1oYlswXS1jWzBdLGY9aGJbMV0tY1sxXSxn
+PWcqZytmKmY7aWYoISgwPj1nfHwxNj5nJiYxMDA+YikmJiEoMjA+YiYmMjU2Pmcp
+KXpiPWEsaGI9YyxPKGQpfX1mdW5jdGlvbiBQKCl7Uz1YKCk7dmFyIGQ9cGEoKTtk
+LUFiPHVhfHwxMD5NYXRoLmFicyhTWzBdLWliWzBdKSYmMTA+TWF0aC5hYnMoU1sx
+XS1pYlsxXSl8fChBYj1kLGliPVMsRCh5YSxbRygpLFNdKSl9ZnVuY3Rpb24gYSgp
+e0QodmEsW0coKSxSKCksTCgpXSl9ZnVuY3Rpb24gZyhkKXt3KCEwKTtpZigiYmVm
+b3JldW5sb2FkIj09ZC50eXBlKWZvcihkPStuZXcgRGF0ZSs1MDsrbmV3IERhdGU8
+ZDspO31mdW5jdGlvbiBiKGQsYSxiKXtkPVUoZCk7IklOUFVUIj09ZC50YWdOYW1l
+JiYicGFzc3dvcmQiPT1kLnR5cGV8fC8oPzpefFxzKS1tZXRyaWthLW5va2V5cyg/
+OlxzfCQpLy50ZXN0KGQuY2xhc3NOYW1lKXx8KE4oZCksRChuLFtHKCksYSxiLGRd
+KSl9ZnVuY3Rpb24gZihkKXt2YXIgYT0KZC5rZXlDb2RlLGM9ZWEoZCk7aWYoezM6
+MSw4OjEsOToxLDEzOjEsMTY6MSwxNzoxLDE4OjEsMTk6MSwyMDoxLDI3OjEsMzM6
+MSwzNDoxLDM1OjEsMzY6MSwzNzoxLDM4OjEsMzk6MSw0MDoxLDQ1OjEsNDY6MSw5
+MToxLDkyOjEsOTM6MSwxMDY6MSwxMTA6MSwxMTE6MSwxNDQ6MSwxNDU6MX1bYV18
+fDExMjw9YSYmMTIzPj1hfHw5Njw9YSYmMTA1Pj1hfHxjJkphKTE5PT1hJiYoYyZ+
+SmEpPT1iYiYmKGE9MTQ0KSxiKGQsYSxjfEphKSxqYj0hMSxlLnNldFRpbWVvdXQo
+dChmdW5jdGlvbigpe2piPSEwfSksMSksNjc9PWEmJmMmYmImJiEoYyZ1YikmJiEo
+YyZ0YikmJmgoKX1mdW5jdGlvbiBsKGQpe2piJiYha2ImJjAhPT1kLndoaWNoJiYo
+YihkLGQuY2hhckNvZGV8fGQua2V5Q29kZSxlYShkKSksa2I9ITAsZS5zZXRUaW1l
+b3V0KHQoZnVuY3Rpb24oKXtrYj0hMX0pLDEpKX1mdW5jdGlvbiBoKCl7bGJ8fChs
+Yj0hMCxnYiYmRChBYSxbRygpXSksZS5zZXRUaW1lb3V0KHQoZnVuY3Rpb24oKXts
+Yj0KITF9KSwxKSl9ZnVuY3Rpb24gbSgpe0ZhfHwoRmE9ITAsRChnYSxbRygpXSkp
+fWZ1bmN0aW9uIEdhKCl7RmEmJihGYT0hMSxEKE1hLFtHKCldKSl9ZnVuY3Rpb24g
+QmIoZCl7KCFGYXx8ZCYmIWQuZnJvbUVsZW1lbnQpJiZtKCl9ZnVuY3Rpb24gQ2Io
+ZCl7ZCYmIWQudG9FbGVtZW50JiZHYSgpfWZ1bmN0aW9uIHUoZCl7aWYoKGQ9VShk
+KSkmJi9eSU5QVVR8U0VMRUNUfFRFWFRBUkVBfEJVVFRPTiQvLnRlc3QoZC50YWdO
+YW1lKSlOKGQpLEQoTmEsW0coKSxkXSl9ZnVuY3Rpb24gUmEoZCl7aWYoKGQ9VShk
+KSkmJi9eSU5QVVR8U0VMRUNUfFRFWFRBUkVBfEJVVFRPTiQvLnRlc3QoZC50YWdO
+YW1lKSlOKGQpLEQoSCxbRygpLGRdKX1mdW5jdGlvbiB2KGQpe2Q9VShkKTtpZigh
+KCJJTlBVVCI9PWQudGFnTmFtZSYmInBhc3N3b3JkIj09ZC50eXBlfHxkJiYvKD86
+XnxccyktbWV0cmlrYS1ub2tleXMoPzpcc3wkKS8udGVzdChkLmNsYXNzTmFtZSkp
+JiZkJiYvXklOUFVUfFNFTEVDVHxURVhUQVJFQSQvLnRlc3QoZC50YWdOYW1lKSl7
+dmFyIGE9Ci9eKGNoZWNrYm94fHJhZGlvKSQvLnRlc3QoZC50eXBlKT9kLmNoZWNr
+ZWQ6ZC52YWx1ZTtOKGQpO0QoT2EsW0coKSxkLGFdKX19ZnVuY3Rpb24gSGEoZCl7
+ZD1VKGQpO2lmKCEvKD86XnxccyktbWV0cmlrYS1ub2Zvcm0oPzpcc3wkKS8udGVz
+dChkLmNsYXNzTmFtZSkmJiJGT1JNIj09ZC5ub2RlTmFtZSl7Zm9yKHZhciBhPWQu
+ZWxlbWVudHMsYj0wO2I8YS5sZW5ndGg7YisrKWRhKGFbYl0pfHxOKGFbYl0pO0Qo
+Q2EsW0coKSxkXSwhMCl9fWZ1bmN0aW9uIEUoZCl7UCgpO2lmKGQudG91Y2hlcyYm
+ZC50b3VjaGVzLmxlbmd0aCl7dmFyIGE9VShkKTtpZihhKXtOKGEpO2Zvcih2YXIg
+Yj0wO2I8ZC50b3VjaGVzLmxlbmd0aDtiKyspRChMYSxbRygpLCJ0b3VjaCIsYSxb
+ZC50b3VjaGVzW2JdLnBhZ2VYLGQudG91Y2hlc1tiXS5wYWdlWV0sMCwwXSl9fX1m
+dW5jdGlvbiB3KCl7Y2xlYXJUaW1lb3V0KFFhKTtRYT0wO2lmKHFhLmxlbmd0aCl7
+Zm9yKHZhciBkPXtybjpNYXRoLnJvdW5kKDFFNSoKTWF0aC5yYW5kb20oKSksInd2
+LXR5cGUiOjAsImNudC1jbGFzcyI6SSwicGFnZS11cmwiOiIiK3EoKS5ocmVmLHdt
+b2RlOjAsInd2LWhpdCI6QSwid3YtcGFydCI6YmMrKywid3YtY2hlY2siOmxhKHFh
+KSwiYnJvd3Nlci1pbmZvIjpbInoiLERiLCJpIixtYl0uam9pbigiOiIpfSxhPXFh
+LGI9YS5sZW5ndGgsYz1bXSxnPWItYiUzLGYsZT0wO2U8ZztlKz0zKWY9KGFbZV08
+PDE2KSsoYVtlKzFdPDw4KSthW2UrMl0sRihjLFdbZj4+MTgmNjNdLFdbZj4+MTIm
+NjNdLFdbZj4+NiY2M10sV1tmJjYzXSk7c3dpdGNoKGItZyl7Y2FzZSAxOmY9YVtn
+XTw8NDtGKGMsV1tmPj42JjYzXSxXW2YmNjNdLCJfXyIpO2JyZWFrO2Nhc2UgMjpm
+PShhW2ddPDwxMCkrKGFbZysxXTw8MiksRihjLFdbZj4+MTImNjNdLFdbZj4+NiY2
+M10sV1tmJjYzXSwiXyIpfWE9eyJ3di1kYXRhIjpjLmpvaW4oIiIpfTtvLnNlbmQo
+InZpc29yIiwid2Vidmlzb3IiLGQsYSk7cWEubGVuZ3RoPTB9fWZ1bmN0aW9uIEVi
+KGQpe2lmKCJ1bmRlZmluZWQiPT0KdHlwZW9mIGQpcmV0dXJuW2NjXTtpZihudWxs
+PT09ZClyZXR1cm5bZGNdO2lmKCJib29sZWFuIj09dHlwZW9mIGQpcmV0dXJuW2Q/
+ZWM6ZmNdO2lmKCJudW1iZXIiPT10eXBlb2YgZClyZXR1cm4gZ2MoZCk7aWYoInN0
+cmluZyI9PXR5cGVvZiBkKXJldHVybiBwKGQpO2lmKCJbb2JqZWN0IEFycmF5XSI9
+PXt9LnRvU3RyaW5nLmNhbGwoZCkpcmV0dXJuIHMoZCk7aWYoIltvYmplY3QgRGF0
+ZV0iPT17fS50b1N0cmluZy5jYWxsKGQpKXJldHVybltoY10uY29uY2F0KEsoZC5n
+ZXRGdWxsWWVhcigpKSkuY29uY2F0KEsoZC5nZXRNb250aCgpKSkuY29uY2F0KEso
+ZC5nZXREYXRlKCkpKS5jb25jYXQoSyhkLmdldEhvdXJzKCkpKS5jb25jYXQoSyhk
+LmdldE1pbnV0ZXMoKSkpLmNvbmNhdChLKGQuZ2V0U2Vjb25kcygpKSkuY29uY2F0
+KEsoZC5nZXRNaWxsaXNlY29uZHMoKSkpO2lmKCJbb2JqZWN0IFJlZ0V4cF0iPT17
+fS50b1N0cmluZy5jYWxsKGQpKXt2YXIgYTthPTB8KGQuZ2xvYmFsPzE6CjApO2F8
+PWQuaWdub3JlQ2FzZT8yOjA7YXw9ZC5tdWx0aWxpbmU/NDowO2F8PWQubGFzdElu
+ZGV4Pzg6MDt2YXIgYj1wKGQuc291cmNlKTtiLnNoaWZ0KCk7cmV0dXJuW2ljLGFd
+LmNvbmNhdChiKS5jb25jYXQoZC5sYXN0SW5kZXg/SyhkLmxhc3RJbmRleCk6W10p
+fWlmKGQmJmQub3duZXJEb2N1bWVudD09YylyZXR1cm4gTihkKSxbamNdLmNvbmNh
+dChLKGRbSl0pKTtpZigiW29iamVjdCBPYmplY3RdIj09ZC50b1N0cmluZygpKXth
+PVtdO2ZvcihiIGluIGQpYS5wdXNoKGIpLGEucHVzaChkW2JdKTtkPVtrY10uY29u
+Y2F0KEsoYS5sZW5ndGgvMikpO2ZvcihiPTA7YjxhLmxlbmd0aDtiKyspe3ZhciBn
+PUViKGFbYl0pO2lmKCFnKXJldHVybiBudWxsO2Q9ZC5jb25jYXQoZyl9cmV0dXJu
+IGR9cmV0dXJuIG51bGx9ZnVuY3Rpb24gZ2MoZCl7aWYoaXNOYU4oZCkpcmV0dXJu
+W2xjXTtpZihkPT1OdW1iZXIuTkVHQVRJVkVfSU5GSU5JVFkpcmV0dXJuW21jXTtp
+ZihkPT1OdW1iZXIuUE9TSVRJVkVfSU5GSU5JVFkpcmV0dXJuW25jXTsKaWYoMD09
+PWQpcmV0dXJuW29jXTt2YXIgYT0hMTswPmQmJihkKj0tMSxhPSEwKTt2YXIgYj0o
+IiIrZCkuc3BsaXQoImUiKSxkPSsoYlsxXXx8MCkrKC0xPT1iWzBdLmluZGV4T2Yo
+Ii4iKT9iWzBdLmxlbmd0aDpiWzBdLmluZGV4T2YoIi4iKSksYj0rYlswXS5yZXBs
+YWNlKCIuIiwiIik7cmV0dXJuW2E/cGM6cWNdLmNvbmNhdChLKGIpKS5jb25jYXQo
+SyhkKSl9ZnVuY3Rpb24gcChkKXtmb3IodmFyIGE9W3JjXS5jb25jYXQoSyhkLmxl
+bmd0aCkpLGI9MDtiPGQubGVuZ3RoO2IrKylhPWEuY29uY2F0KEsoZC5jaGFyQ29k
+ZUF0KGIpKSk7cmV0dXJuIGF9ZnVuY3Rpb24gcyhhKXtmb3IodmFyIGI9W3NjXS5j
+b25jYXQoSyhhLmxlbmd0aCkpLGM9MDtjPGEubGVuZ3RoO2MrKyl7dmFyIGc9RWIo
+YVtjXSk7aWYoIWcpcmV0dXJuIG51bGw7Yj1iLmNvbmNhdChnKX1yZXR1cm4gYn1m
+dW5jdGlvbiBLKGEpe2Zvcih2YXIgYj1bXTsxMjc8YTspYi5wdXNoKGEmMTI3fDEy
+OCksYT4+PTc7Yi5wdXNoKGEpOwpyZXR1cm4gYn12YXIgWmI9MTAwLGFjPTIwMCwk
+Yj0xNUUzLHo9MjAsSWI9NTAsdWE9MTAsWT0xLGJhPTIsbWE9MyxUYT00LFVhPTUs
+VmE9NyxXYT05LFhhPTEwLHJhPTExLHNhPTEyLCRhPTE0LGFiPTE1LHBiPTE3LHFi
+PTE4LHJiPTE5LHNiPTI2LFliPTI3LFdiPTI4LFhiPTI5LFJiPTMwLFFiPTMyLFNi
+PTEsVWI9MixUYj00LHhiPTEsTWI9MixOYj00LHZiPTgsT2I9MTYsd2I9MzIsS2I9
+NjQsUGI9Mix1Yj0xLHRiPTIsYmI9NCxGYj04LEphPTE2LExiPXtBOjEsQUJCUjoy
+LEFDUk9OWU06MyxBRERSRVNTOjQsQVBQTEVUOjUsQVJFQTo2LEI6NyxCQVNFOjgs
+QkFTRUZPTlQ6OSxCRE86MTAsQklHOjExLEJMT0NLUVVPVEU6MTIsQk9EWToxMyxC
+UjoxNCxCVVRUT046MTUsQ0FQVElPTjoxNixDRU5URVI6MTcsQ0lURToxOCxDT0RF
+OjE5LENPTDoyMCxDT0xHUk9VUDoyMSxERDoyMixERUw6MjMsREZOOjI0LERJUjoy
+NSxESVY6MjYsREw6MjcsRFQ6MjgsRU06MjksRklFTERTRVQ6MzAsRk9OVDozMSwK
+Rk9STTozMixGUkFNRTozMyxGUkFNRVNFVDozNCxIMTozNSxIMjozNixIMzozNyxI
+NDozOCxINTozOSxINjo0MCxIRUFEOjQxLEhSOjQyLEhUTUw6NDMsSTo0NCxJRlJB
+TUU6NDUsSU1HOjQ2LElOUFVUOjQ3LElOUzo0OCxJU0lOREVYOjQ5LEtCRDo1MCxM
+QUJFTDo1MSxMRUdFTkQ6NTIsTEk6NTMsTElOSzo1NCxNQVA6NTUsTUVOVTo1NixN
+RVRBOjU3LE5PRlJBTUVTOjU4LE5PU0NSSVBUOjU5LE9CSkVDVDo2MCxPTDo2MSxP
+UFRHUk9VUDo2MixPUFRJT046NjMsUDo2NCxQQVJBTTo2NSxQUkU6NjYsUTo2NyxT
+OjY4LFNBTVA6NjksU0NSSVBUOjcwLFNFTEVDVDo3MSxTTUFMTDo3MixTUEFOOjcz
+LFNUUklLRTo3NCxTVFJPTkc6NzUsU1RZTEU6NzYsU1VCOjc3LFNVUDo3OCxUQUJM
+RTo3OSxUQk9EWTo4MCxURDo4MSxURVhUQVJFQTo4MixURk9PVDo4MyxUSDo4NCxU
+SEVBRDo4NSxUSVRMRTo4NixUUjo4NyxUVDo4OCxVOjg5LFVMOjkwLFZBUjo5MSxO
+T0lOREVYOjEwMH0sUz1YKCksVD1bXSwKY2I9MDtqYSgwKTt2YXIgZGI9MCxQYT1b
+XSx5YixmYj0xLHpiPTAsaGI9WzAsMF0sQWI9MCxpYj1bMCwwXSxqYj0hMCxrYj0h
+MSxnYj0iIixsYj0hMSxGYT0hMCxXPSJBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZ
+WmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSotIi5zcGxpdCgi
+IikscWE9W10sUWEsYmM9MSxjYz0xLGRjPTIsbGM9MyxtYz00LG5jPTUsb2M9Nixl
+Yz03LGZjPTgscmM9OSxxYz0xMCxwYz0xMSxzYz0xMixoYz0xMyxpYz0xNCxqYz0x
+NSxrYz0xNixIYj1wYSgpLEo9Im1ldHJpa2FJZF8iK01hdGgucmFuZG9tKCksS2E9
+e30sbmI9IjpzdWJtaXQiK01hdGgucmFuZG9tKCk7aWYoIk1ldHJpa2FQbGF5ZXIi
+IT1lLm5hbWUmJih5KGMsIm1vdXNlbW92ZSIsRWEpLHkoYywiY2xpY2siLE8pLHko
+YywibW91c2Vkb3duIixPKSx5KGMsIm1vdXNldXAiLERhKSx5KGUsInNjcm9sbCIs
+UCkseShlLCJiZWZvcmV1bmxvYWQiLGcpLGUuQ29tcG9uZW50cz09a2EmJnkoZSwK
+InVubG9hZCIsZykseShlLCJyZXNpemUiLGEpLHkoYywia2V5ZG93biIsZikseShj
+LCJrZXlwcmVzcyIsbCkseShjLCJjb3B5IixoKSx5KGMsInRvdWNobW92ZSIsRSks
+eShjLCJ0b3VjaHN0YXJ0IixFKSxjLmF0dGFjaEV2ZW50JiYhZS5vcGVyYT8oeShj
+LCJmb2N1c2luIixCYikseShjLCJmb2N1c291dCIsQ2IpKTooeShlLCJmb2N1cyIs
+bSkseShlLCJibHVyIixHYSkseShjLCJibHVyIixHYSkpLGMuYWRkRXZlbnRMaXN0
+ZW5lcj8oYy5hZGRFdmVudExpc3RlbmVyKCJmb2N1cyIsdSwhMCksYy5hZGRFdmVu
+dExpc3RlbmVyKCJibHVyIixSYSwhMCksYy5hZGRFdmVudExpc3RlbmVyKCJjaGFu
+Z2UiLHYsITApLGMuYWRkRXZlbnRMaXN0ZW5lcigic3VibWl0IixIYSwhMCkpOmMu
+YXR0YWNoRXZlbnQmJih5KGMsImZvY3VzaW4iLHUpLHkoYywiZm9jdXNvdXQiLFJh
+KSxmdW5jdGlvbigpe2Zvcih2YXIgYT1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJm
+b3JtIiksYj0wO2I8YS5sZW5ndGg7YisrKXtmb3IodmFyIGc9CmFbYl0uZ2V0RWxl
+bWVudHNCeVRhZ05hbWUoIioiKSxmPTA7ZjxnLmxlbmd0aDtmKyspL15JTlBVVHxT
+RUxFQ1R8VEVYVEFSRUEkLy50ZXN0KGdbZl0udGFnTmFtZSkmJnkoZ1tmXSwiY2hh
+bmdlIix2KTt5KGFbYl0sInN1Ym1pdCIsSGEpfX0oKSksZnVuY3Rpb24oKXt2YXIg
+YT1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJmb3JtIik7aWYoYS5sZW5ndGgpZm9y
+KHZhciBiPTA7YjxhLmxlbmd0aDtiKyspYVtiXVtuYl09YVtiXS5zdWJtaXQsYVti
+XS5zdWJtaXQ9ZnVuY3Rpb24oKXtIYSh7dGFyZ2V0OnRoaXN9KTtyZXR1cm4gdGhp
+c1tuYl0oKX19KCksIjA6MCIhPVMuam9pbigiOiIpJiZQKCksWWEuTWV0cmlrYS5j
+YXB0dXJlRnVuY3Rpb25zPWZ1bmN0aW9uKCl7Zm9yKHZhciBhPTA7YTxhcmd1bWVu
+dHMubGVuZ3RoO2ErKyl7dmFyIGI9YXJndW1lbnRzW2FdOyJmdW5jdGlvbiI9PXR5
+cGVvZiBlW2JdJiYoZVtiXT1mdW5jdGlvbihhLGQpe3JldHVybiBmdW5jdGlvbigp
+e3ZhciBiO0QoZWIsCltHKCksYSxhcmd1bWVudHNdKTtyZXR1cm4gZC5hcHBseSh0
+aGlzLGFyZ3VtZW50cyl9fShiLGVbYl0pKX19LCJ1bmRlZmluZWQiIT10eXBlb2Yg
+ayYmay53ZWJ2aXNvcikpe3ZhciBRPWsud2Vidmlzb3I7aWYoUS5jYXB0dXJlRnVu
+Y3Rpb25zKXtpZigiW29iamVjdCBBcnJheV0iIT1PYmplY3QucHJvdG90eXBlLnRv
+U3RyaW5nLmNhbGwoUS5jYXB0dXJlRnVuY3Rpb25zKSlRLmNhcHR1cmVGdW5jdGlv
+bnM9W1EuY2FwdHVyZUZ1bmN0aW9uc107WWEuTWV0cmlrYS5jYXB0dXJlRnVuY3Rp
+b25zLmFwcGx5KHRoaXMsUS5jYXB0dXJlRnVuY3Rpb25zKX1pZihRLnVwbG9hZFBh
+Z2VzKXtpZigiW29iamVjdCBBcnJheV0iIT1PYmplY3QucHJvdG90eXBlLnRvU3Ry
+aW5nLmNhbGwoUS51cGxvYWRQYWdlcykpUS51cGxvYWRQYWdlcz1bUS51cGxvYWRQ
+YWdlc107Zm9yKHZhciBvYj0wO29iPFEudXBsb2FkUGFnZXMubGVuZ3RoO29iKysp
+e3ZhciBTYT1RLnVwbG9hZFBhZ2VzW29iXTtpZigic3RyaW5nIj09CnR5cGVvZiBT
+YSYmKFNhPVNhLnJlcGxhY2UoL1suKis/XF49IToke30oKXxcW1xdXC9cXF0vZyxm
+dW5jdGlvbihhKXtyZXR1cm4iKiI9PWE/Ii4qIjoiXFwiK2F9KSxSZWdFeHAoIl4i
+K1NhKyIkIikudGVzdChxKCkuaHJlZikpKXtZYS5NZXRyaWthLnVwbG9hZFBhZ2Uo
+KTticmVha319fX1yZXR1cm57c3RvcDpmdW5jdGlvbigpe3IoYywibW91c2Vtb3Zl
+IixFYSk7cihjLCJjbGljayIsTyk7cihjLCJtb3VzZWRvd24iLE8pO3IoYywibW91
+c2V1cCIsRGEpO3IoZSwic2Nyb2xsIixQKTtyKGUsImJlZm9yZXVubG9hZCIsZyk7
+cihlLCJ1bmxvYWQiLGcpO3IoZSwicmVzaXplIixhKTtyKGMsImtleWRvd24iLGYp
+O3IoYywia2V5cHJlc3MiLGwpO3IoYywiY29weSIsaCk7cihjLCJ0b3VjaG1vdmUi
+LEUpO3IoYywidG91Y2hzdGFydCIsRSk7cihjLCJmb2N1c2luIixCYik7cihjLCJm
+b2N1c291dCIsQ2IpO3IoZSwiZm9jdXMiLG0pO3IoZSwiYmx1ciIsR2EpO3IoYywi
+Ymx1ciIsR2EpO2MucmVtb3ZlRXZlbnRMaXN0ZW5lcj8KKGMucmVtb3ZlRXZlbnRM
+aXN0ZW5lcigiZm9jdXMiLHUsITApLGMucmVtb3ZlRXZlbnRMaXN0ZW5lcigiYmx1
+ciIsUmEsITApLGMucmVtb3ZlRXZlbnRMaXN0ZW5lcigiY2hhbmdlIix2LCEwKSxj
+LnJlbW92ZUV2ZW50TGlzdGVuZXIoInN1Ym1pdCIsSGEsITApKTpjLmRldGFjaEV2
+ZW50JiYocihjLCJmb2N1c2luIix1KSxyKGMsImZvY3Vzb3V0IixSYSksZnVuY3Rp
+b24oKXtmb3IodmFyIGE9Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgiZm9ybSIpLGI9
+MDtiPGEubGVuZ3RoO2IrKyl7Zm9yKHZhciBnPWFbYl0uZ2V0RWxlbWVudHNCeVRh
+Z05hbWUoIioiKSxmPTA7ZjxnLmxlbmd0aDtmKyspL15JTlBVVHxTRUxFQ1R8VEVY
+VEFSRUEkLy50ZXN0KGdbZl0udGFnTmFtZSkmJnIoZ1tmXSwiY2hhbmdlIix2KTty
+KGFbYl0sInN1Ym1pdCIsSGEpfX0oKSk7KGZ1bmN0aW9uKCl7Zm9yKHZhciBhPWMu
+Z2V0RWxlbWVudHNCeVRhZ05hbWUoImZvcm0iKSxiPTA7YjxhLmxlbmd0aDtiKysp
+YVtiXS5zdWJtaXQ9CmFbYl1bbmJdfSkoKX19fXZhciBwYj0hMTtlLllhPWUuWWF8
+fHt9O1lhLl9tZXRyaWthPVlhLl9tZXRyaWthfHx7fTtZYS5fbWV0cmlrYS5oaXRQ
+YXJhbT1ZYS5fbWV0cmlrYS5oaXRQYXJhbXx8e307dmFyIHFiPSExLFI9cSgpLERi
+LG1iLFg9ZS5uYXZpZ2F0b3IsWj1lLnNjcmVlbix2YT0iaHR0cHM6Ij09Ui5wcm90
+b2NvbD8iaHR0cHM6IjoiaHR0cDoiLHJiPSIkUmV2OiAxODI1ICQiLm1hdGNoKC8o
+XGQrKS8pWzFdLCQ9Im9iamVjdCI9PXR5cGVvZiBjLmFsbCxUYT02NCxhYT0kPzUx
+MjoyMDQ4LFVhPSQ/NTEyOjIwNDgsVmE9JD8xMDA6NDAwLGlhPSJub2luZGV4Iixq
+YT01MCxXYT1SZWdFeHAoIlxcLig3enxhYWN8YWl8YXZpfGFwa3xibXB8Y2FifGNz
+dnxjZHJ8ZG1nfGRqdnU/fGRvYyh4fG18Yik/fGVwc3xleGV8Zmx2fGdpZnxnenxq
+cGU/Z3xqc3xtNGF8bXAoM3w0fGU/Zyl8bW92fG1zaXxvZHN8cGRmfHBocHN8cG5n
+fHBwdCh4fG18Yik/fHBzZHxyYXJ8cnNzfHJ0ZnxzZWF8c2l0fHRhcnx0aWY/Znx0
+b3JyZW50fHR4dHx3YXZ8d21hfHdtdnx4bHMoeHxtfGIpP3x4cGl8emlwKSQiLAoi
+aSIpLHNiPStuZXcgRGF0ZSxYYT0iX3ltX3Zpc29yYyI7ZS5ZYS5NZXRyaWthPWZ1
+bmN0aW9uKEMsSSxrLEEpe2Z1bmN0aW9uIG8oYSxjLGIpe1ZbVi5sZW5ndGhdPVti
+LGJdO2EuYWRkRXZlbnRMaXN0ZW5lcj9hLmFkZEV2ZW50TGlzdGVuZXIoYyxiLCEx
+KTphLmF0dGFjaEV2ZW50JiZhLmF0dGFjaEV2ZW50KCJvbiIrYyxiKX1mdW5jdGlv
+biB0KGEsYyxiKXtmb3IodmFyIGY9MDtmPFYubGVuZ3RoO2YrKylpZihWW2ZdJiZW
+W2ZdWzBdPT1iKXt2YXIgZT1WW2ZdWzFdO2RlbGV0ZSBWW2ZdO2JyZWFrfWUmJihh
+LnJlbW92ZUV2ZW50TGlzdGVuZXI/YS5yZW1vdmVFdmVudExpc3RlbmVyKGMsZSwh
+MSk6YS5kZXRhY2hFdmVudCYmYS5kZXRhY2hFdmVudCgib24iK2MsZSkpfWZ1bmN0
+aW9uIEIoYSxjKXtjPWN8fDI1NjtpZighYSlyZXR1cm4iIjthLmxlbmd0aD5jJiYo
+YT1hLnN1YnN0cigwLGMpKTtyZXR1cm4oZS5lbmNvZGVVUklDb21wb25lbnR8fGUu
+ZXNjYXBlKShhKS5yZXBsYWNlKC9cKy9nLAoiJTJCIil9ZnVuY3Rpb24gTChhKXtm
+dW5jdGlvbiBjKGEpe3JldHVybiBhP2EucmVwbGFjZSgvXFwvZywiXFxcXCIpLnJl
+cGxhY2UoLyIvZywnXFwiJyk6IiJ9aWYoYT09PWthKXJldHVybiIiO2lmKG51bGw9
+PT1hKXJldHVybiJudWxsIjtzd2l0Y2goYS5jb25zdHJ1Y3Rvcil7Y2FzZSBCb29s
+ZWFuOnJldHVybiBhLnRvU3RyaW5nKCk7Y2FzZSBOdW1iZXI6cmV0dXJuIGlzRmlu
+aXRlKGEpP2EudG9TdHJpbmcoKToibnVsbCI7Y2FzZSBTdHJpbmc6cmV0dXJuJyIn
+K2MoYSkrJyInO2Nhc2UgQXJyYXk6Zm9yKHZhciBiPVtdLGY9MCxlPWEubGVuZ3Ro
+O2Y8ZTtmKyspYltiLmxlbmd0aF09TChhW2ZdKTtyZXR1cm4iWyIrYi5qb2luKCIs
+IikrIl0iO2Nhc2UgT2JqZWN0OmI9InsiO2Y9MDtmb3IoZSBpbiBhKWlmKGEuaGFz
+T3duUHJvcGVydHkoZSkpe3ZhciBoPWFbZV07aCE9PWthJiYoYis9KGY/IiwiOiIi
+KSsnIicrYyhlKSsnIjonK0woaCksZisrKX1yZXR1cm4gYisifSI7ZGVmYXVsdDpy
+ZXR1cm4ibnVsbCJ9fQpmdW5jdGlvbiBZKGEpe2Zvcih2YXIgYz0rbmV3IERhdGUs
+Yj0xOzA8YjtiKyspaWYoMD09YiUxRTMpe3ZhciBmPStuZXcgRGF0ZTtpZihjPmYp
+YnJlYWs7aWYoZi1jPmEpYnJlYWt9fWZ1bmN0aW9uIGJhKGEsYyl7aWYoIWF8fCFj
+KXJldHVybiExO2Zvcih2YXIgYj1bXSxmPTA7ZjxjLmxlbmd0aDtmKyspYi5wdXNo
+KGNbZl0ucmVwbGFjZSgvXF4vZywiXFxeIikucmVwbGFjZSgvXCQvZywiXFwkIiku
+cmVwbGFjZSgvXC4vZywiXFwuIikucmVwbGFjZSgvXFsvZywiXFxbIikucmVwbGFj
+ZSgvXF0vZywiXFxdIikucmVwbGFjZSgvXHwvZywiXFx8IikucmVwbGFjZSgvXCgv
+ZywiXFwoIikucmVwbGFjZSgvXCkvZywiXFwpIikucmVwbGFjZSgvXD8vZywiXFw/
+IikucmVwbGFjZSgvXCovZywiXFwqIikucmVwbGFjZSgvXCsvZywiXFwrIikucmVw
+bGFjZSgvXHsvZywiXFx7IikucmVwbGFjZSgvXH0vZywiXFx9IikpO3JldHVybiBS
+ZWdFeHAoIlxcLigiK2Iuam9pbigifCIpKyIpJCIsImkiKS50ZXN0KGEpfQpmdW5j
+dGlvbiBtYShhKXthPWEudGFyZ2V0fHxhLnNyY0VsZW1lbnQ7aWYoIWEpcmV0dXJu
+ITE7aWYoMz09YS5ub2RlVHlwZSlhPWEucGFyZW50Tm9kZTtmb3IodmFyIGM9YS5u
+b2RlTmFtZS50b1N0cmluZygpLnRvTG93ZXJDYXNlKCk7YS5wYXJlbnROb2RlJiZh
+LnBhcmVudE5vZGUubm9kZU5hbWUmJigiYSIhPWMmJiJhcmVhIiE9Y3x8IWEuaHJl
+Zik7KWE9YS5wYXJlbnROb2RlLGM9YS5ub2RlTmFtZS50b1N0cmluZygpLnRvTG93
+ZXJDYXNlKCk7cmV0dXJuIWEuaHJlZj8hMTphfWZ1bmN0aW9uIGNhKGEsYyl7cmV0
+dXJuKGE/YS5yZXBsYWNlKC9ed3d3XC4vLCIiKToiIik9PShjP2MucmVwbGFjZSgv
+Xnd3d1wuLywiIik6IiIpPyEwOiExfWZ1bmN0aW9uIHJhKGEsYyl7ZnVuY3Rpb24g
+YihhKXthPWEuc3BsaXQoIjoiKTthPWFbMV18fCIiO2E9YS5yZXBsYWNlKC9eXC8q
+LywiIikucmVwbGFjZSgvXnd3d1wuLywiIik7cmV0dXJuIGEuc3BsaXQoIi8iKVsw
+XX1yZXR1cm4hYXx8IWM/IWEmJgohYz8hMDohMTpiKGEpPT1iKGMpPyEwOiExfWZ1
+bmN0aW9uIG5hKGEsYyl7dmFyIGI9Yy50YXJnZXQsZj0hMTtpZighYy5ob3N0bmFt
+ZSlyZXR1cm4hMTtpZighYnx8Il9zZWxmIj09Ynx8Il90b3AiPT1ifHwiX3BhcmVu
+dCI9PWIpZj0hMDsoYj1hLnNoaWZ0S2V5fHxhLmN0cmxLZXl8fGEuYWx0S2V5KXx8
+YS5tb2RpZmllcnMmJmUuRXZlbnQmJihiPWEubW9kaWZpZXJzJmUuRXZlbnQuQ09O
+VFJPTF9NQVNLfHxhLm1vZGlmaWVycyZlLkV2ZW50LlNISUZUX01BU0t8fGEubW9k
+aWZpZXJzJmUuRXZlbnQuQUxUX01BU0spO3JldHVybiBmJiYhYn1mdW5jdGlvbiBN
+KGEsYyxiLGYsbCl7ZnVuY3Rpb24gaChhLGIpe21bbS5sZW5ndGhdPWE7bVttLmxl
+bmd0aF09Yn12YXIgbD1sfHx7fSxiPSJ1bmRlZmluZWQiIT10eXBlb2YgYj9iOmdh
+LG09W107bC5hciYmIWwub25seURhdGEmJihiPWRhKGIpLGE9ZGEoYSkpO2goInBh
+Z2UtcmVmIixCKGIsYWEpKTtoKCJwYWdlLXVybCIsQihhLGFhKSk7aCgiYnJvd3Nl
+ci1pbmZvIiwKcihjLGwpKTstMSE9cSgpLmhvc3RuYW1lLnNlYXJjaCgvKD86Xnxc
+LikoPzp5YXx5YW5kZXh8bmFyb2R8bmFyb2QyKVwuKD86XHcrfGNvbVwuXHcrKSQv
+KT9oKCJ1dCIsaWEpOiJ1bmRlZmluZWQiIT10eXBlb2YgbC51dCYmaCgidXQiLEIo
+IiIrbC51dCxUYSkpO2YmJmgoInNpdGUtaW5mbyIsQihMKGYpLFVhKSk7bC5zYXZl
+UmVmJiYoZ2E9Yik7YT1vYShPYSxtKTtpZigiTWV0cmlrYVBsYXllciIhPWUubmFt
+ZSkobmV3IEltYWdlKS5zcmM9YSx5KGEpLGwuaXNEZWxheSYmWShsLmRlbGF5KTty
+ZXR1cm4gYX1mdW5jdGlvbiBzYShhLGcsYixmLGwsaCxtKXtmdW5jdGlvbiBpKGEs
+Yil7a1trLmxlbmd0aF09YTtrW2subGVuZ3RoXT1ifXZhciBsPWx8fHt9LGI9InVu
+ZGVmaW5lZCIhPXR5cGVvZiBiP2I6Z2Esaz1bXTtsLmFyJiYhbC5vbmx5RGF0YSYm
+KGI9ZGEoYiksYT1kYShhKSk7aWYoIk1ldHJpa2FQbGF5ZXIiIT1lLm5hbWUpe3Zh
+ciBuPSJfeW1qc3AiK01hdGguZmxvb3IoMUU2Kk1hdGgucmFuZG9tKCkpLAp1PWMu
+Y3JlYXRlRWxlbWVudCgic2NyaXB0Iik7ZVtuXT1mdW5jdGlvbihhKXt0cnl7ZGVs
+ZXRlIGVbbl19Y2F0Y2goYil7ZVtuXT1rYX1tKGEpO3UucGFyZW50Tm9kZSYmdS5w
+YXJlbnROb2RlLnJlbW92ZUNoaWxkKHUpfTtpKCJ3bW9kZSIsNSk7aSgiY2FsbGJh
+Y2siLG4pO2koInBhZ2UtcmVmIixCKGIsYWEpKTtpKCJwYWdlLXVybCIsQihhLGFh
+KSk7YT1yKGcsbCk7aCYmKGE9WyJ2YyIsaCxhXS5qb2luKCI6IikpO2koImJyb3dz
+ZXItaW5mbyIsYSk7LTEhPXEoKS5ob3N0bmFtZS5zZWFyY2goLyg/Ol58XC4pKD86
+eWF8eWFuZGV4fG5hcm9kfG5hcm9kMilcLig/Olx3K3xjb21cLlx3KykkLyk/aSgi
+dXQiLGlhKToidW5kZWZpbmVkIiE9dHlwZW9mIGwudXQmJmkoInV0IixCKCIiK2wu
+dXQsVGEpKTtmJiZpKCJzaXRlLWluZm8iLEIoTChmKSxVYSkpO2wuc2F2ZVJlZiYm
+KGdhPWIpO2Y9b2EoT2Esayk7dS50eXBlPSJ0ZXh0L2phdmFzY3JpcHQiO3Uuc3Jj
+PWY7bD1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJoZWFkIilbMF07CmwuaW5zZXJ0
+QmVmb3JlKHUsbC5maXJzdENoaWxkKTt5KGYpfX1mdW5jdGlvbiBvYShhLGMpe2Zv
+cih2YXIgYj1bInJuIixNYXRoLmZsb29yKDFFNipNYXRoLnJhbmRvbSgpKSwiY250
+LWNsYXNzIixrXS5jb25jYXQoYyksZj1bXSxlPTA7ZTxiLmxlbmd0aDtlKz0yKXt2
+YXIgaD1iW2UrMV07aCYmKGZbZi5sZW5ndGhdPWJbZV0rIj0iK2gpfXJldHVybiB2
+YSthK0MrIj8iK2Yuam9pbigiJiIpfWZ1bmN0aW9uIGRhKGEpe3ZhciBjPXEoKSxi
+PWMuaG9zdCxjPWMuaHJlZjtpZighYSlyZXR1cm4gYztpZigtMSE9YS5zZWFyY2go
+L15cdys6XC9cLy8pKXJldHVybiBhO3ZhciBmPWEuY2hhckF0KDApO2lmKCI/Ij09
+ZilyZXR1cm4gZj1jLnNlYXJjaCgvXD8vKSwtMT09Zj9jK2E6Yy5zdWJzdHIoMCxm
+KSthO2lmKCIjIj09ZilyZXR1cm4gZj1jLnNlYXJjaCgvIy8pLC0xPT1mP2MrYTpj
+LnN1YnN0cigwLGYpK2E7aWYoIi8iPT1mKXtpZihmPWMuc2VhcmNoKGIpLC0xIT1m
+KXJldHVybiBjLnN1YnN0cigwLApmK2IubGVuZ3RoKSthfWVsc2UgcmV0dXJuIGI9
+Yy5zcGxpdCgiLyIpLGJbYi5sZW5ndGgtMV09YSxiLmpvaW4oIi8iKTtyZXR1cm4g
+YX1mdW5jdGlvbiB5KGEpeyJmdW5jdGlvbiI9PXR5cGVvZiBlLnltTG9nJiZlLnlt
+TG9nKGEpfWZ1bmN0aW9uIHIoYSxnKXtmdW5jdGlvbiBiKGEsYil7YSYmYiYmKGxb
+bC5sZW5ndGhdPVthLGJdLmpvaW4oIjoiKSl9ZnVuY3Rpb24gZihhKXtiKGEsZ1th
+XT8iMSI6IiIpfXZhciBnPWd8fHt9LGw9W10saD0tMSoobmV3IERhdGUpLmdldFRp
+bWV6b25lT2Zmc2V0KCksbT1wYSgpO21ifHwobWI9bSxEYj1oKTtiKCJqIixYLmph
+dmFFbmFibGVkKCk/IjEiOiIiKTtaJiZiKCJzIixaLndpZHRoKyJ4IitaLmhlaWdo
+dCsieCIrKFouY29sb3JEZXB0aHx8Wi5waXhlbERlcHRoKSk7bnVsbD09PUJhJiYo
+QmE9VSgpKTtiKCJmIixCYSk7YigidyIsRygpKyJ4IitmYSgpKTtiKCJ6IixoKTti
+KCJpIixtKTtudWxsPT09Q2EmJihDYT1HYigpKTtiKCJsIixDYXx8IiIpOwpiKCJl
+biIsSWEoKXx8IiIpO2IoInYiLHJiKTtiKCJjIixYLmNvb2tpZUVuYWJsZWQ/IjEi
+OiIiKTskJiZjLmRvY3VtZW50TW9kZSYmKG51bGw9PT1oYSYmKGhhPUZ1bmN0aW9u
+KCJyZXR1cm4gLypAY2Nfb24gQF9qc2NyaXB0X3ZlcnNpb24gQCovOyIpKCkpLGhh
+JiZiKCJqdiIsaGEpKTtiKCJsYSIsKFgmJihYLmxhbmd1YWdlfHxYLmJyb3dzZXJM
+YW5ndWFnZSl8fCIiKS50b0xvd2VyQ2FzZSgpKTtiKCJleCIsInByZXJlbmRlciI9
+PWMud2Via2l0VmlzaWJpbGl0eVN0YXRlPyJwcmUxIjoiIik7UCYmYigid2giLCIx
+Iik7bT0iYXIsbG4sZGwsYWQsbmIscGEiLnNwbGl0KCIsIik7Zm9yKGg9MDtoPG0u
+bGVuZ3RoO2grKylmKG1baF0pO209WyJ2YSIsInZ0Iiwic24iLCJzYSIsImhlIl07
+Zm9yKGg9MDtoPG0ubGVuZ3RoO2grKyl7dmFyIGk9bVtoXTtiKGksZ1tpXSl9aWYo
+bi5fd2Vidmlzb3Ipe2IoImhpZCIsemEpO2lmKCFlLm5hbWUpZS5uYW1lPU1hdGgu
+cm91bmQoNjU1MzUqTWF0aC5yYW5kb20oKSk7CmlmKGg9K2UubmFtZSkwPmgmJiho
+Kj0tMSksaCU9NjU1MzU7Yigid24iLGh8fGxhKGUubmFtZSkpO3RyeXtlLm9wZW5l
+ciYmZS5vcGVuZXIubmFtZSYmYigib24iLGxhKGUub3BlbmVyLm5hbWUpKX1jYXRj
+aChrKXt9dHJ5e2UuaGlzdG9yeSYmYigiaGwiLCIiK2UuaGlzdG9yeS5sZW5ndGgp
+fWNhdGNoKHEpe319aD0idW5kZWZpbmVkIj09dHlwZW9mIGE/KGg9ZWEoKSk/Qiho
+LFZhKToiIjpCKGEsVmEpO2IoInQiLGgpO3JldHVybiBsLmpvaW4oIjoiKX1mdW5j
+dGlvbiBJYSgpe3ZhciBhPSIiLGc9Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgibWV0
+YSIpO2lmKGcmJjA8Zy5sZW5ndGgpZm9yKHZhciBiPTAsZj1nLmxlbmd0aDtiPGY7
+YisrKXtpZihnW2JdLmNvbnRlbnQpe3ZhciBlPWdbYl0uY29udGVudC5tYXRjaCgv
+Y2hhcnNldD0oLiopLyk7aWYoZSl7YT1lWzFdO2JyZWFrfX19ZWxzZSBhPWMuY2hh
+cmFjdGVyU2V0fHxjLmNoYXJzZXQ7cmV0dXJuIGF9ZnVuY3Rpb24gVSgpe3ZhciBh
+PQpudWxsLGM9bnVsbCxiLGY9ZS5uYXZpZ2F0b3I7aWYoInVuZGVmaW5lZCIhPXR5
+cGVvZiBmLnBsdWdpbnMmJiJvYmplY3QiPT10eXBlb2YgZi5wbHVnaW5zWyJTaG9j
+a3dhdmUgRmxhc2giXSkoYT1mLnBsdWdpbnNbIlNob2Nrd2F2ZSBGbGFzaCJdLmRl
+c2NyaXB0aW9uKSYmISgidW5kZWZpbmVkIiE9dHlwZW9mIGYubWltZVR5cGVzJiZm
+Lm1pbWVUeXBlc1siYXBwbGljYXRpb24veC1zaG9ja3dhdmUtZmxhc2giXSYmIWYu
+bWltZVR5cGVzWyJhcHBsaWNhdGlvbi94LXNob2Nrd2F2ZS1mbGFzaCJdLmVuYWJs
+ZWRQbHVnaW4pJiYoYz1hLnJlcGxhY2UoLyhbYS16QS1aXXxccykrLywiIikucmVw
+bGFjZSgvKFxzK3J8XHMrYlswLTldKykvLCIuIikpO2Vsc2UgaWYoInVuZGVmaW5l
+ZCIhPXR5cGVvZiBlLkFjdGl2ZVhPYmplY3QpdHJ5e2lmKGI9bmV3IEFjdGl2ZVhP
+YmplY3QoIlNob2Nrd2F2ZUZsYXNoLlNob2Nrd2F2ZUZsYXNoIikpKGE9Yi5HZXRW
+YXJpYWJsZSgiJHZlcnNpb24iKSkmJihjPQphLnNwbGl0KCIgIilbMV0ucmVwbGFj
+ZSgvLC9nLCIuIikucmVwbGFjZSgvW14uXGRdL2csIiIpKX1jYXRjaChsKXt9cmV0
+dXJuIGN9ZnVuY3Rpb24gZWEoKXt2YXIgYT1jLnRpdGxlOyJzdHJpbmciIT10eXBl
+b2YgYSYmKGE9KGE9Yy5nZXRFbGVtZW50c0J5VGFnTmFtZSgidGl0bGUiKSkmJmEu
+bGVuZ3RoP2FbMF0uaW5uZXJIVE1MOiIiKTtyZXR1cm4gYX1mdW5jdGlvbiBHYigp
+e3ZhciBhPW51bGw7aWYoZS5BY3RpdmVYT2JqZWN0KXRyeXt2YXIgYz1uZXcgQWN0
+aXZlWE9iamVjdCgiQWdDb250cm9sLkFnQ29udHJvbCIpLGI9ZnVuY3Rpb24oYSxi
+LGMsZil7Zm9yKDthLmlzVmVyc2lvblN1cHBvcnRlZChiWzBdKyIuIitiWzFdKyIu
+IitiWzJdKyIuIitiWzNdKTspYltjXSs9ZjtiW2NdLT1mfSxmPVsxLDAsMCwwXTti
+KGMsZiwwLDEpO2IoYyxmLDEsMSk7YihjLGYsMiwxRTQpO2IoYyxmLDIsMUUzKTti
+KGMsZiwyLDEwMCk7YihjLGYsMiwxMCk7YihjLGYsMiwxKTtiKGMsZiwzLDEpO2E9
+CmYuam9pbigiLiIpfWNhdGNoKGwpe31lbHNlIGlmKGM9WC5wbHVnaW5zWyJTaWx2
+ZXJsaWdodCBQbHVnLUluIl0pYT1jLmRlc2NyaXB0aW9uO3JldHVybiBhfWZ1bmN0
+aW9uIHBhKCl7Zm9yKHZhciBhPW5ldyBEYXRlLGE9W2EuZ2V0RnVsbFllYXIoKSxh
+LmdldE1vbnRoKCkrMSxhLmdldERhdGUoKSxhLmdldEhvdXJzKCksYS5nZXRNaW51
+dGVzKCksYS5nZXRTZWNvbmRzKCldLGM9IiIsYj0wO2I8YS5sZW5ndGg7YisrKWMr
+PTEwPmFbYl0/IjAiK2FbYl06YVtiXTtyZXR1cm4gY31mdW5jdGlvbiBHKCl7dmFy
+IGE9LTE7aWYoYy5kb2N1bWVudEVsZW1lbnQmJiJDU1MxQ29tcGF0Ij09Yy5jb21w
+YXRNb2RlKWE9Yy5kb2N1bWVudEVsZW1lbnQuY2xpZW50V2lkdGg7ZWxzZSBpZihj
+LmJvZHkpYT1jLmJvZHkuY2xpZW50V2lkdGg7cmV0dXJuIGF9ZnVuY3Rpb24gZmEo
+KXt2YXIgYT0tMTtpZihjLmRvY3VtZW50RWxlbWVudCYmIkNTUzFDb21wYXQiPT1j
+LmNvbXBhdE1vZGUpYT1jLmRvY3VtZW50RWxlbWVudC5jbGllbnRIZWlnaHQ7CmVs
+c2UgaWYoYy5ib2R5KWE9Yy5ib2R5LmNsaWVudEhlaWdodDtyZXR1cm4gYX1mdW5j
+dGlvbiB4KCl7WWEuX21ldHJpa2EuY291bnRlcnM9WWEuX21ldHJpa2EuY291bnRl
+cnN8fHt9O3ZhciBhPSExLGc9QysiOiIraztpZihZYS5fbWV0cmlrYS5oaXRQYXJh
+bVtnXSlpZigxPT1rJiYhWWEuX21ldHJpa2EuY291bnRlcnNbZ10pYT0hMDtlbHNl
+IHJldHVybiExO1lhLl9tZXRyaWthLmNvdW50ZXJzW2ddPW47WWEuX21ldHJpa2Eu
+aGl0UGFyYW1bZ109MTt2YXIgYjtuLl93ZWJ2aXNvcj0hQSYmKEgmJkgud2Vidmlz
+b3J8fHBifHxxYik7aWYoIUEmJiFhKXt2YXIgZj11YShYYSk7ImIiIT1mJiYidyIh
+PWYmJihmPSIiKTskYSgpfHwoZj0iYiIpO3NhKFIuaHJlZixlYSgpLGMucmVmZXJy
+ZXIsSSx7dXQ6QWEsaGU6SD9+fkguaHR0cEVycm9yOjAsYWQ6MT09ayYmZS5ZYSYm
+ZS5ZYS5EaXJlY3Q/ITA6ITEsc2F2ZVJlZjohMH0sZixmdW5jdGlvbihhKXt2YXIg
+YT1hfHx7fSxjPWEud2Vidmlzb3J8fAp7fSxhPVtdO2lmKGIpe2M9K2MucmVjcDtp
+ZighaXNGaW5pdGUoYyl8fDA+Y3x8MTxjKWY9InciO2Z8fChmPXphJTFFNC8xRTQ8
+Yz8idyI6ImIiKTt0YShYYSxmLDMwKTsidyI9PWY/RihhLCJ2aXNvciIpOmIuc3Rv
+cCgpfUQuaW5pdChhKX0pfXdhKCk7SCYmKEguZW5hYmxlQWxsP24uZW5hYmxlQWxs
+KCk6KEguY2xpY2ttYXAmJm4uY2xpY2ttYXAoSC5jbGlja21hcCksSC50cmFja0xp
+bmtzJiZuLnRyYWNrTGlua3MoSC50cmFja0xpbmtzKSxILmFjY3VyYXRlVHJhY2tC
+b3VuY2UmJm4uYWNjdXJhdGVUcmFja0JvdW5jZShILmFjY3VyYXRlVHJhY2tCb3Vu
+Y2UpKSxILnRyYWNrSGFzaCYmbi50cmFja0hhc2goITApKTtuLl93ZWJ2aXNvciYm
+KGI9bmV3IGFiKEMsayxILHphLEQpKX1mdW5jdGlvbiBpKGEpe3ZhciBjPXtkZWxh
+eTpqYX07c3dpdGNoKHR5cGVvZiBhKXtjYXNlICJzdHJpbmciOmMub249ITA7YnJl
+YWs7Y2FzZSAib2JqZWN0IjpjLm9uPSEwO2MuZGVsYXk9Im51bWJlciIhPXR5cGVv
+ZiBhLmRlbGF5PwpqYTphLmRlbGF5O2JyZWFrO2Nhc2UgImJvb2xlYW4iOmMub249
+YTticmVhaztkZWZhdWx0OnJldHVybn1OPWN9ZnVuY3Rpb24gd2EoKXtpKCExKTtv
+KGMsImNsaWNrIixmdW5jdGlvbihhKXtOLm9uJiZ4YShhKX0pfWZ1bmN0aW9uIHhh
+KGEpe2Z1bmN0aW9uIGMoYSl7dmFyIGY7Zj0oZj1iLmlubmVySFRNTD9iLmlubmVy
+SFRNTC50b1N0cmluZygpLnJlcGxhY2UoLzxcLz9bXj5dKz4vZ2ksIiIpOiIiKT9m
+LnRvU3RyaW5nKCkucmVwbGFjZSgvXlxzKy8sIiIpLnJlcGxhY2UoL1xzKyQvLCIi
+KToiIjtNKGUsZT09Zj8iIjpmLHEoKS5ocmVmLG51bGwsYSl9dmFyIGI9bWEoYSk7
+aWYoYil7dmFyIGY9ITEsZT0iIitiLmhyZWYsaD1lP2Uuc3BsaXQoL1w/LylbMF06
+IiI7aWYoV2EudGVzdChoKXx8V2EudGVzdChlKXx8YmEoZSxPKXx8YmEoaCxPKSlm
+PSEwO3ZhciBtPWIuY2xhc3NOYW1lLGg9bSYmLTEhPW0uc2VhcmNoKC95bS1kaXNh
+YmxlLXRyYWNrbGluay8pPyEwOiExLG09bSYmLTEhPW0uc2VhcmNoKC95bS1leHRl
+cm5hbC1saW5rLyk/CiEwOiExO2lmKCFoKWlmKGE9e2xuOiEwLGRsOmYsaXNEZWxh
+eTpuYShhLGIpLGRlbGF5Ok4uZGVsYXl9LG0pYyhhKTtlbHNlIGlmKGNhKHEoKS5o
+b3N0bmFtZSxiLmhvc3RuYW1lKSl7aWYoZilhLmxuPSExLGMoYSl9ZWxzZSBpZigh
+KGUmJi0xIT1lLnNlYXJjaCgvXiAqamF2YXNjcmlwdDovaSkpKWEudXQ9aWEsYyhh
+KX19ZnVuY3Rpb24gSmIoYSxnKXtmdW5jdGlvbiBiKCl7aWYoIXEpe3UmJmNsZWFy
+VGltZW91dCh1KTt2YXIgYj1nLShpP2s6aysgK25ldyBEYXRlLW4pOzA+YiYmKGI9
+MCk7dT1zZXRUaW1lb3V0KGZ1bmN0aW9uKCl7cT0hMDtsKCExKTthKCl9LGIpfX1m
+dW5jdGlvbiBmKCl7bXx8KGg9ITAsaT0hMSxtPSEwLGIoKSl9ZnVuY3Rpb24gbChh
+KXtmb3IodmFyIGI9MDtiPHYubGVuZ3RoO2IrPTMpYT9vKHZbYl0sdltiKzFdLHZb
+YisyXSk6dCh2W2JdLHZbYisxXSx2W2IrMl0pfXZhciBoPSExLG09ITEsaT0hMCxr
+PTAsbj0rbmV3IERhdGUsdT1udWxsLHE9ITEsdj1bZSwiYmx1ciIsCmZ1bmN0aW9u
+KCl7aT1oPW09ITA7ays9K25ldyBEYXRlLW47bj0rbmV3IERhdGU7YigpfSxlLCJm
+b2N1cyIsZnVuY3Rpb24oKXshaCYmIW0mJihrPTApO249K25ldyBEYXRlO2g9bT0h
+MDtpPSExO2IoKX0sYywiY2xpY2siLGYsYywibW91c2Vtb3ZlIixmLGMsImtleWRv
+d24iLGYsYywic2Nyb2xsIixmXTtsKCEwKTtiKCl9ZnVuY3Rpb24gTGEoYSl7ZnVu
+Y3Rpb24gYygpe3ZhciBhPXEoKS5oYXNoLnNwbGl0KCIjIilbMV07aWYoInVuZGVm
+aW5lZCI9PXR5cGVvZiBhKXJldHVybiExO3ZhciBiPWEuaW5kZXhPZigiPyIpOzA8
+YiYmKGE9YS5zdWJzdHJpbmcoMCxiKSk7cmV0dXJuIGF9dmFyIGI9YygpOyhmdW5j
+dGlvbiBsKCl7dmFyIGU9YygpO2UhPT1iJiYoYSgpLGI9ZSk7RWE9c2V0VGltZW91
+dChsLDIwMCl9KSgpfWZ1bmN0aW9uIHlhKCl7TmE9Z2E9TWE7TShxKCkuaHJlZixl
+YSgpLE5hLG51bGwse3V0OkFhLGFkOjE9PWsmJmUuWWEmJmUuWWEuRGlyZWN0PyEw
+OiExLHdoOiEwLHNhdmVSZWY6ITB9KTsKTWE9cSgpLmhyZWZ9ZnVuY3Rpb24gVmIo
+YSl7ZnVuY3Rpb24gZygpe3ZhciBhPWMuZG9jdW1lbnRFbGVtZW50O3JldHVybiBN
+YXRoLm1heChhLnNjcm9sbFdpZHRoLGMuYm9keS5zY3JvbGxXaWR0aCxhLmNsaWVu
+dFdpZHRoKX1mdW5jdGlvbiBiKGEpe2Z1bmN0aW9uIGIoYSl7Zm9yKHZhciBjPTAs
+Zj0wO2E7KWMrPXBhcnNlSW50KGEub2Zmc2V0VG9wKSxmKz1wYXJzZUludChhLm9m
+ZnNldExlZnQpLGE9YS5vZmZzZXRQYXJlbnQ7cmV0dXJue3RvcDpjLGxlZnQ6Zn19
+ZnVuY3Rpb24gZihhKXt2YXIgYT1hLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLGI9
+Yy5ib2R5LGc9Yy5kb2N1bWVudEVsZW1lbnQsdz1hLmxlZnQrKGUucGFnZVhPZmZz
+ZXR8fGcuc2Nyb2xsTGVmdHx8Yi5zY3JvbGxMZWZ0KS0oZy5jbGllbnRMZWZ0fHxi
+LmNsaWVudExlZnR8fDApO3JldHVybnt0b3A6TWF0aC5yb3VuZChhLnRvcCsoZS5w
+YWdlWU9mZnNldHx8Zy5zY3JvbGxUb3B8fGIuc2Nyb2xsVG9wKS0oZy5jbGllbnRU
+b3B8fApiLmNsaWVudFRvcHx8MCkpLGxlZnQ6TWF0aC5yb3VuZCh3KX19cmV0dXJu
+IGEuZ2V0Qm91bmRpbmdDbGllbnRSZWN0P2YoYSk6YihhKX1mdW5jdGlvbiBmKGEp
+e3JldHVybiBhLnRvU3RyaW5nKCkudG9VcHBlckNhc2UoKX1mdW5jdGlvbiBsKGEp
+e3JldHVybiBhJiYoYT0iIithLmNsYXNzTmFtZSkmJi0xIT1hLnNlYXJjaCgveW0t
+Y2xpY2ttYXAtaWdub3JlLyk/ITA6ITF9ZnVuY3Rpb24gaChhKXtpZihudWxsPT1h
+LnBhZ2VYJiZudWxsIT1hLmNsaWVudFgpe3ZhciBiPWMuZG9jdW1lbnRFbGVtZW50
+LGY9Yy5ib2R5O2EucGFnZVg9YS5jbGllbnRYKyhiJiZiLnNjcm9sbExlZnR8fGYm
+JmYuc2Nyb2xsTGVmdHx8MCktKGIuY2xpZW50TGVmdHx8MCk7YS5wYWdlWT1hLmNs
+aWVudFkrKGImJmIuc2Nyb2xsVG9wfHxmJiZmLnNjcm9sbFRvcHx8MCktKGIuY2xp
+ZW50VG9wfHwwKX1yZXR1cm57eDphLnBhZ2VYLHk6YS5wYWdlWX19ZnVuY3Rpb24g
+aShhKXtmb3IodmFyIGI9ZihhLm5vZGVOYW1lKTthLnBhcmVudE5vZGUmJgoiQk9E
+WSIhPWImJiJIVE1MIiE9Yjspe2lmKCJBIj09Ynx8IklOUFVUIj09Ynx8IlRFWFRB
+UkVBIj09YilyZXR1cm4hMDthPWEucGFyZW50Tm9kZTtiPWEubm9kZU5hbWV9cmV0
+dXJuITF9Zm9yKHZhciBrPXRoaXMsbj0wLEM9bnVsbCx1PSJBLEIsQklHLEJPRFks
+QlVUVE9OLERELERJVixETCxEVCxFTSxGSUVMRFNFVCxGT1JNLEgxLEgyLEgzLEg0
+LEg1LEg2LEhSLEksSU1HLElOUFVULExJLE9MLFAsUFJFLFNFTEVDVCxTTUFMTCxT
+UEFOLFNUUk9ORyxTVUIsU1VQLFRBQkxFLFRCT0RZLFRELFRFWFRBUkVBLFRGT09U
+LFRILFRIRUFELFRSLFUsVUwsQUJCUixBUkVBLEJMT0NLUVVPVEUsQ0FQVElPTixD
+RU5URVIsQ0lURSxDT0RFLENBTlZBUyxERk4sRU1CRUQsRk9OVCxJTlMsS0JELExF
+R0VORCxMQUJFTCxNQVAsT0JKRUNULFEsUyxTQU1QLFNUUklLRSxUVCxBUlRJQ0xF
+LEFVRElPLEFTSURFLEZPT1RFUixIRUFERVIsTUVOVSxNRVRFUixOQVYsUFJPR1JF
+U1MsU0VDVElPTixUSU1FLFZJREVPLE5PSU5ERVgsTk9CUiIuc3BsaXQoIiwiKSwK
+cj01OSx2PVN0cmluZy5mcm9tQ2hhckNvZGUseD17fSxFPTA7RTx1Lmxlbmd0aDtF
+KyspeFt1W0VdXT12KHIpLHYocikscisrO3RoaXMuaGFuZGxlcj1mdW5jdGlvbihh
+KXt2YXIgdT1jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJib2R5IilbMF07aWYoIWUu
+eW1EaXNhYmxlZENsaWNrbWFwJiYhbCh1KSl7aWYoay5fcHJlZnMuaGFzUXVvdGEp
+e2lmKCFrLl9wcmVmcy5xdW90YSlyZXR1cm47ay5fcHJlZnMucXVvdGEtLX12YXIg
+dj1hLnRhcmdldHx8YS5zcmNFbGVtZW50O2lmKDM9PXYubm9kZVR5cGUpdj12LnBh
+cmVudE5vZGU7dmFyIHU9Zih2Lm5vZGVOYW1lKSxwPWgoYSkscztpZighYS53aGlj
+aCYmYS5idXR0b24hPT1rYSlhLndoaWNoPWEuYnV0dG9uJjE/MTphLmJ1dHRvbiYy
+PzM6YS5idXR0b24mND8yOjA7cz1hLndoaWNoO2lmKCEocz0oMj09c3x8Mz09cykm
+JiJBIiE9dSkpcz12Lm9mZnNldEhlaWdodCxzPTA9PT12Lm9mZnNldFdpZHRoJiYw
+PT09c3x8di5zdHlsZSYmIm5vbmUiPT09CnYuc3R5bGUuZGlzcGxheTtpZighcyl7
+Yjp7Zm9yKHM9djtzLnBhcmVudE5vZGU7KXtpZihsKHMpKXtzPSEwO2JyZWFrIGJ9
+cz1zLnBhcmVudE5vZGV9cz0hMX1pZighcyl7Yjp7cz1rLl9wcmVmcy5pZ25vcmVU
+YWdzO2Zvcih2YXIgcj0wO3I8cy5sZW5ndGg7cisrKWlmKGYoc1tyXSk9PWYodSkp
+e3M9ITA7YnJlYWsgYn1zPSExfXM9c3x8IWsuX3ByZWZzLmZpbHRlcih2LHUpfWlm
+KCFzKXt1PStuZXcgRGF0ZTt2PXtkb206dix4OnAueCx5OnAueSx0aW1lOnV9O2lm
+KHA9NTA8dS1uKWlmKCEocD0hay5fcHJlZnMuaWdub3JlU2FtZUNsaWNrcykpe2lm
+KHA9Qyl7cz1NYXRoLmFicyhwLngtdi54KTt2YXIgcj1NYXRoLmFicyhwLnktdi55
+KSxvPXYudGltZS1wLnRpbWUscD1wLmRvbT09di5kb20mJjI+cyYmMj5yJiYxRTM+
+bz8hMDohMX1lbHNlIHA9ITE7cD0hcH1pZihwJiYiTWV0cmlrYVBsYXllciIhPWUu
+bmFtZSl7cz1oKGEpO3A9cy54O3M9cy55O3ZhciBvPWEudGFyZ2V0fHxhLnNyY0Vs
+ZW1lbnQsCnQ9ay5fcHJlZnMsRT1iKG8pLHo9IiIscj1xKCkuaHJlZjtzd2l0Y2go
+dC5tb2RlKXtjYXNlICJmaXhlZCI6ej0iMCI7aShvKSYmKHorPSJ1Iik7YnJlYWs7
+Y2FzZSAiY2VudGVyZWQiOno9IjEiO0U9TWF0aC5mbG9vcihnKCkvMik7cD1wPkU/
+cC1FKzMyNzY4OnA7aShvKSYmKHorPSJ1Iik7YnJlYWs7ZGVmYXVsdDp6PWYoby5u
+b2RlTmFtZSk7ej0iQk9EWSI9PXp8fCJIVE1MIj09ej9nKCk6by5vZmZzZXRXaWR0
+aDt0PWYoby5ub2RlTmFtZSk7IkJPRFkiPT10fHwiSFRNTCI9PXQ/KHQ9Yy5kb2N1
+bWVudEVsZW1lbnQsdD1NYXRoLm1heCh0LnNjcm9sbEhlaWdodCxjLmJvZHkuc2Ny
+b2xsSGVpZ2h0LHQuY2xpZW50SGVpZ2h0KSk6dD1vLm9mZnNldEhlaWdodDt6fHwo
+ej0xKTt0fHwodD0xKTtwPU1hdGguZmxvb3IoNjU1MzUqKHAtRS5sZWZ0KS96KTtz
+PU1hdGguZmxvb3IoNjU1MzUqKHMtRS50b3ApL3QpO2ZvcihFPSIiO28ucGFyZW50
+Tm9kZSYmIkJPRFkiIT1mKG8ubm9kZU5hbWUpJiYKIkhUTUwiIT1mKG8ubm9kZU5h
+bWUpOyl7RSs9eFtvLm5vZGVOYW1lXXx8IioiO2I6e2Zvcih2YXIgej1vLnBhcmVu
+dE5vZGUsQT10PTA7QTx6LmNoaWxkTm9kZXMubGVuZ3RoO0ErKylpZihvLm5vZGVO
+YW1lPT16LmNoaWxkTm9kZXNbQV0ubm9kZU5hbWUpe2lmKG89PXouY2hpbGROb2Rl
+c1tBXSl7ej10O2JyZWFrIGJ9dCsrfXo9MH1FKz16fHwiIjtvPW8ucGFyZW50Tm9k
+ZX16PUIoRSwxMjgpfVB8fChyPXI/ci5yZXBsYWNlKC9cIy4qJC8sIiIpOnIpOyJm
+dW5jdGlvbiI9PXR5cGVvZiBrLl9wcmVmcy51cmxGaWx0ZXImJihyPWsuX3ByZWZz
+LnVybEZpbHRlcihyKSk7cD1vYShlYixbInBhZ2UtdXJsIixCKHIsYWEpLCJwb2lu
+dGVyLWNsaWNrIiwieDoiK3ArIjp5OiIrcysiOnQ6IitNYXRoLmZsb29yKE1hdGgu
+Zmxvb3IoK25ldyBEYXRlLXNiKS8xMDApKyI6cDoiK3pdKTsobmV3IEltYWdlKS5z
+cmM9cDt5KHApO2lmKHA9YS50YXJnZXR8fGEuc3JjRWxlbWVudCl7aWYoMz09cC5u
+b2RlVHlwZSlwPQpwLnBhcmVudE5vZGU7Zm9yKHM9ZihwLm5vZGVOYW1lKTtwLnBh
+cmVudE5vZGUmJnAucGFyZW50Tm9kZS5ub2RlTmFtZSYmKCJBIiE9cyYmIkFSRUEi
+IT1zfHwhcC5ocmVmKTspcD1wLnBhcmVudE5vZGUscz1mKHAubm9kZU5hbWUpO3A9
+IXAuaHJlZj8hMTpwfWVsc2UgcD0hMTtwJiZuYShhLHApJiZZKGsuX3ByZWZzLmRl
+bGF5KX1uPXU7Qz12fX19fTt0aGlzLnNldFByZWZzPWZ1bmN0aW9uKGEpe2Z1bmN0
+aW9uIGIoKXtyZXR1cm4hMH10aGlzLl9wcmVmcz0idW5kZWZpbmVkIj09dHlwZW9m
+IGF8fCExPT09YXx8ITA9PT1hP3tmaWx0ZXI6YixpZ25vcmVUYWdzOltdLG1vZGU6
+IiIsZGVsYXk6amEscXVvdGE6MCxoYXNRdW90YTohMSxpZ25vcmVTYW1lQ2xpY2tz
+OiEwfTp7ZmlsdGVyOmEuZmlsdGVyfHxiLGlnbm9yZVRhZ3M6YS5pZ25vcmVUYWdz
+fHxbXSxtb2RlOmEubW9kZXx8IiIsZGVsYXk6InVuZGVmaW5lZCI9PXR5cGVvZiBh
+LmRlbGF5P2phOmEuZGVsYXkscXVvdGE6YS5xdW90YXx8CjAsaGFzUXVvdGE6ISFh
+LnF1b3RhLGlnbm9yZVNhbWVDbGlja3M6InVuZGVmaW5lZCI9PXR5cGVvZiBhLmln
+bm9yZVNhbWVDbGlja3M/ITA6ITEsdXJsRmlsdGVyOmEudXJsRmlsdGVyfX07dGhp
+cy51cGRhdGVTdGF0dXM9ZnVuY3Rpb24oYSl7c3dpdGNoKHR5cGVvZiBhKXtjYXNl
+ICJ1bmRlZmluZWQiOnRoaXMuc3RhcnQoITApO2JyZWFrO2Nhc2UgImJvb2xlYW4i
+OmE/dGhpcy5zdGFydChhKTp0aGlzLnN0b3AoKTticmVhaztjYXNlICJvYmplY3Qi
+OnRoaXMuc3RhcnQoYSl9fTt0aGlzLl9zdGFydD0hMTt0aGlzLnN0YXJ0PWZ1bmN0
+aW9uKGEpe3RoaXMuc2V0UHJlZnMoYSk7dGhpcy5fc3RhcnR8fG8oYywiY2xpY2si
+LHRoaXMuaGFuZGxlcik7dGhpcy5fc3RhcnQ9ITB9O3RoaXMuc3RvcD1mdW5jdGlv
+bigpe3RoaXMuX3N0YXJ0JiZ0KGMsImNsaWNrIix0aGlzLmhhbmRsZXIpO3RoaXMu
+X3N0YXJ0PSExfTt0aGlzLnN0YXJ0KGEpfXZhciBuPXRoaXMsemE9TWF0aC5yb3Vu
+ZCgxMDczNzQxODI0KgpNYXRoLnJhbmRvbSgpKSxBYT0iIixnYT1SLmhyZWYsTWE9
+Ui5ocmVmLE5hPSIiO2lmKCFZYS5fbWV0cmlrYS5jb3VudGVyKVlhLl9tZXRyaWth
+LmNvdW50ZXI9bjt2YXIgSDtpZigib2JqZWN0Ij09dHlwZW9mIEMpSD1DLEE9Qy5k
+ZWZlcixBYT1DLnV0LGs9Qy50eXBlLEk9Qy5wYXJhbXMsQz1DLmlkO3ZhciBDPUN8
+fDAsaz1rfHwwLE9hPSIvL21jLnlhbmRleC5ydS93YXRjaC8iLGViPSIvL21jLnlh
+bmRleC5ydS9jbG1hcC8iLFY9W10sQmE9bnVsbCxDYT1udWxsLGhhPW51bGwsRD1u
+ZXcgZnVuY3Rpb24oYSxjKXtmdW5jdGlvbiBiKGEsYixjKXtpZihpKWYoYSxiLGMp
+O2Vsc2V7aWYoIlhNTEh0dHBSZXF1ZXN0ImluIGUpe3ZhciBnPW5ldyBYTUxIdHRw
+UmVxdWVzdDtpZigid2l0aENyZWRlbnRpYWxzImluIGcpe3ZhciBoPWM/IlBPU1Qi
+OiJHRVQiLGE9bChhLGIsIlBPU1QiPT1oPzE6MCk7Zy5vcGVuKGgsYSwhMCk7Zy53
+aXRoQ3JlZGVudGlhbHM9ITA7IlBPU1QiPT1oJiYiW29iamVjdCBuc1hQQ0NvbXBv
+bmVudHNdIiE9CiIiK2UuQ29tcG9uZW50cyYmZy5zZXRSZXF1ZXN0SGVhZGVyKCJD
+b250ZW50LVR5cGUiLCJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQi
+KTtnLnNlbmQoIlBPU1QiPT1oP1phKGMpOm51bGwpO3JldHVybn19Zm9yKGggaW4g
+YyljLmhhc093blByb3BlcnR5KGgpJiYoYltoXT1jW2hdKTsobmV3IEltYWdlKS5z
+cmM9bChhLGIsMCl9fWZ1bmN0aW9uIGYoYSxiLGMpe3ZhciBmPSJpZnIiK01hdGgu
+cm91bmQoMUUxMCpNYXRoLnJhbmRvbSgpKSxlPWkuY3JlYXRlRWxlbWVudCgiZGl2
+IiksYT1bJzxpZnJhbWUgbmFtZT0iJyxmLCciPjwvaWZyYW1lPicsJzxmb3JtIGFj
+dGlvbj0iJyxsKGEsYiwwKSwnIiBtZXRob2Q9InBvc3QiIHRhcmdldD0iJyxmLCci
+IGVuY3R5cGU9ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCI+J10s
+Zztmb3IoZyBpbiBjKWMuaGFzT3duUHJvcGVydHkoZykmJkYoYSwnPHRleHRhcmVh
+IG5hbWU9IicsZywnIj4nLGNbZ10sIjwvdGV4dGFyZWE+Iik7CkYoYSwiPC9mb3Jt
+PiIpO2UuaW5uZXJIVE1MPWEuam9pbigiIik7aS5ib2R5LmFwcGVuZENoaWxkKGUp
+O2UuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImZvcm0iKVswXS5zdWJtaXQoKTtzZXRU
+aW1lb3V0KGZ1bmN0aW9uKCl7aS5ib2R5LnJlbW92ZUNoaWxkKGUpfSwxRTQpfWZ1
+bmN0aW9uIGwoYixmLGUpe2ZbImJyb3dzZXItaW5mbyJdPVsiY3QiLGUsZlsiYnJv
+d3Nlci1pbmZvIl1dLmpvaW4oIjoiKTtyZXR1cm4iLy8iK2ErIi8iK2IrIi8iK2Mr
+Ij8iK1phKGYpfWZ1bmN0aW9uIGgoKXtpZihlLkFjdGl2ZVhPYmplY3Qpe3ZhciBh
+PW5ldyBBY3RpdmVYT2JqZWN0KCJodG1sZmlsZSIpO2Eub3BlbigpO2Eud3JpdGUo
+IjxodG1sPjxib2R5PjwvYm9keT48L2h0bWw+Iik7YS5jbG9zZSgpO3JldHVybiBh
+fXJldHVybiBudWxsfXRyeXt2YXIgaT1oKCl9Y2F0Y2goayl7fXZhciBuPSIiLG89
+W107cmV0dXJue3NlbmQ6ZnVuY3Rpb24oYSxjLGYsZSl7YT9uPy0xPG4uaW5kZXhP
+ZigifCIrYSsifCIpJiYKYihjLGYsZSk6RihvLGFyZ3VtZW50cyk6YihjLGYsZSl9
+LGluaXQ6ZnVuY3Rpb24oYSl7bj0ifCIrYS5qb2luKCJ8IikrInwiO2ZvcihhPTA7
+YTxvLmxlbmd0aDthKyspLTE8bi5pbmRleE9mKCJ8IitvW2FdWzBdKyJ8IikmJmIo
+b1thXVsxXSxvW2FdWzJdLG9bYV1bM10pO28ubGVuZ3RoPTB9fX0oIm1jLnlhbmRl
+eC5ydSIsQyk7bi5yZWFjaEdvYWw9ZnVuY3Rpb24oYSxlKXt2YXIgYj1hPyJnb2Fs
+Oi8vIitxKCkuaG9zdG5hbWUrIi8iK2E6cSgpLmhyZWYsZj1lYSgpLGk9YT9xKCku
+aHJlZjpjLnJlZmVycmVyO00oYixmLGksZSx7YXI6ITAsaXNEZWxheTphPyEwOiEx
+LGRlbGF5OjEwMH0pO3JldHVybiEwfTt2YXIgTjtuLnRyYWNrTGlua3M9aTtuLmhp
+dD1mdW5jdGlvbihhLGMsYixmLGUpe2EmJk0oYSxjLGIsZix7dXQ6ZSxhcjohMCxz
+YXZlUmVmOiEwfSl9O24ucGFyYW1zPWZ1bmN0aW9uKGEpe2lmKGEpe3ZhciBjPWFy
+Z3VtZW50cy5sZW5ndGg7aWYoMTxjKXtmb3IodmFyIGI9e30sCmY9YixlPTA7ZTxj
+LTE7ZSsrKXt2YXIgaD0iIithcmd1bWVudHNbZV07ZltoXT17fTtlPGMtMiYmKGY9
+ZltoXSl9ZltoXT1hcmd1bWVudHNbYy0xXTthPWJ9TSgiIiwiIiwiIixhLHthcjoh
+MCxwYTohMCxvbmx5RGF0YTohMH0pfX07bi5maWxlPWZ1bmN0aW9uKGEsYyxiLGYp
+e2EmJk0oYSwiIixxKCkuaHJlZixmLHthcjohMCxsbjohMCxkbDohMH0pfTtuLmV4
+dExpbms9ZnVuY3Rpb24oYSxjLGIsZil7YSYmTShhLCIiLHEoKS5ocmVmLGYse2Fy
+OiEwLGxuOiEwLHV0OmlhfSl9O24ubm90Qm91bmNlPWZ1bmN0aW9uKCl7TSgiIiwi
+IiwiIixudWxsLHthcjohMCxuYjohMCxvbmx5RGF0YTohMH0pfTt2YXIgTz1bXTtu
+LmFkZEZpbGVFeHRlbnNpb249ZnVuY3Rpb24oYSl7InN0cmluZyI9PXR5cGVvZiBh
+P08ucHVzaChhKTpPPU8uY29uY2F0KGEpfTtuLmNsaWNrbWFwPWZ1bmN0aW9uKGEp
+e24uX2NsaWNrbWFwP24uX2NsaWNrbWFwLnVwZGF0ZVN0YXR1cyhhKTpuLl9jbGlj
+a21hcD1uZXcgVmIoYSl9Owp2YXIgRGE9ITE7bi5hY2N1cmF0ZVRyYWNrQm91bmNl
+PWZ1bmN0aW9uKGEpe2Z1bmN0aW9uIGUoKXtuLm5vdEJvdW5jZSgpfURhfHwoRGE9
+ITAscmEoYy5yZWZlcnJlcixxKCkuaHJlZil8fCgibnVtYmVyIiE9dHlwZW9mIGEm
+JihhPTE1RTMpLCQ/c2V0VGltZW91dChlLGEpOkpiKGUsYSkpKX07dmFyIEVhPW51
+bGwsUD0hMTtuLnRyYWNrSGFzaD1mdW5jdGlvbihhKXshMT09PWE/UCYmKCJvbmhh
+c2hjaGFuZ2UiaW4gZT90KGUsImhhc2hjaGFuZ2UiLHlhKTpjbGVhckludGVydmFs
+KEVhKSxQPSExKTpQfHwoIm9uaGFzaGNoYW5nZSJpbiBlP28oZSwiaGFzaGNoYW5n
+ZSIseWEpOkxhKHlhKSxQPSEwKTtuLl90cmFja0hhc2g9UH07bi52aWRlbz1mdW5j
+dGlvbihhLGMsYixmKXt2YXIgZT1bImVuZCIsInBsYXkiLCJwYXVzZSIsInNlZWsi
+XTtpZihhJiZiKXthOntmb3IodmFyIGg9MCxpPWUubGVuZ3RoO2g8aTtoKz0xKWlm
+KGE9PT1lW2hdKXtlPWg7YnJlYWsgYX1lPSExfSExIT09ZSYmTShiLApmfHwiIiwi
+IixudWxsLHthcjohMCx2YTphLHZ0On5+Y30pfX07bi5zb2NpYWw9ZnVuY3Rpb24o
+YSxjLGIpe2EmJmMmJk0oYnx8cSgpLmhyZWYsIiIsIiIsbnVsbCx7YXI6ITAsc246
+QihhLDY0KSxzYTpCKGMsNjQpfSl9O24uZW5hYmxlQWxsPWZ1bmN0aW9uKCl7bi50
+cmFja0xpbmtzKCEwKTtuLmNsaWNrbWFwKCEwKTtuLmFjY3VyYXRlVHJhY2tCb3Vu
+Y2UoKX07bi5wYXVzZT1ZO24udXBsb2FkUGFnZT1mdW5jdGlvbigpe307QyYmeCgp
+fTtlLnlhX2NpZCYmbmV3IFlhLk1ldHJpa2EoZS55YV9jaWQsZS55YV9wYXJhbXMs
+ZS55YV9jbGFzcyk7aWYoZS55YV9jaWQmJiFlLnlhX2hpdCllLnlhX2hpdD1mdW5j
+dGlvbihjLGUpe1lhLl9tZXRyaWthLmNvdW50ZXImJllhLl9tZXRyaWthLmNvdW50
+ZXIucmVhY2hHb2FsKGMsZSl9O3ZhciBMPWUueWFuZGV4X21ldHJpa2FfY2FsbGJh
+Y2ssST1lLnlhbmRleF9tZXRyaWthX2NhbGxiYWNrczsiZnVuY3Rpb24iPT10eXBl
+b2YgTCYmTCgpO2lmKCJvYmplY3QiPT0KdHlwZW9mIEkpZm9yKEw9MDtMPEkubGVu
+Z3RoO0wrKyl7dmFyIHJhPUlbTF07cmEmJihJW0xdPW51bGwscmEoKSl9WSgieWFu
+ZGV4X21ldHJpa2FfY2FsbGJhY2siKTtZKCJ5YW5kZXhfbWV0cmlrYV9jYWxsYmFj
+a3MiKTtJPVIuaHJlZjstMSE9SS5zZWFyY2goInltX3BsYXliYWNrPWxpbmttYXAi
+KT9tYSgibGlua21hcCIpOi0xIT1JLnNlYXJjaCgieW1fcGxheWJhY2s9Y2xpY2tt
+YXAiKSYmbWEoImNsaWNrbWFwIik7ZS5ZYS5NZXRyaWthLmluZm9ybWVyPWZ1bmN0
+aW9uKGMpe3ZhciBlPSEhWWEuTWV0cmlrYS5faW5mb3JtZXI7WWEuTWV0cmlrYS5f
+aW5mb3JtZXI9YztlfHxiYSh2YSsiLy9icy55YW5kZXgucnUvbWV0cmlrYS9pbmZv
+cm1lci5qcyIpfTtpZih0b3AhPWUmJnBhcmVudD09dG9wJiZlLnBvc3RNZXNzYWdl
+JiYhWWEuTWV0cmlrYV92aXNvclBsYXllck9uKXtZYS5NZXRyaWthX3Zpc29yUGxh
+eWVyT249ITA7ST1jLmNyZWF0ZUVsZW1lbnQoImRpdiIpO0kuaW5uZXJIVE1MPQon
+PGlmcmFtZSBuYW1lPSJSZW1vdGVJZnJhbWUiIGFsbG93dHJhbnNwYXJlbmN5PSJ0
+cnVlIiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyBsZWZ0OiAtOTk5cHg7IHRv
+cDogLTk5OXB4OyB3aWR0aDogMXB4OyBoZWlnaHQ6IDFweDsiPjwvaWZyYW1lPic7
+dmFyIHNhPUkuZmlyc3RDaGlsZDtzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7Yy5ib2R5
+Lmluc2VydEJlZm9yZShzYSxjLmJvZHkuZmlyc3RDaGlsZCk7dHJ5e3ZhciBlPXNh
+LmNvbnRlbnRXaW5kb3cuZG9jdW1lbnR9Y2F0Y2gocSl7fWUmJihlLm9wZW4oKSxl
+LndyaXRlKCc8IWRvY3R5cGUgaHRtbD48aHRtbD48aGVhZD48bWV0YSBodHRwLWVx
+dWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9IklFPUVtdWxhdGVJRTcsSUU9
+ZWRnZSIgLz48L2hlYWQ+PGJvZHk+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3Jp
+cHQiPnZhciBuZXd2ZXJzaW9uID0gdHJ1ZTt0cnkge2lmICh0b3AucG9zdE1lc3Nh
+Z2UpIHt3aW5kb3cub25tZXNzYWdlID0gZnVuY3Rpb24oZXZ0KSB7ZXZ0ID0gZXZ0
+IHx8IHdpbmRvdy5ldmVudDt0cnkge3ZhciBtZXNzYWdlID0gbmV3IEZ1bmN0aW9u
+KCJyZXR1cm4gIiArIGV2dC5kYXRhKSgpO30gY2F0Y2ggKGUpIHtyZXR1cm47fWlm
+ICgvKF58XFwuKXlhbmRleFxcLihydXxjb218dWF8a3p8Ynl8Y29tXFwudHIpKDpc
+XGR7NH0pPyQvLnRlc3QoZXZ0Lm9yaWdpbikgJiYgbWVzc2FnZS5uYW1lID09ICJz
+Y3JpcHQiICYmIG1lc3NhZ2UuZGF0YSkge3ZhciBoZWFkID0gZG9jdW1lbnQuZ2V0
+RWxlbWVudHNCeVRhZ05hbWUoImhlYWQiKVswXTt2YXIgYmFzZSA9IGRvY3VtZW50
+LmNyZWF0ZUVsZW1lbnQoImJhc2UiKTtiYXNlLmhyZWYgPSBtZXNzYWdlLmRhdGE7
+aGVhZC5hcHBlbmRDaGlsZChiYXNlKTt2YXIgc2NyaXB0ID0gZG9jdW1lbnQuY3Jl
+YXRlRWxlbWVudCgic2NyaXB0Iik7c2NyaXB0LnNyYyA9IG1lc3NhZ2UuZGF0YTto
+ZWFkLmFwcGVuZENoaWxkKHNjcmlwdCk7cGFyZW50LnJlbW92ZUV2ZW50TGlzdGVu
+ZXIoIm1lc3NhZ2UiLCB3aW5kb3cub25tZXNzYWdlLCBmYWxzZSk7d2luZG93Lm9u
+bWVzc2FnZSA9IG51bGw7fX07aWYgKG5hdmlnYXRvci51c2VyQWdlbnQuaW5kZXhP
+ZigiRmlyZWZveC8zLjYuIikgPiAtMSkge3BhcmVudC5hZGRFdmVudExpc3RlbmVy
+KCJtZXNzYWdlIiwgd2luZG93Lm9ubWVzc2FnZSwgZmFsc2UpO310b3AucG9zdE1l
+c3NhZ2UoXCd7Im5hbWUiOiJwaW5nIn1cJywgIioiKTt9fSBjYXRjaCAoZSkge308
+XC9zY3JpcHQ+PC9ib2R5PjwvaHRtbD4nKSwKZS5jbG9zZSgpKX0sMjAwKX19KSh0
+aGlzLHRoaXMuZG9jdW1lbnQpOwo=
+
+------------NRetR0tYc677hdOXPI0EoB--
